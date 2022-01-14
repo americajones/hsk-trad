@@ -48,195 +48,8 @@ let gZhuyinArray = [];
 let gExplanationArray = [];
 let gPatternsArray = [];
 
-function getGrammar() {
-    grammarArray = [];
-    gMeaningsArray = [];
-    gZhuyinArray = [];
-    gExplanationArray = [];
-    gPatternsArray = [];
-    pageHeader.textContent = "";
-    pageHeader.textContent = "語法";
-    quizStudyBox.classList.add('hidden');
-    sentenceBox.classList.remove('hidden');
-    hanziWriteBox.classList.add('hidden');
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    removeAllChildren(sentenceBox);
-    for (var [gramm, value] of Object.entries(A1grammar)) {
-        grammarArray.push(gramm);
-        gZhuyinArray.push(value.zhuyin);
-        gMeaningsArray.push(value.english);
-        gExplanationArray.push(value.explanation);
-        gPatternsArray.push(value.pattern);
-        let nuDiv = document.createElement('div');
-        let nuDivTit = document.createElement('h2');
-        let nuDivTit2 = document.createElement('h2');
-        let nuTxt = document.createElement('p');
-        let nuTxt2 = document.createElement('p');
-        nuDivTit.textContent = gramm;
-        nuDivTit2.textContent = value.pattern;
-        nuTxt.textContent = value.zhuyin;
-        nuTxt2.textContent = value.explanation;
-        nuDivTit.classList.add('light');
-        nuDivTit2.classList.add('light');
-        nuDivTit.classList.add('large');
-        nuDivTit.classList.add('cursive');
-        // nuDivTit2.classList.add('cursive');
-        nuDivTit2.classList.add('padding');
-        nuTxt.classList.add('center');
-        nuTxt.classList.add('faded');
-        nuTxt2.classList.add('left');
-        nuDiv.append(nuDivTit);
-        nuDiv.append(nuTxt);
-        nuDiv.append(nuDivTit2);
-        nuDiv.append(nuTxt2);
-        flashBox2.append(nuDiv);
-        nuDiv.classList.add('grammBox');
-    }
-};
-function getIdioms() {
-    grammarArray = [];
-    gMeaningsArray = [];
-    gZhuyinArray = [];
-    gExplanationArray = [];
-    gPatternsArray = [];
-    pageHeader.textContent = "";
-    pageHeader.textContent = "成語";
-    quizStudyBox.classList.add('hidden');
-    sentenceBox.classList.remove('hidden');
-    hanziWriteBox.classList.add('hidden');
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    removeAllChildren(sentenceBox);
-    for (var [idiom, value] of Object.entries(idioms)) {
-        grammarArray.push(idiom);
-        gZhuyinArray.push(value.zhuyin);
-        gMeaningsArray.push(value.english);
-        gExplanationArray.push(value.explanation);
-        gPatternsArray.push(value.pattern);
-        let nuDiv = document.createElement('div');
-        let nuDivTit = document.createElement('h1');
-        let nuDivTit2 = document.createElement('h3');
-        let nuTxt = document.createElement('p');
-        let nuTxt2 = document.createElement('p');
-        nuDivTit.textContent = idiom;
-        nuDivTit2.textContent = value.literal;
-        nuTxt.textContent = value.zhuyin;
-        nuTxt2.textContent = value.meaning;
-        // nuDivTit.classList.add('light');
-        nuDivTit2.classList.add('small');
-        nuDivTit.classList.add('cursive');
-        nuDivTit.classList.add('large');
-        // nuDivTit2.classList.add('cursive');
-        nuDivTit2.classList.add('padding');
-        // nuTxt.classList.add('center');
-        nuTxt.classList.add('faded');
-        nuTxt.classList.remove('cursive');
-        nuTxt2.classList.add('left');
-        nuDiv.append(nuDivTit);
-        nuDiv.append(nuTxt);
-        nuDiv.append(nuDivTit2);
-        nuDiv.append(nuTxt2);
-        flashBox2.append(nuDiv);
-        nuDiv.classList.add('grammBox');
-    }
-};
-function getMeasureWords() {
-    grammarArray = [];
-    gMeaningsArray = [];
-    gZhuyinArray = [];
-    gExplanationArray = [];
-    gPatternsArray = [];
-    pageHeader.textContent = "";
-    pageHeader.textContent = "量詞";
-    quizStudyBox.classList.add('hidden');
-    sentenceBox.classList.remove('hidden');
-    hanziWriteBox.classList.add('hidden');
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    removeAllChildren(sentenceBox);
-    for (var [word, value] of Object.entries(measureWords)) {
-        grammarArray.push(word);
-        gZhuyinArray.push(value.zhuyin);
-        gMeaningsArray.push(value.english);
-        let nuDiv = document.createElement('div');
-        let nuDivTit = document.createElement('h1');
-        let nuDivTit2 = document.createElement('h3');
-        let nuTxt = document.createElement('p');
-        let nuTxt2 = document.createElement('p');
-        let nuTxt3 = document.createElement('p');
-        nuDivTit.textContent = word;
-        nuTxt.textContent = value.zhuyin;
-        nuTxt2.textContent = value.english;
-        // nuDivTit.classList.add('light');
-        nuDivTit2.classList.add('small');
-        nuDivTit.classList.add('cursive');
-        nuDivTit.classList.add('large');
-        nuTxt3.textContent = value.simplified;
-        nuTxt3.classList.add('semifaded');
-        nuTxt3.classList.add('simplified');
-        // nuDivTit2.classList.add('cursive');
-        // nuTxt.classList.add('center');
-        nuTxt.classList.add('faded');
-        nuTxt.classList.remove('cursive');
-        nuDiv.append(nuDivTit);
-        nuDiv.append(nuTxt);
-        nuDiv.append(nuDivTit2);
-        nuDiv.append(nuTxt2);
-        nuDiv.append(nuTxt3);
-        flashBox2.append(nuDiv);
-        nuDiv.classList.add('radicalFlashcards');
-    }
-};
-function getSentences() {
-    sentencesArray = [];
-    sMeaningsArray = [];
-    sZhuyinArray = [];
-    pageHeader.textContent = "";
-    pageHeader.textContent = "句子";
-    quizStudyBox.classList.add('hidden');
-    sentenceBox.classList.remove('hidden');
-    hanziWriteBox.classList.add('hidden');
-    removeAllChildren(sentenceBox);
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    for (var [sentence, value] of Object.entries(A1sentences)) {
-        sentencesArray.push(sentence);
-        sZhuyinArray.push(value.zhuyin);
-        sMeaningsArray.push(value.english);
-        let nuDiv = document.createElement('div');
-        let nuNuDiv = document.createElement('div');
-        let nuDivTit = document.createElement('h2');
-        let nuTxt = document.createElement('p');
-        let nuTxt2 = document.createElement('p');
-        nuDivTit.textContent = sentence;
-        nuTxt.textContent = value.zhuyin;
-        nuTxt2.textContent = value.english;
-        nuNuDiv.classList.add('group');
-        nuDiv.classList.add('sentenceSingle');
-        nuDivTit.classList.add('sentence');
-        nuDivTit.classList.add('cursive');
-        nuDivTit.classList.add('center');
-        nuTxt.classList.add('opacity');
-        nuTxt.classList.add('zhuyin');
-        nuTxt2.classList.add('opacity');
-        // nuTxt.classList.add('center');
-        nuTxt2.classList.add('center');
-        nuNuDiv.append(nuDivTit);
-        nuNuDiv.append(nuTxt);
-        nuDiv.append(nuNuDiv, nuTxt2);
-        sentenceBox.append(nuDiv);
-        nuDivTit.addEventListener('click', function () {
-            nuTxt.classList.toggle('opacity');
-            nuTxt2.classList.toggle('opacity');
-        })
 
-    };
-};
+
 function loadZhuyinRadicalFlashcards() {
     pageHeader.textContent = "";
     pageHeader.textContent = "方字";
@@ -307,58 +120,7 @@ function returnNumberArray(num) {
     let numberArr = new Array(num);
     return numberArr;
 };
-function loadHanziFlashcards() {
-    let numberrr = 0;
-    pageHeader.textContent = "";
-    pageHeader.textContent = "方字";
-    quizStudyBox.classList.add('hidden');
-    hanziWriteBox.classList.add('hidden');
-    sentenceBox.classList.add('hidden');
-    let hanziCharArray = [];
-    let hanziZhuyinArray = [];
-    let hanziMeaningsArray = [];
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    for (var [hanzi, value] of Object.entries(hanziAll)) {
-        hanziCharArray.push(hanzi);
-        hanziZhuyinArray.push(value.zhuyin);
-        hanziMeaningsArray.push(value.english);
-        let nuDiv = document.createElement('div');
-        let nuDivTit = document.createElement('h2');
-        let nuTxt = document.createElement('p');
-        let nuTxt2 = document.createElement('p');
-        let nuTxt3 = document.createElement('p');
-        numberrr++;
-        let nuNumDiv = document.createElement('div');
-        nuNumDiv.classList.add('numLabel');
-        nuNumDiv.textContent = numberrr;
-        nuDivTit.textContent = hanzi;
-        nuTxt.textContent = value.zhuyin;
-        nuTxt2.textContent = value.english;
-        nuTxt3.textContent = value.simplified;
-        nuTxt3.classList.add('semifaded');
-        nuTxt3.classList.add('simplified');
-        nuTxt2.classList.add('small');
-        nuTxt2.classList.add('opacity');
-        nuTxt2.classList.add('pink');
-        nuDivTit.classList.add('cursive');
-        nuDivTit.classList.add('xlarge');
-        // nuTxt.classList.add('cursive');
-        nuTxt.classList.add('faded');
-        nuDiv.classList.add('radicalFlashcards');
-        nuDiv.addEventListener('click', toggleEnglish);
-        nuDiv.append(nuNumDiv);
-        nuDiv.append(nuDivTit);
-        nuDiv.append(nuTxt);
-        nuDiv.append(nuTxt2);
-        nuDiv.append(nuTxt3);
-        flashBox2.append(nuDiv);
-        function toggleEnglish() {
-            nuTxt2.classList.toggle('opacity');
-        }
-    };
-};
+
 function loadWordFlashcards(num) {
     let number = 0;
     pageHeader.textContent = "";
@@ -420,167 +182,7 @@ function loadWordFlashcards(num) {
         }
     }
 };
-function loadBookWordFlashcards() {
-    let number = 0;
-    pageHeader.textContent = "";
-    pageHeader.textContent = "方字";
-    quizStudyBox.classList.add('hidden');
-    hanziWriteBox.classList.add('hidden');
-    sentenceBox.classList.add('hidden');
-    let hanziCharArray = [];
-    let hanziZhuyinArray = [];
-    let hanziMeaningsArray = [];
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    let label = "";
-    for (var [word, value] of Object.entries(plecoLookupWords)) {
-        label = document.createElement('div');
-        let nuDiv = document.createElement('div');
-        let nuDivTit = document.createElement('h2');
-        let nuTxt = document.createElement('p');
-        let nuTxt2 = document.createElement('p');
-        number++;
-        let nuNumDiv = document.createElement('div');
-        nuNumDiv.classList.add('numLabel');
-        nuNumDiv.textContent = number;
-        nuDivTit.textContent = word;
-        nuTxt.textContent = value.zhuyin;
-        nuTxt2.textContent = value.english;
-        nuTxt2.classList.add('small');
-        nuTxt2.classList.add('opacity');
-        nuTxt2.classList.add('pink');
-        nuDivTit.classList.add('cursive');
-        nuDivTit.classList.add('large');
-        // nuTxt.classList.add('cursive');
-        nuTxt.classList.add('faded');
-        nuDiv.classList.add('radicalFlashcards');
-        nuDiv.addEventListener('click', toggleEnglish);
-        nuDiv.append(nuNumDiv);
-        nuDiv.append(nuDivTit);
-        nuDiv.append(nuTxt);
-        nuDiv.append(nuTxt2);
-        flashBox.append(nuDiv);
-        label.textContent = "Pleco";
-        label.classList.add('label');
-        label.classList.add('radicalFlashcards');
-        function toggleEnglish() {
-            nuTxt2.classList.toggle('opacity');
-        }
-    };
-    flashBox.prepend(label);
-    label = "";
-    number = 0;
-    for (var [word, value] of Object.entries(bookWordsGradedReaders)) {
-        label = document.createElement('div');
-        let nuDiv = document.createElement('div');
-        let nuDivTit = document.createElement('h2');
-        let nuTxt = document.createElement('p');
-        let nuTxt2 = document.createElement('p');
-        number++;
-        let nuNumDiv = document.createElement('div');
-        nuNumDiv.classList.add('numLabel');
-        nuNumDiv.textContent = number;
-        nuDivTit.textContent = word;
-        nuTxt.textContent = value.zhuyin;
-        nuTxt2.textContent = value.english;
-        nuTxt2.classList.add('small');
-        nuTxt2.classList.add('opacity');
-        nuTxt2.classList.add('pink');
-        nuDivTit.classList.add('cursive');
-        nuDivTit.classList.add('large');
-        // nuTxt.classList.add('cursive');
-        nuTxt.classList.add('faded');
-        nuDiv.classList.add('radicalFlashcards');
-        nuDiv.addEventListener('click', toggleEnglish);
-        nuDiv.append(nuNumDiv);
-        nuDiv.append(nuDivTit);
-        nuDiv.append(nuTxt);
-        nuDiv.append(nuTxt2);
-        flashBox2.append(nuDiv);
-        label.textContent = "Mandarin Graded Readers";
-        label.classList.add('label');
-        label.classList.add('radicalFlashcards');
-        function toggleEnglish() {
-            nuTxt2.classList.toggle('opacity');
-        }
-    };
-    flashBox2.prepend(label);
-    label = "";
-    number = 0;
-    for (var [word, value] of Object.entries(bookWordsRWC)) {
-        let nuDiv = document.createElement('div');
-        let nuDivTit = document.createElement('h2');
-        let nuTxt = document.createElement('p');
-        let nuTxt2 = document.createElement('p');
-        label = document.createElement('div');
-        number++;
-        let nuNumDiv = document.createElement('div');
-        nuNumDiv.classList.add('numLabel');
-        nuNumDiv.textContent = number;
-        nuDivTit.textContent = word;
-        nuTxt.textContent = value.zhuyin;
-        nuTxt2.textContent = value.english;
-        nuTxt2.classList.add('small');
-        nuTxt2.classList.add('opacity');
-        nuTxt2.classList.add('pink');
-        nuDivTit.classList.add('cursive');
-        nuDivTit.classList.add('large');
-        // nuTxt.classList.add('cursive');
-        nuTxt.classList.add('faded');
-        nuDiv.classList.add('radicalFlashcards');
-        nuDiv.addEventListener('click', toggleEnglish);
-        nuDiv.append(nuNumDiv);
-        nuDiv.append(nuDivTit);
-        nuDiv.append(nuTxt);
-        nuDiv.append(nuTxt2);
-        flashBox3.append(nuDiv);
-        label.classList.add('label');
-        label.classList.add('radicalFlashcards');
-        label.textContent = value.book;
-        function toggleEnglish() {
-            nuTxt2.classList.toggle('opacity');
-        }
-    };
-    flashBox3.prepend(label);
-    label = "";
-    number = 0;
-    for (var [word, value] of Object.entries(bookWordsCACG)) {
-        let nuDiv = document.createElement('div');
-        let nuDivTit = document.createElement('h2');
-        let nuTxt = document.createElement('p');
-        let nuTxt2 = document.createElement('p');
-        label = document.createElement('div');
-        number++;
-        let nuNumDiv = document.createElement('div');
-        nuNumDiv.classList.add('numLabel');
-        nuNumDiv.textContent = number;
-        nuDivTit.textContent = word;
-        nuTxt.textContent = value.zhuyin;
-        nuTxt2.textContent = value.english;
-        nuTxt2.classList.add('small');
-        nuTxt2.classList.add('opacity');
-        nuTxt2.classList.add('pink');
-        nuDivTit.classList.add('cursive');
-        // nuTxt.classList.add('cursive');
-        nuTxt.classList.add('faded');
-        nuDivTit.classList.add('large');
-        nuDiv.classList.add('radicalFlashcards');
-        nuDiv.addEventListener('click', toggleEnglish);
-        nuDiv.append(nuNumDiv);
-        nuDiv.append(nuDivTit);
-        nuDiv.append(nuTxt);
-        nuDiv.append(nuTxt2);
-        flashBox3.append(nuDiv);
-        label.classList.add('label');
-        label.classList.add('radicalFlashcards');
-        label.textContent = value.book;
-        function toggleEnglish() {
-            nuTxt2.classList.toggle('opacity');
-        }
-    };
-    flashBox3.append(label);
-};
+
 function makeButtons(swapEvent, skipEvent) {
     removeAllChildren(buttBox);
     let secret = document.createElement('p');
@@ -716,328 +318,12 @@ function loadZhuyinQuiz2() {
     });
 };
 
-function getSet1() {
-    hanziArray = [];
-    pinyinArray = [];
-    zhuyinArray = [];
-    meaningsArray = [];
-    toneArray = [];
-    sentenceBox.classList.add('hidden');
-    hanziWriteBox.classList.add('hidden');
-    answersBox.classList.remove('hidden');
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    pageHeader.textContent = "";
-    pageHeader.textContent = "漢字";
-    quizStudyBox.classList.remove('hidden');
-    for (var [hanzi, value] of Object.entries(hanziAll)) {
-        // console.log(value.zhuyin);
-        hanziArray.push(hanzi);
-        zhuyinArray.push(value.zhuyin);
-        meaningsArray.push(value.english);
-        toneArray.push(value.tone);
-    };
-};
-function loadHanziFamiliQuiz() {
-    getSet1();
-    removeAllChildren(answersBox);
-    makeButtons(loadHanziFamiliQuiz2, loadHanziFamiliQuiz);
-    thisHanzi = hanziArray[initNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = zhuyinArray[initNumber];
-    secondaryCharText.classList.add('small')
-    let answersArray = [];
-    trueAnswer = meaningsArray[initNumber];
-    if (initNumber === hanziArray.length - 1) {
-        initNumber = 0;
-    } else initNumber++;
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = meaningsArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadHanziFamiliQuiz, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        answersBox.append(newDiv);
-    });
-};
-function loadHanziFamiliQuiz2() {
-    getSet1();
-    removeAllChildren(answersBox);
-    makeButtons(loadHanziFamiliQuiz, loadHanziFamiliQuiz2);
-    thisHanzi = hanziArray[initNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = meaningsArray[initNumber];
-    secondaryCharText.classList.remove('cursive');
-    secondaryCharText.classList.add('small')
-    let answersArray = [];
-    trueAnswer = zhuyinArray[initNumber];
-    answersArray.push(trueAnswer);
-    if (initNumber === hanziArray.length - 1) {
-        initNumber = 0;
-    } else initNumber++;
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = zhuyinArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadHanziFamiliQuiz2, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        answersBox.append(newDiv);
-    });
-};
-function loadHanziMeaningsQuiz() {
-    getSet1();
-    removeAllChildren(answersBox);
-    makeButtons(loadHanziMeaningsQuiz2, loadHanziMeaningsQuiz);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = hanziArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = zhuyinArray[randoNumber];
-    // secondaryCharText.classList.add('cursive');
-    let answersArray = [];
-    trueAnswer = meaningsArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = meaningsArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadHanziMeaningsQuiz, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        answersBox.append(newDiv);
-    });
-};
-function loadHanziMeaningsQuiz2() {
-    getSet1();
-    removeAllChildren(answersBox);
-    mainCharText.classList.remove('cursive');
-    makeButtons(loadHanziMeaningsQuiz, loadHanziMeaningsQuiz2);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = meaningsArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    secondaryCharText.textContent = zhuyinArray[randoNumber];
-    let answersArray = [];
-    trueAnswer = hanziArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = hanziArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadHanziMeaningsQuiz2, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        newDiv.classList.add('cursive');
-        newDiv.classList.add('large');
-        answersBox.append(newDiv);
-    });
-};
-function loadHanziZhuyinQuiz() {
-    getSet1();
-    removeAllChildren(answersBox);
-    makeButtons(loadHanziZhuyinQuiz2, loadHanziZhuyinQuiz);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = hanziArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = "";
-    let answersArray = [];
-    trueAnswer = zhuyinArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = zhuyinArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClickEng(loadHanziZhuyinQuiz, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        // newDiv.classList.add('cursive');
-        answersBox.append(newDiv);
-    });
-};
-function loadHanziZhuyinQuiz2() {
-    getSet1();
-    removeAllChildren(answersBox);
-    makeButtons(loadHanziZhuyinQuiz, loadHanziZhuyinQuiz2);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = zhuyinArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.remove('cursive');
-    secondaryCharText.textContent = "";
-    let answersArray = [];
-    trueAnswer = hanziArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = hanziArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClickEng(loadHanziZhuyinQuiz2, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        newDiv.classList.add('cursive');
-        newDiv.classList.add('large');
-        answersBox.append(newDiv);
-    });
-};
-function loadHanziToneQuiz() {
-    getSet1();
-    removeAllChildren(answersBox);
-    makeButtons(loadHanziToneQuiz, loadHanziToneQuiz);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = hanziArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    secondaryCharText.textContent = "";
-    let answersArray = [];
-    trueAnswer = toneArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = toneArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        if (answer === 1) {
-            newDiv.textContent = "_";
-        } else if (answer === 2) {
-            newDiv.textContent = "ˊ";
-        } else if (answer === 3) {
-            newDiv.textContent = "ˇ";
-        } else if (answer === 4) {
-            newDiv.textContent = `ˋ`;
-        } else if (answer === 5) {
-            newDiv.textContent = `.`;
-        }
-        newDiv.addEventListener('click', handleAnswerClick4)
-        newDiv.classList.add('answer');
-        newDiv.classList.add('cursive');
-        newDiv.classList.add('large');
-        newDiv.id = answer;
-        answersBox.append(newDiv);
-    });
-};
-function handleAnswerClick4() {
-    selectedAnswer = this.id;
-    console.log(selectedAnswer);
-    if (selectedAnswer == trueAnswer) {
-        secretMessage.textContent = '. * nice! * .';
-        mainCharText.append(" = ", selectedAnswer);
-        console.log('. * nice! * .');
-        setTimeout(() => {
-            loadHanziToneQuiz();
-            secretMessage.textContent = '';
-        }, 1700);
-    } else {
-        secretMessage.textContent = 'try again.';
-        setTimeout(() => {
-            secretMessage.textContent = '';
-        }, 1000);
-    }
-};
+
 let writingAnswers = "";
 const charTarget = document.querySelector('#character-target-div');
 const wbuttBox = document.querySelector('.writingButtBox');
 const subButt = document.querySelector('#subButt')
 const wskipButt = document.querySelector('#skipButt')
-function loadHanziWritingQuiz() {
-    hanziArray = [];
-    pinyinArray = [];
-    zhuyinArray = [];
-    meaningsArray = [];
-    charInput.value = "";
-    getSet1();
-    sentenceBox.classList.add('hidden');
-    answersBox.classList.add('hidden');
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    removeAllChildren(answersBox);
-    removeAllChildren(charTarget);
-    removeAllChildren(buttBox);
-    removeAllChildren(wbuttBox);
-    hanziWriteBox.classList.remove('hidden');
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = hanziArray[randoNumber];
-    writingAnswers = zhuyinArray[randoNumber] + " - " + meaningsArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.remove('cursive');
-    secondaryCharText.textContent = "";
-    let answersArray = [];
-    trueAnswer = hanziArray[randoNumber];
-    answersArray.push(trueAnswer);
-    makeCharacter(thisHanzi);
-    // charInput.focus();
-    subButt.removeEventListener('click', handleAnswerClick3);
-    subButt.addEventListener('click', handleAnswerClick2);
-    subButt.classList.add('butt')
-    wskipButt.classList.add('butt')
-    wskipButt.addEventListener('click', loadHanziWritingQuiz);
-    wskipButt.removeEventListener('click', loadWordsWritingQuiz);
-};
-
-function handleAnswerClick2() {
-    selectedAnswer = charInput.value;
-    console.log("ANSWER IS: ", selectedAnswer);
-    if (selectedAnswer == trueAnswer) {
-        secretMessage.textContent = '. * nice! * .';
-        mainCharText.append(" = ", selectedAnswer);
-        secondaryCharText.textContent = writingAnswers;
-        console.log('. * nice! * .');
-        charInput.value = "";
-        setTimeout(() => {
-            loadHanziWritingQuiz();
-            secretMessage.textContent = '';
-        }, 2500);
-    } else {
-        secretMessage.textContent = 'try again.';
-        charInput.value = "";
-        setTimeout(() => {
-            secretMessage.textContent = '';
-        }, 1500);
-    }
-};
 
 function makeCharacter(char) {
     var writer = HanziWriter.create('character-target-div', char, {
@@ -1055,148 +341,7 @@ function makeCharacter(char) {
         writer.animateCharacter();
     });
 };
-function getRadicals() {
-    hanziArray = [];
-    pinyinArray = [];
-    zhuyinArray = [];
-    meaningsArray = [];
-    sentenceBox.classList.add('hidden');
-    hanziWriteBox.classList.add('hidden');
-    answersBox.classList.remove('hidden');
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    pageHeader.textContent = "";
-    pageHeader.textContent = "部首";
-    quizStudyBox.classList.remove('hidden');
-    for (var [radical, value] of Object.entries(chineseRadicals)) {
-        console.log(value.zhuyin);
-        hanziArray.push(radical);
-        zhuyinArray.push(value.zhuyin);
-        meaningsArray.push(value.english);
-    }
-};
-function loadRadicalMeaningsQuiz() {
-    getRadicals();
-    removeAllChildren(answersBox);
-    makeButtons(loadRadicalMeaningsQuiz2, loadRadicalMeaningsQuiz);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = hanziArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = zhuyinArray[randoNumber];
-    // secondaryCharText.classList.add('cursive');
-    let answersArray = [];
-    trueAnswer = meaningsArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = meaningsArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadRadicalMeaningsQuiz, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        answersBox.append(newDiv);
-    });
-};
-function loadRadicalMeaningsQuiz2() {
-    getRadicals();
-    removeAllChildren(answersBox);
-    makeButtons(loadRadicalMeaningsQuiz, loadRadicalMeaningsQuiz2);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = meaningsArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.remove('cursive');
-    secondaryCharText.textContent = zhuyinArray[randoNumber];
-    // secondaryCharText.classList.add('cursive');
-    let answersArray = [];
-    trueAnswer = hanziArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = hanziArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadRadicalMeaningsQuiz2, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        newDiv.classList.add('cursive');
-        newDiv.classList.add('large');
-        answersBox.append(newDiv);
-    });
-};
-function loadRadicalZhuyinQuiz() {
-    getRadicals();
-    removeAllChildren(answersBox);
-    makeButtons(loadRadicalZhuyinQuiz2, loadRadicalZhuyinQuiz);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = hanziArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = meaningsArray[randoNumber];
-    secondaryCharText.classList.remove('cursive');
-    let answersArray = [];
-    trueAnswer = zhuyinArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = zhuyinArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClickEng(loadRadicalZhuyinQuiz, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        newDiv.classList.add('cursive');
-        answersBox.append(newDiv);
-    });
-};
-function loadRadicalZhuyinQuiz2() {
-    getRadicals();
-    removeAllChildren(answersBox);
-    makeButtons(loadRadicalZhuyinQuiz, loadRadicalZhuyinQuiz2);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = zhuyinArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = meaningsArray[randoNumber];
-    secondaryCharText.classList.remove('cursive');
-    let answersArray = [];
-    trueAnswer = hanziArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = hanziArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClickEng(loadRadicalZhuyinQuiz2, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        newDiv.classList.add('large');
-        newDiv.classList.add('cursive');
-        answersBox.append(newDiv);
-    });
-};
+
 function getWords(num) {
     hanziArray = [];
     pinyinArray = [];
@@ -1787,212 +932,7 @@ function loadWords3ZhuyinQuiz2() {
         answersBox.append(newDiv);
     });
 };
-function getBookWords() {
-    hanziArray = [];
-    pinyinArray = [];
-    zhuyinArray = [];
-    meaningsArray = [];
-    toneArray = [];
-    sentenceBox.classList.add('hidden');
-    hanziWriteBox.classList.add('hidden');
-    answersBox.classList.remove('hidden');
-    removeAllChildren(flashBox);
-    removeAllChildren(flashBox2);
-    removeAllChildren(flashBox3);
-    pageHeader.textContent = "";
-    pageHeader.textContent = "書話";
-    quizStudyBox.classList.remove('hidden');
-    for (var [word, value] of Object.entries(bookWordsGradedReaders)) {
-        // console.log(value.zhuyin);
-        hanziArray.push(word);
-        zhuyinArray.push(value.zhuyin);
-        meaningsArray.push(value.english);
-    };
-};
-function loadBookWordsFamiliQuiz() {
-    getBookWords();
-    removeAllChildren(answersBox);
-    makeButtons(loadBookWordsFamiliQuiz2, loadBookWordsFamiliQuiz);
-    thisHanzi = hanziArray[initNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = zhuyinArray[initNumber];
-    secondaryCharText.classList.add('small')
-    let answersArray = [];
-    trueAnswer = meaningsArray[initNumber];
-    if (initNumber === hanziArray.length - 1) {
-        initNumber = 0;
-    } else initNumber++;
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = meaningsArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadBookWordsFamiliQuiz, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        answersBox.append(newDiv);
-    });
-};
-function loadBookWordsFamiliQuiz2() {
-    getBookWords();
-    removeAllChildren(answersBox);
-    makeButtons(loadBookWordsFamiliQuiz, loadBookWordsFamiliQuiz2);
-    thisHanzi = hanziArray[initNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = meaningsArray[initNumber];
-    secondaryCharText.classList.remove('cursive');
-    secondaryCharText.classList.add('small')
-    let answersArray = [];
-    trueAnswer = zhuyinArray[initNumber];
-    answersArray.push(trueAnswer);
-    if (initNumber === hanziArray.length - 1) {
-        initNumber = 0;
-    } else initNumber++;
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = zhuyinArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadBookWordsFamiliQuiz2, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        answersBox.append(newDiv);
-    });
-};
-function loadBookWordsMeaningsQuiz() {
-    getBookWords();
-    removeAllChildren(answersBox);
-    makeButtons(loadBookWordsMeaningsQuiz2, loadBookWordsMeaningsQuiz);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = hanziArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = zhuyinArray[randoNumber];
-    secondaryCharText.classList.remove('cursive');
-    secondaryCharText.classList.add('small')
-    let answersArray = [];
-    trueAnswer = meaningsArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = meaningsArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadBookWordsMeaningsQuiz, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        answersBox.append(newDiv);
-    });
-};
-function loadBookWordsMeaningsQuiz2() {
-    getBookWords();
-    removeAllChildren(answersBox);
-    makeButtons(loadBookWordsMeaningsQuiz, loadBookWordsMeaningsQuiz2);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = meaningsArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.remove('cursive');
-    secondaryCharText.textContent = zhuyinArray[randoNumber];
-    secondaryCharText.classList.add('small')
-    let answersArray = [];
-    trueAnswer = hanziArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = hanziArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClick(loadBookWordsMeaningsQuiz2, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        newDiv.classList.add('cursive');
-        newDiv.classList.add('large');
-        answersBox.append(newDiv);
-    });
-};
 
-function loadBookWordsZhuyinQuiz() {
-    getBookWords();
-    removeAllChildren(answersBox);
-    makeButtons(loadBookWordsZhuyinQuiz2, loadBookWordsZhuyinQuiz);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = hanziArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    mainCharText.classList.add('cursive');
-    secondaryCharText.textContent = "";
-    let answersArray = [];
-    trueAnswer = zhuyinArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = zhuyinArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClickEng(loadBookWordsZhuyinQuiz, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        // newDiv.classList.add('cursive');
-        answersBox.append(newDiv);
-    });
-};
-function loadBookWordsZhuyinQuiz2() {
-    getBookWords();
-    removeAllChildren(answersBox);
-    makeButtons(loadBookWordsZhuyinQuiz, loadBookWordsZhuyinQuiz2);
-    randoNumber = Math.floor(Math.random() * hanziArray.length);
-    thisHanzi = zhuyinArray[randoNumber];
-    mainCharText.textContent = thisHanzi;
-    secondaryCharText.textContent = "";
-    mainCharText.classList.remove('cursive');
-    let answersArray = [];
-    trueAnswer = hanziArray[randoNumber];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * hanziArray.length);
-        let randoAnswer = hanziArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleAnswerClickEng(loadBookWordsZhuyinQuiz2, e, 1000)
-        })
-        newDiv.classList.add('answer');
-        newDiv.classList.add('cursive');
-        newDiv.classList.add('large');
-        answersBox.append(newDiv);
-    });
-};
 function loadWordsWritingQuiz() {
     hanziArray = [];
     pinyinArray = [];
@@ -2025,11 +965,13 @@ function loadWordsWritingQuiz() {
     makeWord(char1);
     makeWord(char2);
     // charInput.focus();
-    subButt.removeEventListener('click', handleAnswerClick2);
+    subButt.removeEventListener('click', handleAnswerClickW3);
+    subButt.removeEventListener('click', handleAnswerClickW2);
     subButt.addEventListener('click', handleAnswerClick3);
     subButt.classList.add('butt')
-    wskipButt.classList.add('butt')
-    wskipButt.removeEventListener('click', loadHanziWritingQuiz);
+    wskipButt.classList.add('butt');
+    wskipButt.removeEventListener('click', loadWords2WritingQuiz);
+    wskipButt.removeEventListener('click', loadWords3WritingQuiz);
     wskipButt.addEventListener('click', loadWordsWritingQuiz);
 };
 function loadWords2WritingQuiz() {
@@ -2064,12 +1006,55 @@ function loadWords2WritingQuiz() {
     makeWord(char1);
     makeWord(char2);
     // charInput.focus();
-    subButt.removeEventListener('click', handleAnswerClick2);
+    subButt.removeEventListener('click', handleAnswerClickW3);
+    subButt.removeEventListener('click', handleAnswerClick3);
     subButt.addEventListener('click', handleAnswerClickW2);
     subButt.classList.add('butt')
     wskipButt.classList.add('butt')
-    wskipButt.removeEventListener('click', loadHanziWritingQuiz);
+    wskipButt.removeEventListener('click', loadWords3WritingQuiz);
+    wskipButt.removeEventListener('click', loadWordsWritingQuiz);
     wskipButt.addEventListener('click', loadWords2WritingQuiz);
+};
+function loadWords3WritingQuiz() {
+    hanziArray = [];
+    pinyinArray = [];
+    zhuyinArray = [];
+    meaningsArray = [];
+    charInput.value = "";
+    writingAnswers = "";
+    getWords(3);
+    sentenceBox.classList.add('hidden');
+    answersBox.classList.add('hidden');
+    removeAllChildren(flashBox);
+    removeAllChildren(flashBox2);
+    removeAllChildren(flashBox3);
+    removeAllChildren(answersBox);
+    removeAllChildren(charTarget);
+    removeAllChildren(buttBox);
+    removeAllChildren(wbuttBox);
+    hanziWriteBox.classList.remove('hidden');
+    writeBox.classList.add('words');
+    randoNumber = Math.floor(Math.random() * hanziArray.length);
+    thisHanzi = hanziArray[randoNumber];
+    writingAnswers = zhuyinArray[randoNumber] + " - " + meaningsArray[randoNumber];
+    mainCharText.textContent = thisHanzi;
+    secondaryCharText.textContent = "";
+    let answersArray = [];
+    trueAnswer = hanziArray[randoNumber];
+    answersArray.push(trueAnswer);
+    var char1 = thisHanzi.charAt(0);
+    var char2 = thisHanzi.charAt(1);
+    makeWord(char1);
+    makeWord(char2);
+    // charInput.focus();
+    subButt.removeEventListener('click', handleAnswerClick3);
+    subButt.removeEventListener('click', handleAnswerClickW2);
+    subButt.addEventListener('click', handleAnswerClickW3);
+    subButt.classList.add('butt')
+    wskipButt.classList.add('butt')
+    wskipButt.removeEventListener('click', loadWordsWritingQuiz);
+    wskipButt.removeEventListener('click', loadWords2WritingQuiz);
+    wskipButt.addEventListener('click', loadWords3WritingQuiz);
 };
 function makeWord(char) {
     var writer = HanziWriter.create('character-target-div', char, {
@@ -2116,6 +1101,25 @@ function handleAnswerClickW2() {
         charInput.value = "";
         setTimeout(() => {
             loadWords2WritingQuiz();
+            secretMessage.textContent = '';
+        }, 4000);
+    } else {
+        secretMessage.textContent = 'try again.';
+        charInput.value = "";
+        setTimeout(() => {
+            secretMessage.textContent = '';
+        }, 1500);
+    }
+};
+function handleAnswerClickW3() {
+    selectedAnswer = charInput.value;
+    if (selectedAnswer == trueAnswer) {
+        secretMessage.textContent = '. * nice! * .';
+        mainCharText.append(" = ", selectedAnswer);
+        secondaryCharText.textContent = writingAnswers;
+        charInput.value = "";
+        setTimeout(() => {
+            loadWords3WritingQuiz();
             secretMessage.textContent = '';
         }, 4000);
     } else {
