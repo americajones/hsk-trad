@@ -4729,546 +4729,547 @@ const HSK3words = {
         "english": "be similar"
     },
     // 790/973 done
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "fragrant"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "banana"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "consumption"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "disappear"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "message"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "effect"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "writing"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "blood"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "heart, feeling, center, core"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "believe, trust"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "envelope"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "trust"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "luggage, baggage"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "formation"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "form"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "image"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "shape"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "happiness"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "lucky"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "as a suffix(积极性 positivity)"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "gender"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "character"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "repair, build, embellish, study"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "modify"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "demand"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "need"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "announce"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "propaganda"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "player"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "tuition fee, school fee"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "train"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "press, push, keep under control, bear down"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "pressure"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "smoke, tobacco, be irritated by smoke"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "now, at the moment, before one's eyes"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "play, act, perform"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "sing"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "concert"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "show"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "performer, actor"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "sheep"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "sunshine"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "if"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "hanger, clothes stand"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "everything"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "already, afterwards"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "since"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "on the one hand"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "art"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "accident"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "significance"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "therefore"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "silver"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "silver medal"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "impression"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "should, ought to"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "meet, pick, welcome"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "nutrition"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "win"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "film and television"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "application"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "advantage"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "advantage"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "from"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "because"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "mail, post"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "postage stamp, stamp"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "postbox, mailbox"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "swim, wander, travel, tour"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "game"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "swimming"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "have plenty of, no lack of"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "favorable, beneficial"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "effective, valid"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "prediction"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "prevention"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "expected, estimate"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "preview"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "a person engaged in some field of activity (waiter; waitress; server)"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "employee"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "desire"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "appointment, agreement, arrange, restrict"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "orchestra, band"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "transport"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "magazine"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "long ago, for a long time"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "make, build, create, produce"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "cause"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "responsibility"
-    // },
-    // "": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "level": "HSK3",
-    //     "english": "increase"
-    // },
+    "香": {
+        "zhuyin": "ㄒㄧㄤ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "fragrant"
+    },
+    "香蕉": {
+        "zhuyin": "ㄒㄧㄤ ㄐㄧㄠ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "banana"
+    },
+    "消費": {
+        "zhuyin": "ㄒㄧㄠ ㄈㄟˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "consumption"
+    },
+    "消失": {
+        "zhuyin": "ㄒㄧㄠ ㄕ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "disappear"
+    },
+    "消息": {
+        "zhuyin": "ㄒㄧㄠ ㄒㄧ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "message"
+    },
+    "效果": {
+        "zhuyin": "ㄒㄧㄠˋ ㄍㄨㄛˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "effect"
+    },
+    "寫作": {
+        "zhuyin": "ㄒㄧㄝˇ ㄗㄨㄛˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "writing"
+    },
+    "血": {
+        "zhuyin": "ㄒㄩㄝˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "blood"
+    },
+    "心": {
+        "zhuyin": "ㄒㄧㄣ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "heart, feeling, center, core"
+    },
+    "信": {
+        "zhuyin": "ㄒㄧㄣˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "believe, trust"
+    },
+    "信封": {
+        "zhuyin": "ㄒㄧㄣˋ ㄈㄥ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "envelope"
+    },
+    "信任": {
+        "zhuyin": "ㄒㄧㄣˋ ㄖㄣˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "trust"
+    },
+    "行李": {
+        "zhuyin": "ㄒㄧㄥˊ ㄌㄧˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "luggage, baggage"
+    },
+    "形成": {
+        "zhuyin": "ㄒㄧㄥˊ ㄔㄥˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "formation"
+    },
+    "形式": {
+        "zhuyin": "ㄒㄧㄥˊ ㄕˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "form"
+    },
+    "形象": {
+        "zhuyin": "ㄒㄧㄥˊ ㄒㄧㄤˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "image"
+    },
+    "形狀": {
+        "zhuyin": "ㄒㄧㄥˊ ㄓㄨㄤˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "shape"
+    },
+    "幸福": {
+        "zhuyin": "ㄒㄧㄥˋ ㄈㄨˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "happiness"
+    },
+    "幸運": {
+        "zhuyin": "ㄒㄧㄥˋ ㄩㄣˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "lucky"
+    },
+    "性": {
+        "zhuyin": "ㄒㄧㄥˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "as a suffix(积极性 positivity)"
+    },
+    "性別": {
+        "zhuyin": "ㄒㄧㄥˋ ㄅㄧㄝˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "gender"
+    },
+    "性格": {
+        "zhuyin": "ㄒㄧㄥˋ ㄍㄜˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "character"
+    },
+    "修": {
+        "zhuyin": "ㄒㄧㄡ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "repair, build, embellish, study"
+    },
+    "修改": {
+        "zhuyin": "ㄒㄧㄡ ㄍㄞˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "modify"
+    },
+    "需求": {
+        "zhuyin": "ㄒㄩ ㄑㄧㄡˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "demand"
+    },
+    "需要": {
+        "zhuyin": "ㄒㄩ ㄧㄠˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "need"
+    },
+    "宣布": {
+        "zhuyin": "ㄒㄩㄢ ㄅㄨˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "announce"
+    },
+    "宣傳": {
+        "zhuyin": "ㄒㄩㄢ ㄔㄨㄢˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "propaganda"
+    },
+    "選手": {
+        "zhuyin": "ㄒㄩㄢˇ ㄕㄡˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "player"
+    },
+    "學費": {
+        "zhuyin": "ㄒㄩㄝˊ ㄈㄟˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "tuition fee, school fee"
+    },
+    "訓練": {
+        "zhuyin": "ㄒㄩㄣˋ ㄌㄧㄢˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "train"
+    },
+    "壓": {
+        "zhuyin": "ㄧㄚ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "press, push, keep under control, bear down"
+    },
+    "壓力": {
+        "zhuyin": "ㄧㄚ ㄌㄧˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "pressure"
+    },
+    "煙": {
+        "zhuyin": "ㄧㄢ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "smoke, tobacco, be irritated by smoke"
+    },
+    "眼前": {
+        "zhuyin": "ㄧㄢˇ ㄑㄧㄢˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "now, at the moment, before one's eyes"
+    },
+    "演": {
+        "zhuyin": "ㄧㄢˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "play, act, perform"
+    },
+    "演唱": {
+        "zhuyin": "ㄧㄢˇ ㄔㄤˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "sing"
+    },
+    "演唱會": {
+        "zhuyin": "ㄧㄢˇ ㄔㄤˋ ㄏㄨㄟˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "concert"
+    },
+    "演出": {
+        "zhuyin": "ㄧㄢˇ ㄔㄨ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "show"
+    },
+    "演員": {
+        "zhuyin": "ㄧㄢˇ ㄩㄢˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "performer, actor"
+    },
+    "羊": {
+        "zhuyin": "ㄧㄤˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "sheep"
+    },
+    "陽光": {
+        "zhuyin": "ㄧㄤˊ ㄍㄨㄤ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "sunshine"
+    },
+    "要是": {
+        "zhuyin": "ㄧㄠˋ ㄕˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "if"
+    },
+    "衣架": {
+        "zhuyin": "ㄧ ㄐㄧㄚˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "hanger, clothes stand"
+    },
+    "一切": {
+        "zhuyin": "ㄧ ㄑㄧㄝ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "everything"
+    },
+    "已": {
+        "zhuyin": "ㄧˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "already, afterwards"
+    },
+    "以來": {
+        "zhuyin": "ㄧˇ ㄌㄞˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "since"
+    },
+    "一方面": {
+        "zhuyin": "ㄧ ㄈㄤ ㄇㄧㄢˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "on the one hand"
+    },
+    "藝術": {
+        "zhuyin": "ㄧˋ ㄕㄨˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "art"
+    },
+    "意外": {
+        "zhuyin": "ㄧˋ ㄨㄞˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "accident"
+    },
+    "意義": {
+        "zhuyin": "ㄧˋ ㄧˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "significance"
+    },
+    "因此": {
+        "zhuyin": "ㄧㄣ ㄘˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "therefore"
+    },
+    "銀": {
+        "zhuyin": "ㄧㄣˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "silver"
+    },
+    "銀牌": {
+        "zhuyin": "ㄧㄣˊ ㄆㄞˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "silver medal"
+    },
+    "印象": {
+        "zhuyin": "ㄧㄣˋ ㄒㄧㄤˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "impression"
+    },
+    "應當": {
+        "zhuyin": "ㄧㄥ ㄉㄤ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "should, ought to"
+    },
+    "迎接": {
+        "zhuyin": "ㄧㄥˊ ㄐㄧㄝ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "meet, pick, welcome"
+    },
+    "營養": {
+        "zhuyin": "ㄧㄥˊ ㄧㄤˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "nutrition"
+    },
+    "贏": {
+        "zhuyin": "ㄧㄥˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "win"
+    },
+    "影視": {
+        "zhuyin": "ㄧㄥˇ ㄕˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "film and television"
+    },
+    "應用": {
+        "zhuyin": "ㄧㄥ ㄩㄥˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "application"
+    },
+    "優點": {
+        "zhuyin": "ㄧㄡ ㄉㄧㄢˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "advantage"
+    },
+    "優勢": {
+        "zhuyin": "ㄧㄡ ㄕˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "advantage"
+    },
+    "由": {
+        "zhuyin": "ㄧㄡˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "from"
+    },
+    "由於": {
+        "zhuyin": "ㄧㄡˊ ㄩˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "because"
+    },
+    "郵件": {
+        "zhuyin": "ㄧㄡˊ ㄐㄧㄢˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "mail, post"
+    },
+    "郵票": {
+        "zhuyin": "ㄧㄡˊ ㄆㄧㄠˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "postage stamp, stamp"
+    },
+    "郵箱": {
+        "zhuyin": "ㄧㄡˊ ㄒㄧㄤ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "postbox, mailbox"
+    },
+    "游": {
+        "zhuyin": "ㄧㄡˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "swim, wander, travel, tour"
+    },
+    "遊戲": {
+        "zhuyin": "ㄧㄡˊ ㄒㄧˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "game"
+    },
+    "游泳": {
+        "zhuyin": "ㄧㄡˊ ㄩㄥˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "swimming"
+    },
+    "有的是": {
+        "zhuyin": "ㄧㄡˇ ㄉㄜ˙ ㄕˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "have plenty of, no lack of"
+    },
+    "有利": {
+        "zhuyin": "ㄧㄡˇ ㄌㄧˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "favorable, beneficial"
+    },
+    "有效": {
+        "zhuyin": "ㄧㄡˇ ㄒㄧㄠˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "effective, valid"
+    },
+    "預報": {
+        "zhuyin": "ㄩˋ ㄅㄠˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "prediction"
+    },
+    "預防": {
+        "zhuyin": "ㄩˋ ㄈㄤˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "prevention"
+    },
+    "預計": {
+        "zhuyin": "ㄩˋ ㄐㄧˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "expected, estimate"
+    },
+    "預習": {
+        "zhuyin": "ㄩˋ ㄒㄧˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "preview"
+    },
+    "員": {
+        "zhuyin": "ㄩㄢˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "a person engaged in some field of activity (waiter; waitress; server)"
+    },
+    "員工": {
+        "zhuyin": "ㄩㄢˊ ㄍㄨㄥ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "employee"
+    },
+    "願望": {
+        "zhuyin": "ㄩㄢˋ ㄨㄤˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "desire"
+    },
+    "約": {
+        "zhuyin": "ㄩㄝ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "appointment, agreement, arrange, restrict"
+    },
+    "樂隊": {
+        "zhuyin": "ㄌㄜˋ ㄉㄨㄟˋ ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "orchestra, band"
+    },
+    "運輸": {
+        "zhuyin": "ㄩㄣˋ ㄕㄨ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "transport"
+    },
+    "雜誌": {
+        "zhuyin": "ㄗㄚˊ ㄓˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "magazine"
+    },
+    "早已": {
+        "zhuyin": "ㄗㄠˇ ㄧˇ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "long ago, for a long time"
+    },
+    "造": {
+        "zhuyin": "ㄗㄠˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "make, build, create, produce"
+    },
+    "造成": {
+        "zhuyin": "ㄗㄠˋ ㄔㄥˊ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "cause"
+    },
+    "責任": {
+        "zhuyin": "ㄗㄜˊ ㄖㄣˋ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "responsibility"
+    },
+    "增加": {
+        "zhuyin": "ㄗㄥ ㄐㄧㄚ",
+        "pinyin": "",
+        "level": "HSK3",
+        "english": "increase"
+    },
+    // 880/973 done
     // "": {
     //     "zhuyin": "",
     //     "pinyin": "",
