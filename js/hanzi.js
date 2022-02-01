@@ -15178,3 +15178,5970 @@ const HSK3words = {
         "english": "to be a guest or visitor"
     }
 };
+const HSK4words = {
+    "延續": {
+        "zhuyin": "ㄧㄢˊ ㄒㄩˋ",
+        "pinyin": "yánxù",
+        "level": "HSK4",
+        "english": "continue"
+    },
+    "購物": {
+        "zhuyin": "ㄍㄡˋ ㄨˋ",
+        "pinyin": "gòuwù",
+        "level": "HSK4",
+        "english": "Shopping"
+    },
+    "戶": {
+        "zhuyin": "ㄏㄨˋ",
+        "pinyin": "hù",
+        "level": "HSK4",
+        "english": "household; family; door"
+    },
+    "療養": {
+        "zhuyin": "ㄌㄧㄠˊ ㄧㄤˇ",
+        "pinyin": "liáo yǎng",
+        "level": "HSK4",
+        "english": "recuperate; convalesce"
+    },
+    "此外": {
+        "zhuyin": "ㄘˇ ㄨㄞˋ",
+        "pinyin": "cǐwài",
+        "level": "HSK4",
+        "english": "in addition"
+    },
+    "辦事": {
+        "zhuyin": "ㄅㄢˋ ㄕˋ",
+        "pinyin": "bàn shì",
+        "level": "HSK4",
+        "english": "handle affairs; work"
+    },
+    "童話": {
+        "zhuyin": "ㄊㄨㄥˊ ㄏㄨㄚˋ",
+        "pinyin": "tónghuà",
+        "level": "HSK4",
+        "english": "fairy tale"
+    },
+    "怪": {
+        "zhuyin": "ㄍㄨㄞˋ",
+        "pinyin": "guài",
+        "level": "HSK4",
+        "english": "strange; odd; bewildering; very; quite; rather"
+    },
+    "純凈水": {
+        "zhuyin": "ㄔㄨㄣˊ ㄐㄧㄥˋ ㄕㄨㄟˇ",
+        "pinyin": "chún jìng shuǐ",
+        "level": "HSK4",
+        "english": "pure water"
+    },
+    "英勇": {
+        "zhuyin": "ㄧㄥ ㄩㄥˇ",
+        "pinyin": "yīngyǒng",
+        "level": "HSK4",
+        "english": "heroic"
+    },
+    "智能": {
+        "zhuyin": "ㄓˋ ㄋㄥˊ",
+        "pinyin": "zhìnéng",
+        "level": "HSK4",
+        "english": "Intelligence"
+    },
+    "倒閉": {
+        "zhuyin": "ㄉㄠˇ ㄅㄧˋ",
+        "pinyin": "dǎobì",
+        "level": "HSK4",
+        "english": "Collapse"
+    },
+    "戰勝": {
+        "zhuyin": "ㄓㄢˋ ㄕㄥˋ",
+        "pinyin": "zhàn shèng",
+        "level": "HSK4",
+        "english": "defeat; conquer"
+    },
+    "聚會": {
+        "zhuyin": "ㄐㄩˋ ㄏㄨㄟˋ",
+        "pinyin": "jùhuì",
+        "level": "HSK4",
+        "english": "Party"
+    },
+    "擴大": {
+        "zhuyin": "ㄎㄨㄛˋ ㄉㄚˋ",
+        "pinyin": "kuòdà",
+        "level": "HSK4",
+        "english": "Expand"
+    },
+    "抽獎": {
+        "zhuyin": "ㄔㄡ ㄐㄧㄤˇ",
+        "pinyin": "chōu jiǎng",
+        "level": "HSK4",
+        "english": "lottery; lottery draw"
+    },
+    "緩解": {
+        "zhuyin": "ㄏㄨㄢˇ ㄐㄧㄝˇ",
+        "pinyin": "huǎnjiě",
+        "level": "HSK4",
+        "english": "relieve"
+    },
+    "批": {
+        "zhuyin": "ㄆㄧ",
+        "pinyin": "pī",
+        "level": "HSK4",
+        "english": "criticize; batch"
+    },
+    "陽台": {
+        "zhuyin": "ㄧㄤˊ ㄊㄞˊ",
+        "pinyin": "yángtái",
+        "level": "HSK4",
+        "english": "balcony"
+    },
+    "胸部": {
+        "zhuyin": "ㄒㄩㄥ ㄅㄨˋ",
+        "pinyin": "xiōng bù",
+        "level": "HSK4",
+        "english": "chest; thorax; breast"
+    },
+    "暗示": {
+        "zhuyin": "ㄢˋ ㄕˋ",
+        "pinyin": "ànshì",
+        "level": "HSK4",
+        "english": "suggest secretly"
+    },
+    // "按时": {
+    //     "zhuyin": "",
+    //     "pinyin": "ànshí",
+    //     "level": "HSK4",
+    //     "english": "on time"
+    // },
+    // "大众": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà zhòng",
+    //     "level": "HSK4",
+    //     "english": "public; the masses; people"
+    // },
+    // "发挥": {
+    //     "zhuyin": "",
+    //     "pinyin": "fāhuī",
+    //     "level": "HSK4",
+    //     "english": "Develop"
+    // },
+    // "充分": {
+    //     "zhuyin": "",
+    //     "pinyin": "chōngfèn",
+    //     "level": "HSK4",
+    //     "english": "To the full"
+    // },
+    // "其余": {
+    //     "zhuyin": "",
+    //     "pinyin": "qíyú",
+    //     "level": "HSK4",
+    //     "english": "Rest"
+    // },
+    // "列为": {
+    //     "zhuyin": "",
+    //     "pinyin": "liè wéi",
+    //     "level": "HSK4",
+    //     "english": "be classified as; listed as"
+    // },
+    // "骨头": {
+    //     "zhuyin": "",
+    //     "pinyin": "gǔtou",
+    //     "level": "HSK4",
+    //     "english": "Bone"
+    // },
+    // "考虑": {
+    //     "zhuyin": "",
+    //     "pinyin": "kǎolǜ",
+    //     "level": "HSK4",
+    //     "english": "Consider"
+    // },
+    // "人家": {
+    //     "zhuyin": "",
+    //     "pinyin": "rénjiā",
+    //     "level": "HSK4",
+    //     "english": "family"
+    // },
+    // "轮子": {
+    //     "zhuyin": "",
+    //     "pinyin": "lún zi",
+    //     "level": "HSK4",
+    //     "english": "wheel"
+    // },
+    // "批": {
+    //     "zhuyin": "",
+    //     "pinyin": "pī",
+    //     "level": "HSK4",
+    //     "english": "(measure word)"
+    // },
+    // "无": {
+    //     "zhuyin": "",
+    //     "pinyin": "wú",
+    //     "level": "HSK4",
+    //     "english": "nothing"
+    // },
+    // "梦见": {
+    //     "zhuyin": "",
+    //     "pinyin": "mèng jiàn",
+    //     "level": "HSK4",
+    //     "english": "see in a dream; dream about; dream"
+    // },
+    // "学术": {
+    //     "zhuyin": "",
+    //     "pinyin": "xuéshù",
+    //     "level": "HSK4",
+    //     "english": "learning"
+    // },
+    // "导致": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǎozhì",
+    //     "level": "HSK4",
+    //     "english": "cause"
+    // },
+    // "吸": {
+    //     "zhuyin": "",
+    //     "pinyin": "xī",
+    //     "level": "HSK4",
+    //     "english": "inhale; breathe; absorb; suck in"
+    // },
+    // "江": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiāng",
+    //     "level": "HSK4",
+    //     "english": "river"
+    // },
+    // "似乎": {
+    //     "zhuyin": "",
+    //     "pinyin": "sìhū",
+    //     "level": "HSK4",
+    //     "english": "It seems that"
+    // },
+    // "毛衣": {
+    //     "zhuyin": "",
+    //     "pinyin": "máo yī",
+    //     "level": "HSK4",
+    //     "english": "sweater; wool sweater"
+    // },
+    // "诚实": {
+    //     "zhuyin": "",
+    //     "pinyin": "chéngshí",
+    //     "level": "HSK4",
+    //     "english": "honest"
+    // },
+    // "汇报": {
+    //     "zhuyin": "",
+    //     "pinyin": "huìbào",
+    //     "level": "HSK4",
+    //     "english": "report"
+    // },
+    // "风景": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēngjǐng",
+    //     "level": "HSK4",
+    //     "english": "Scenery"
+    // },
+    // "新鲜": {
+    //     "zhuyin": "",
+    //     "pinyin": "xīnxiān",
+    //     "level": "HSK4",
+    //     "english": "fresh"
+    // },
+    // "本科": {
+    //     "zhuyin": "",
+    //     "pinyin": "běnkē",
+    //     "level": "HSK4",
+    //     "english": "Undergraduate"
+    // },
+    // "针对": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhēnduì",
+    //     "level": "HSK4",
+    //     "english": "In the light of"
+    // },
+    // "高铁": {
+    //     "zhuyin": "",
+    //     "pinyin": "gāo tiě",
+    //     "level": "HSK4",
+    //     "english": "high-speed train; high-speed rail"
+    // },
+    // "教授": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiàoshòu",
+    //     "level": "HSK4",
+    //     "english": "professor"
+    // },
+    // "打折": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǎzhé",
+    //     "level": "HSK4",
+    //     "english": "Discount"
+    // },
+    // "一律": {
+    //     "zhuyin": "",
+    //     "pinyin": "yílǜ",
+    //     "level": "HSK4",
+    //     "english": "all and singular"
+    // },
+    // "沉重": {
+    //     "zhuyin": "",
+    //     "pinyin": "chénzhòng",
+    //     "level": "HSK4",
+    //     "english": "heavy"
+    // },
+    // "瓜": {
+    //     "zhuyin": "",
+    //     "pinyin": "guā",
+    //     "level": "HSK4",
+    //     "english": "melon"
+    // },
+    // "着火": {
+    //     "zhuyin": "",
+    //     "pinyin": "zháohuǒ",
+    //     "level": "HSK4",
+    //     "english": "on fire"
+    // },
+    // "顶": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǐng",
+    //     "level": "HSK4",
+    //     "english": "top"
+    // },
+    // "表扬": {
+    //     "zhuyin": "",
+    //     "pinyin": "biǎoyáng",
+    //     "level": "HSK4",
+    //     "english": "Praise"
+    // },
+    // "居民": {
+    //     "zhuyin": "",
+    //     "pinyin": "jūmín",
+    //     "level": "HSK4",
+    //     "english": "residents"
+    // },
+    // "结": {
+    //     "zhuyin": "",
+    //     "pinyin": "jié",
+    //     "level": "HSK4",
+    //     "english": "bear; form; knit; knot"
+    // },
+    // "包含": {
+    //     "zhuyin": "",
+    //     "pinyin": "bāohán",
+    //     "level": "HSK4",
+    //     "english": "Contain"
+    // },
+    // "熟练": {
+    //     "zhuyin": "",
+    //     "pinyin": "shúliàn",
+    //     "level": "HSK4",
+    //     "english": "skilled"
+    // },
+    // "窗台": {
+    //     "zhuyin": "",
+    //     "pinyin": "chuāng tái",
+    //     "level": "HSK4",
+    //     "english": "windowsill; sill"
+    // },
+    // "型": {
+    //     "zhuyin": "",
+    //     "pinyin": "xíng",
+    //     "level": "HSK4",
+    //     "english": "mould; model; type; pattern"
+    // },
+    // "棵": {
+    //     "zhuyin": "",
+    //     "pinyin": "kē",
+    //     "level": "HSK4",
+    //     "english": "Tree (measure word)"
+    // },
+    // "摆": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎi",
+    //     "level": "HSK4",
+    //     "english": "pendulum"
+    // },
+    // "型号": {
+    //     "zhuyin": "",
+    //     "pinyin": "xíng hào",
+    //     "level": "HSK4",
+    //     "english": "model; type; pattern"
+    // },
+    // "而": {
+    //     "zhuyin": "",
+    //     "pinyin": "ér",
+    //     "level": "HSK4",
+    //     "english": "and"
+    // },
+    // "勇气": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǒngqì",
+    //     "level": "HSK4",
+    //     "english": "courage"
+    // },
+    // "规模": {
+    //     "zhuyin": "",
+    //     "pinyin": "guīmó",
+    //     "level": "HSK4",
+    //     "english": "scale"
+    // },
+    // "发票": {
+    //     "zhuyin": "",
+    //     "pinyin": "fāpiào",
+    //     "level": "HSK4",
+    //     "english": "invoice"
+    // },
+    // "单纯": {
+    //     "zhuyin": "",
+    //     "pinyin": "dānchún",
+    //     "level": "HSK4",
+    //     "english": "Simple"
+    // },
+    // "孙子": {
+    //     "zhuyin": "",
+    //     "pinyin": "sūnzi",
+    //     "level": "HSK4",
+    //     "english": "Grandson"
+    // },
+    // "主席": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhǔxí",
+    //     "level": "HSK4",
+    //     "english": "Chairman"
+    // },
+    // "参考": {
+    //     "zhuyin": "",
+    //     "pinyin": "cānkǎo",
+    //     "level": "HSK4",
+    //     "english": "Reference resources"
+    // },
+    // "纷纷": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēnfēn",
+    //     "level": "HSK4",
+    //     "english": "one after another"
+    // },
+    // "浓": {
+    //     "zhuyin": "",
+    //     "pinyin": "nóng",
+    //     "level": "HSK4",
+    //     "english": "strong"
+    // },
+    // "台阶": {
+    //     "zhuyin": "",
+    //     "pinyin": "táijiē",
+    //     "level": "HSK4",
+    //     "english": "Steps"
+    // },
+    // "几乎": {
+    //     "zhuyin": "",
+    //     "pinyin": "jīhū",
+    //     "level": "HSK4",
+    //     "english": "almost"
+    // },
+    // "扩展": {
+    //     "zhuyin": "",
+    //     "pinyin": "kuò zhǎn",
+    //     "level": "HSK4",
+    //     "english": "expand; extend; spread; develop"
+    // },
+    // "避免": {
+    //     "zhuyin": "",
+    //     "pinyin": "bìmiǎn",
+    //     "level": "HSK4",
+    //     "english": "avoid"
+    // },
+    // "含量": {
+    //     "zhuyin": "",
+    //     "pinyin": "hán liàng",
+    //     "level": "HSK4",
+    //     "english": "content"
+    // },
+    // "战斗": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhàndòu",
+    //     "level": "HSK4",
+    //     "english": "Battle"
+    // },
+    // "果实": {
+    //     "zhuyin": "",
+    //     "pinyin": "guǒshí",
+    //     "level": "HSK4",
+    //     "english": "fruit"
+    // },
+    // "纪律": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìlǜ",
+    //     "level": "HSK4",
+    //     "english": "discipline"
+    // },
+    // "模特儿": {
+    //     "zhuyin": "",
+    //     "pinyin": "mó tèr",
+    //     "level": "HSK4",
+    //     "english": "model"
+    // },
+    // "学问": {
+    //     "zhuyin": "",
+    //     "pinyin": "xuéwen",
+    //     "level": "HSK4",
+    //     "english": "knowledge"
+    // },
+    // "厘米": {
+    //     "zhuyin": "",
+    //     "pinyin": "límǐ",
+    //     "level": "HSK4",
+    //     "english": "centimeter"
+    // },
+    // "复制": {
+    //     "zhuyin": "",
+    //     "pinyin": "fùzhì",
+    //     "level": "HSK4",
+    //     "english": "copy"
+    // },
+    // "怀念": {
+    //     "zhuyin": "",
+    //     "pinyin": "huáiniàn",
+    //     "level": "HSK4",
+    //     "english": "Miss"
+    // },
+    // "法律": {
+    //     "zhuyin": "",
+    //     "pinyin": "fǎlǜ",
+    //     "level": "HSK4",
+    //     "english": "Law"
+    // },
+    // "预测": {
+    //     "zhuyin": "",
+    //     "pinyin": "yù cè",
+    //     "level": "HSK4",
+    //     "english": "forecast; prognosis"
+    // },
+    // "片面": {
+    //     "zhuyin": "",
+    //     "pinyin": "piànmiàn",
+    //     "level": "HSK4",
+    //     "english": "one-sided"
+    // },
+    // "医学": {
+    //     "zhuyin": "",
+    //     "pinyin": "yī xué",
+    //     "level": "HSK4",
+    //     "english": "medical science; medicine"
+    // },
+    // "趋势": {
+    //     "zhuyin": "",
+    //     "pinyin": "qūshì",
+    //     "level": "HSK4",
+    //     "english": "trend"
+    // },
+    // "了解": {
+    //     "zhuyin": "",
+    //     "pinyin": "liǎojiě",
+    //     "level": "HSK4",
+    //     "english": "understand"
+    // },
+    // "相处": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiāngchǔ",
+    //     "level": "HSK4",
+    //     "english": "Get along with"
+    // },
+    // "尺子": {
+    //     "zhuyin": "",
+    //     "pinyin": "chǐzi",
+    //     "level": "HSK4",
+    //     "english": "Ruler"
+    // },
+    // "收益": {
+    //     "zhuyin": "",
+    //     "pinyin": "shōuyì",
+    //     "level": "HSK4",
+    //     "english": "income; profit"
+    // },
+    // "尽快": {
+    //     "zhuyin": "",
+    //     "pinyin": "jǐnkuài",
+    //     "level": "HSK4",
+    //     "english": "as soon as possible"
+    // },
+    // "减": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎn",
+    //     "level": "HSK4",
+    //     "english": "subtract; reduce; decrease; cut; minus"
+    // },
+    // "却": {
+    //     "zhuyin": "",
+    //     "pinyin": "què",
+    //     "level": "HSK4",
+    //     "english": "but"
+    // },
+    // "含": {
+    //     "zhuyin": "",
+    //     "pinyin": "hán",
+    //     "level": "HSK4",
+    //     "english": "contain; cherish; nurse; keep"
+    // },
+    // "灯光": {
+    //     "zhuyin": "",
+    //     "pinyin": "dēng guāng",
+    //     "level": "HSK4",
+    //     "english": "light; stage lighting"
+    // },
+    // "黄金": {
+    //     "zhuyin": "",
+    //     "pinyin": "huángjīn",
+    //     "level": "HSK4",
+    //     "english": "gold"
+    // },
+    // "财富": {
+    //     "zhuyin": "",
+    //     "pinyin": "cáifù",
+    //     "level": "HSK4",
+    //     "english": "wealth"
+    // },
+    // "议论": {
+    //     "zhuyin": "",
+    //     "pinyin": "yìlùn",
+    //     "level": "HSK4",
+    //     "english": "Discussion"
+    // },
+    // "登山": {
+    //     "zhuyin": "",
+    //     "pinyin": "dēng shān",
+    //     "level": "HSK4",
+    //     "english": "mountaineer; mountain-climbing"
+    // },
+    // "腰": {
+    //     "zhuyin": "",
+    //     "pinyin": "yāo",
+    //     "level": "HSK4",
+    //     "english": "waist"
+    // },
+    // "承担": {
+    //     "zhuyin": "",
+    //     "pinyin": "chéngdān",
+    //     "level": "HSK4",
+    //     "english": "bear"
+    // },
+    // "苦": {
+    //     "zhuyin": "",
+    //     "pinyin": "kǔ",
+    //     "level": "HSK4",
+    //     "english": "bitter"
+    // },
+    // "操场": {
+    //     "zhuyin": "",
+    //     "pinyin": "cāochǎng",
+    //     "level": "HSK4",
+    //     "english": "Playground"
+    // },
+    // "ǎi": {
+    //     "zhuyin": "矮",
+    //     "pinyin": "short",
+    //     "level": "HSK4",
+    //     "english": ""
+    // },
+    // "业余": {
+    //     "zhuyin": "",
+    //     "pinyin": "yèyú",
+    //     "level": "HSK4",
+    //     "english": "amateur"
+    // },
+    // "程序": {
+    //     "zhuyin": "",
+    //     "pinyin": "chéngxù",
+    //     "level": "HSK4",
+    //     "english": "program"
+    // },
+    // "土地": {
+    //     "zhuyin": "",
+    //     "pinyin": "tǔdì",
+    //     "level": "HSK4",
+    //     "english": "land"
+    // },
+    // "失败": {
+    //     "zhuyin": "",
+    //     "pinyin": "shībài",
+    //     "level": "HSK4",
+    //     "english": "fail"
+    // },
+    // "冷静": {
+    //     "zhuyin": "",
+    //     "pinyin": "lěngjìng",
+    //     "level": "HSK4",
+    //     "english": "calm down"
+    // },
+    // "独自": {
+    //     "zhuyin": "",
+    //     "pinyin": "dú zì",
+    //     "level": "HSK4",
+    //     "english": "alone; by oneself; one’s own"
+    // },
+    // "手套": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǒutào",
+    //     "level": "HSK4",
+    //     "english": "glove"
+    // },
+    // "会计": {
+    //     "zhuyin": "",
+    //     "pinyin": "kuàijì",
+    //     "level": "HSK4",
+    //     "english": "accountant"
+    // },
+    // "激动": {
+    //     "zhuyin": "",
+    //     "pinyin": "jīdòng",
+    //     "level": "HSK4",
+    //     "english": "Excited"
+    // },
+    // "法官": {
+    //     "zhuyin": "",
+    //     "pinyin": "fǎ guān",
+    //     "level": "HSK4",
+    //     "english": "judge"
+    // },
+    // "假如": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎrú",
+    //     "level": "HSK4",
+    //     "english": "If"
+    // },
+    // "玉米": {
+    //     "zhuyin": "",
+    //     "pinyin": "yùmǐ",
+    //     "level": "HSK4",
+    //     "english": "Corn"
+    // },
+    // "缩小": {
+    //     "zhuyin": "",
+    //     "pinyin": "suō xiǎo",
+    //     "level": "HSK4",
+    //     "english": "reduce; lessen; narrow; shrink; zoom out"
+    // },
+    // "阿姨": {
+    //     "zhuyin": "",
+    //     "pinyin": "āyí",
+    //     "level": "HSK4",
+    //     "english": "aunt"
+    // },
+    // "敌人": {
+    //     "zhuyin": "",
+    //     "pinyin": "dírén",
+    //     "level": "HSK4",
+    //     "english": "Enemy"
+    // },
+    // "禁止": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìnzhǐ",
+    //     "level": "HSK4",
+    //     "english": "prohibit"
+    // },
+    // "轻松": {
+    //     "zhuyin": "",
+    //     "pinyin": "qīngsōng",
+    //     "level": "HSK4",
+    //     "english": "Relaxed"
+    // },
+    // "法": {
+    //     "zhuyin": "",
+    //     "pinyin": "fǎ",
+    //     "level": "HSK4",
+    //     "english": "law; way; method; example; rule"
+    // },
+    // "疑问": {
+    //     "zhuyin": "",
+    //     "pinyin": "yíwèn",
+    //     "level": "HSK4",
+    //     "english": "Doubt"
+    // },
+    // "喂": {
+    //     "zhuyin": "",
+    //     "pinyin": "wèi",
+    //     "level": "HSK4",
+    //     "english": "feed"
+    // },
+    // "转动": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuǎn dòng",
+    //     "level": "HSK4",
+    //     "english": "turn; move; turn round"
+    // },
+    // "促使": {
+    //     "zhuyin": "",
+    //     "pinyin": "cùshǐ",
+    //     "level": "HSK4",
+    //     "english": "Urge"
+    // },
+    // "大巴": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà bā",
+    //     "level": "HSK4",
+    //     "english": "bus"
+    // },
+    // "没想到": {
+    //     "zhuyin": "",
+    //     "pinyin": "méi xiǎng dào",
+    //     "level": "HSK4",
+    //     "english": "didn’t expect"
+    // },
+    // "窗户": {
+    //     "zhuyin": "",
+    //     "pinyin": "chuānghu",
+    //     "level": "HSK4",
+    //     "english": "Window"
+    // },
+    // "引导": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǐndǎo",
+    //     "level": "HSK4",
+    //     "english": "guide"
+    // },
+    // "统计": {
+    //     "zhuyin": "",
+    //     "pinyin": "tǒngjì",
+    //     "level": "HSK4",
+    //     "english": "Statistics"
+    // },
+    // "秘书": {
+    //     "zhuyin": "",
+    //     "pinyin": "mìshū",
+    //     "level": "HSK4",
+    //     "english": "secretary"
+    // },
+    // "口袋": {
+    //     "zhuyin": "",
+    //     "pinyin": "kǒu dài",
+    //     "level": "HSK4",
+    //     "english": "pocket"
+    // },
+    // "收回": {
+    //     "zhuyin": "",
+    //     "pinyin": "shōu huí",
+    //     "level": "HSK4",
+    //     "english": "withdraw; regain; call in; countermand"
+    // },
+    // "出售": {
+    //     "zhuyin": "",
+    //     "pinyin": "chū shòu",
+    //     "level": "HSK4",
+    //     "english": "offer for sale; sell"
+    // },
+    // "量": {
+    //     "zhuyin": "",
+    //     "pinyin": "liáng",
+    //     "level": "HSK4",
+    //     "english": "measure; estimate; amount"
+    // },
+    // "政治": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhèngzhì",
+    //     "level": "HSK4",
+    //     "english": "Politics"
+    // },
+    // "提供": {
+    //     "zhuyin": "",
+    //     "pinyin": "tígōng",
+    //     "level": "HSK4",
+    //     "english": "provide"
+    // },
+    // "打针": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǎzhēn",
+    //     "level": "HSK4",
+    //     "english": "To make an injection"
+    // },
+    // "列车": {
+    //     "zhuyin": "",
+    //     "pinyin": "lièchē",
+    //     "level": "HSK4",
+    //     "english": "train"
+    // },
+    // "躺": {
+    //     "zhuyin": "",
+    //     "pinyin": "tǎng",
+    //     "level": "HSK4",
+    //     "english": "lie"
+    // },
+    // "期间": {
+    //     "zhuyin": "",
+    //     "pinyin": "qījiān",
+    //     "level": "HSK4",
+    //     "english": "Period"
+    // },
+    // "海水": {
+    //     "zhuyin": "",
+    //     "pinyin": "hǎi shuǐ",
+    //     "level": "HSK4",
+    //     "english": "seawater; brine; sea"
+    // },
+    // "效率": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiàolǜ",
+    //     "level": "HSK4",
+    //     "english": "efficiency"
+    // },
+    // "刺": {
+    //     "zhuyin": "",
+    //     "pinyin": "cì",
+    //     "level": "HSK4",
+    //     "english": "thorn"
+    // },
+    // "密切": {
+    //     "zhuyin": "",
+    //     "pinyin": "mìqiè",
+    //     "level": "HSK4",
+    //     "english": "close"
+    // },
+    // "符号": {
+    //     "zhuyin": "",
+    //     "pinyin": "fúhào",
+    //     "level": "HSK4",
+    //     "english": "Symbol"
+    // },
+    // "切": {
+    //     "zhuyin": "",
+    //     "pinyin": "qiē",
+    //     "level": "HSK4",
+    //     "english": "cut"
+    // },
+    // "茶叶": {
+    //     "zhuyin": "",
+    //     "pinyin": "chá yè",
+    //     "level": "HSK4",
+    //     "english": "tea; tea-leaves"
+    // },
+    // "士兵": {
+    //     "zhuyin": "",
+    //     "pinyin": "shìbīng",
+    //     "level": "HSK4",
+    //     "english": "soldiers"
+    // },
+    // "bì": {
+    //     "zhuyin": "避",
+    //     "pinyin": "avoid; evade; dodge; keep away; repel",
+    //     "level": "HSK4",
+    //     "english": ""
+    // },
+    // "运用": {
+    //     "zhuyin": "",
+    //     "pinyin": "yùnyòng",
+    //     "level": "HSK4",
+    //     "english": "Application"
+    // },
+    // "操作": {
+    //     "zhuyin": "",
+    //     "pinyin": "cāozuò",
+    //     "level": "HSK4",
+    //     "english": "operation"
+    // },
+    // "逐步": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhúbù",
+    //     "level": "HSK4",
+    //     "english": "gradually"
+    // },
+    // "维持": {
+    //     "zhuyin": "",
+    //     "pinyin": "wéichí",
+    //     "level": "HSK4",
+    //     "english": "maintain"
+    // },
+    // "资源": {
+    //     "zhuyin": "",
+    //     "pinyin": "zīyuán",
+    //     "level": "HSK4",
+    //     "english": "Resources"
+    // },
+    // "可见": {
+    //     "zhuyin": "",
+    //     "pinyin": "kějiàn",
+    //     "level": "HSK4",
+    //     "english": "So"
+    // },
+    // "采访": {
+    //     "zhuyin": "",
+    //     "pinyin": "cǎifǎng",
+    //     "level": "HSK4",
+    //     "english": "interview"
+    // },
+    // "分散": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēnsàn",
+    //     "level": "HSK4",
+    //     "english": "Dispersed"
+    // },
+    // "统一": {
+    //     "zhuyin": "",
+    //     "pinyin": "tǒngyī",
+    //     "level": "HSK4",
+    //     "english": "Unified"
+    // },
+    // "多年": {
+    //     "zhuyin": "",
+    //     "pinyin": "duō nián",
+    //     "level": "HSK4",
+    //     "english": "many years"
+    // },
+    // "手术": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǒushù",
+    //     "level": "HSK4",
+    //     "english": "Operation"
+    // },
+    // "安置": {
+    //     "zhuyin": "",
+    //     "pinyin": "ānzhì",
+    //     "level": "HSK4",
+    //     "english": "put; arrange for"
+    // },
+    // "婚礼": {
+    //     "zhuyin": "",
+    //     "pinyin": "hūnlǐ",
+    //     "level": "HSK4",
+    //     "english": "wedding"
+    // },
+    // "耳机": {
+    //     "zhuyin": "",
+    //     "pinyin": "ěr jī",
+    //     "level": "HSK4",
+    //     "english": "earphone; headphone; headset"
+    // },
+    // "否则": {
+    //     "zhuyin": "",
+    //     "pinyin": "fǒuzé",
+    //     "level": "HSK4",
+    //     "english": "otherwise"
+    // },
+    // "箱": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiāng",
+    //     "level": "HSK4",
+    //     "english": "chest; box; case; trunk"
+    // },
+    // "遇到": {
+    //     "zhuyin": "",
+    //     "pinyin": "yùdào",
+    //     "level": "HSK4",
+    //     "english": "encounter"
+    // },
+    // "迫切": {
+    //     "zhuyin": "",
+    //     "pinyin": "pòqiè",
+    //     "level": "HSK4",
+    //     "english": "urgent"
+    // },
+    // "两边": {
+    //     "zhuyin": "",
+    //     "pinyin": "liǎng biān",
+    //     "level": "HSK4",
+    //     "english": "both sides"
+    // },
+    // "堵": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǔ",
+    //     "level": "HSK4",
+    //     "english": "stop up; block up; stifled; suffocated; oppressed"
+    // },
+    // "下楼": {
+    //     "zhuyin": "",
+    //     "pinyin": "xià lóu",
+    //     "level": "HSK4",
+    //     "english": "go downstairs; come downstairs"
+    // },
+    // "曾": {
+    //     "zhuyin": "",
+    //     "pinyin": "céng",
+    //     "level": "HSK4",
+    //     "english": "once; already; at some time in the past"
+    // },
+    // "以及": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǐjí",
+    //     "level": "HSK4",
+    //     "english": "as well as"
+    // },
+    // "唱片": {
+    //     "zhuyin": "",
+    //     "pinyin": "chàng piàn",
+    //     "level": "HSK4",
+    //     "english": "record; disc; phonogram"
+    // },
+    // "弱": {
+    //     "zhuyin": "",
+    //     "pinyin": "ruò",
+    //     "level": "HSK4",
+    //     "english": "weak"
+    // },
+    // "塑料": {
+    //     "zhuyin": "",
+    //     "pinyin": "sù liào",
+    //     "level": "HSK4",
+    //     "english": "plastic"
+    // },
+    // "一般来说": {
+    //     "zhuyin": "",
+    //     "pinyin": "yì bān lái shuō",
+    //     "level": "HSK4",
+    //     "english": "generally speaking"
+    // },
+    // "及格": {
+    //     "zhuyin": "",
+    //     "pinyin": "jígé",
+    //     "level": "HSK4",
+    //     "english": "pass"
+    // },
+    // "名人": {
+    //     "zhuyin": "",
+    //     "pinyin": "míng rén",
+    //     "level": "HSK4",
+    //     "english": "celebrity; famous person"
+    // },
+    // "从此": {
+    //     "zhuyin": "",
+    //     "pinyin": "cóngcǐ",
+    //     "level": "HSK4",
+    //     "english": "from then on"
+    // },
+    // "位置": {
+    //     "zhuyin": "",
+    //     "pinyin": "wèizhì",
+    //     "level": "HSK4",
+    //     "english": "position"
+    // },
+    // "渐渐": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiàn jiàn",
+    //     "level": "HSK4",
+    //     "english": "gradually; step by step"
+    // },
+    // "近代": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìndài",
+    //     "level": "HSK4",
+    //     "english": "Modern"
+    // },
+    // "进口": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìnkǒu",
+    //     "level": "HSK4",
+    //     "english": "Imported"
+    // },
+    // "寒假": {
+    //     "zhuyin": "",
+    //     "pinyin": "hánjià",
+    //     "level": "HSK4",
+    //     "english": "The winter vacation"
+    // },
+    // "冰雪": {
+    //     "zhuyin": "",
+    //     "pinyin": "bīng xuě",
+    //     "level": "HSK4",
+    //     "english": "ice and snow"
+    // },
+    // "圆": {
+    //     "zhuyin": "",
+    //     "pinyin": "yuán",
+    //     "level": "HSK4",
+    //     "english": "circular"
+    // },
+    // "修理": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiūlǐ",
+    //     "level": "HSK4",
+    //     "english": "repair"
+    // },
+    // "模型": {
+    //     "zhuyin": "",
+    //     "pinyin": "móxíng",
+    //     "level": "HSK4",
+    //     "english": "Model"
+    // },
+    // "夫人": {
+    //     "zhuyin": "",
+    //     "pinyin": "fūrén",
+    //     "level": "HSK4",
+    //     "english": "Madam"
+    // },
+    // "镜头": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìngtóu",
+    //     "level": "HSK4",
+    //     "english": "Camera lens"
+    // },
+    // "倒车": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǎo chē",
+    //     "level": "HSK4",
+    //     "english": "change trains or buses"
+    // },
+    // "护士": {
+    //     "zhuyin": "",
+    //     "pinyin": "hùshi",
+    //     "level": "HSK4",
+    //     "english": "Nurse"
+    // },
+    // "美金": {
+    //     "zhuyin": "",
+    //     "pinyin": "měi jīn",
+    //     "level": "HSK4",
+    //     "english": "USD; dollar"
+    // },
+    // "重量": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhòngliàng",
+    //     "level": "HSK4",
+    //     "english": "weight"
+    // },
+    // "梦想": {
+    //     "zhuyin": "",
+    //     "pinyin": "mèngxiǎng",
+    //     "level": "HSK4",
+    //     "english": "Dream"
+    // },
+    // "选择": {
+    //     "zhuyin": "",
+    //     "pinyin": "xuǎnzé",
+    //     "level": "HSK4",
+    //     "english": "Choice"
+    // },
+    // "良好": {
+    //     "zhuyin": "",
+    //     "pinyin": "liánghǎo",
+    //     "level": "HSK4",
+    //     "english": "good"
+    // },
+    // "获": {
+    //     "zhuyin": "",
+    //     "pinyin": "huò",
+    //     "level": "HSK4",
+    //     "english": "obtain; win; reap; capture; catch"
+    // },
+    // "松树": {
+    //     "zhuyin": "",
+    //     "pinyin": "sōng shù",
+    //     "level": "HSK4",
+    //     "english": "pine tree; pine"
+    // },
+    // "度过": {
+    //     "zhuyin": "",
+    //     "pinyin": "dùguò",
+    //     "level": "HSK4",
+    //     "english": "Spend"
+    // },
+    // "总之": {
+    //     "zhuyin": "",
+    //     "pinyin": "zǒngzhī",
+    //     "level": "HSK4",
+    //     "english": "in short"
+    // },
+    // "之一": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhī yī",
+    //     "level": "HSK4",
+    //     "english": "one of"
+    // },
+    // "遗产": {
+    //     "zhuyin": "",
+    //     "pinyin": "yíchǎn",
+    //     "level": "HSK4",
+    //     "english": "heritage"
+    // },
+    // "替代": {
+    //     "zhuyin": "",
+    //     "pinyin": "tì dài",
+    //     "level": "HSK4",
+    //     "english": "replace; substitute"
+    // },
+    // "舒适": {
+    //     "zhuyin": "",
+    //     "pinyin": "shūshì",
+    //     "level": "HSK4",
+    //     "english": "Comfortable"
+    // },
+    // "湿": {
+    //     "zhuyin": "",
+    //     "pinyin": "shī",
+    //     "level": "HSK4",
+    //     "english": "wet; damp; humid"
+    // },
+    // "医疗": {
+    //     "zhuyin": "",
+    //     "pinyin": "yī liáo",
+    //     "level": "HSK4",
+    //     "english": "medical treatment"
+    // },
+    // "奋斗": {
+    //     "zhuyin": "",
+    //     "pinyin": "fèndòu",
+    //     "level": "HSK4",
+    //     "english": "Struggle"
+    // },
+    // "特价": {
+    //     "zhuyin": "",
+    //     "pinyin": "tè jià",
+    //     "level": "HSK4",
+    //     "english": "special offer; bargain price"
+    // },
+    // "财产": {
+    //     "zhuyin": "",
+    //     "pinyin": "cáichǎn",
+    //     "level": "HSK4",
+    //     "english": "property"
+    // },
+    // "大爷": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà ye",
+    //     "level": "HSK4",
+    //     "english": "uncle; father’s elder brother"
+    // },
+    // "含义": {
+    //     "zhuyin": "",
+    //     "pinyin": "hányì",
+    //     "level": "HSK4",
+    //     "english": "signification; meanings"
+    // },
+    // "着": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhe",
+    //     "level": "HSK4",
+    //     "english": "in process of"
+    // },
+    // "电梯": {
+    //     "zhuyin": "",
+    //     "pinyin": "diàntī",
+    //     "level": "HSK4",
+    //     "english": "Elevator."
+    // },
+    // "测试": {
+    //     "zhuyin": "",
+    //     "pinyin": "cè shì",
+    //     "level": "HSK4",
+    //     "english": "test; examination"
+    // },
+    // "清醒": {
+    //     "zhuyin": "",
+    //     "pinyin": "qīngxǐng",
+    //     "level": "HSK4",
+    //     "english": "Sober"
+    // },
+    // "专心": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuānxīn",
+    //     "level": "HSK4",
+    //     "english": "Attentively"
+    // },
+    // "获奖": {
+    //     "zhuyin": "",
+    //     "pinyin": "huò jiǎng",
+    //     "level": "HSK4",
+    //     "english": "win a prize; receive an award"
+    // },
+    // "即将": {
+    //     "zhuyin": "",
+    //     "pinyin": "jíjiāng",
+    //     "level": "HSK4",
+    //     "english": "soon"
+    // },
+    // "单调": {
+    //     "zhuyin": "",
+    //     "pinyin": "dāndiào",
+    //     "level": "HSK4",
+    //     "english": "monotonous"
+    // },
+    // "拉开": {
+    //     "zhuyin": "",
+    //     "pinyin": "lā kāi",
+    //     "level": "HSK4",
+    //     "english": "pull open; undraw; zip"
+    // },
+    // "遇": {
+    //     "zhuyin": "",
+    //     "pinyin": "yù",
+    //     "level": "HSK4",
+    //     "english": "meet; encounter"
+    // },
+    // "减肥": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎnféi",
+    //     "level": "HSK4",
+    //     "english": "Reduce weight"
+    // },
+    // "位于": {
+    //     "zhuyin": "",
+    //     "pinyin": "wèiyú",
+    //     "level": "HSK4",
+    //     "english": "Be located"
+    // },
+    // "布置": {
+    //     "zhuyin": "",
+    //     "pinyin": "bùzhì",
+    //     "level": "HSK4",
+    //     "english": "Arrangement"
+    // },
+    // "情景": {
+    //     "zhuyin": "",
+    //     "pinyin": "qíngjǐng",
+    //     "level": "HSK4",
+    //     "english": "scene"
+    // },
+    // "对付": {
+    //     "zhuyin": "",
+    //     "pinyin": "duìfu",
+    //     "level": "HSK4",
+    //     "english": "deal with"
+    // },
+    // "交换": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiāohuàn",
+    //     "level": "HSK4",
+    //     "english": "exchange"
+    // },
+    // "顺序": {
+    //     "zhuyin": "",
+    //     "pinyin": "shùnxù",
+    //     "level": "HSK4",
+    //     "english": "order"
+    // },
+    // "冲": {
+    //     "zhuyin": "",
+    //     "pinyin": "chōng",
+    //     "level": "HSK4",
+    //     "english": "punching"
+    // },
+    // "大哥": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà gē",
+    //     "level": "HSK4",
+    //     "english": "big brother; elder brother"
+    // },
+    // "格外": {
+    //     "zhuyin": "",
+    //     "pinyin": "géwài",
+    //     "level": "HSK4",
+    //     "english": "especially"
+    // },
+    // "安": {
+    //     "zhuyin": "",
+    //     "pinyin": "ān",
+    //     "level": "HSK4",
+    //     "english": "quiet; safe; secure; install; fix; fit"
+    // },
+    // "维护": {
+    //     "zhuyin": "",
+    //     "pinyin": "wéihù",
+    //     "level": "HSK4",
+    //     "english": "protect"
+    // },
+    // "记载": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìzǎi",
+    //     "level": "HSK4",
+    //     "english": "Record"
+    // },
+    // "彻底": {
+    //     "zhuyin": "",
+    //     "pinyin": "chèdǐ",
+    //     "level": "HSK4",
+    //     "english": "thorough"
+    // },
+    // "成人": {
+    //     "zhuyin": "",
+    //     "pinyin": "chéngrén",
+    //     "level": "HSK4",
+    //     "english": "adult"
+    // },
+    // "收获": {
+    //     "zhuyin": "",
+    //     "pinyin": "shōuhuò",
+    //     "level": "HSK4",
+    //     "english": "Harvest"
+    // },
+    // "投入": {
+    //     "zhuyin": "",
+    //     "pinyin": "tóurù",
+    //     "level": "HSK4",
+    //     "english": "put into"
+    // },
+    // "大方": {
+    //     "zhuyin": "",
+    //     "pinyin": "dàfang",
+    //     "level": "HSK4",
+    //     "english": "generous"
+    // },
+    // "事物": {
+    //     "zhuyin": "",
+    //     "pinyin": "shìwù",
+    //     "level": "HSK4",
+    //     "english": "Thing"
+    // },
+    // "下载": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiàzài",
+    //     "level": "HSK4",
+    //     "english": "download"
+    // },
+    // "登录": {
+    //     "zhuyin": "",
+    //     "pinyin": "dēnglù",
+    //     "level": "HSK4",
+    //     "english": "Sign in"
+    // },
+    // "归": {
+    //     "zhuyin": "",
+    //     "pinyin": "guī",
+    //     "level": "HSK4",
+    //     "english": "return; go back"
+    // },
+    // "治": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhì",
+    //     "level": "HSK4",
+    //     "english": "rule; govern; manage; cure; treatment"
+    // },
+    // "常识": {
+    //     "zhuyin": "",
+    //     "pinyin": "chángshí",
+    //     "level": "HSK4",
+    //     "english": "common sense"
+    // },
+    // "风格": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēnggé",
+    //     "level": "HSK4",
+    //     "english": "style"
+    // },
+    // "包裹": {
+    //     "zhuyin": "",
+    //     "pinyin": "bāoguǒ",
+    //     "level": "HSK4",
+    //     "english": "package"
+    // },
+    // "沉默": {
+    //     "zhuyin": "",
+    //     "pinyin": "chénmò",
+    //     "level": "HSK4",
+    //     "english": "silent"
+    // },
+    // "密": {
+    //     "zhuyin": "",
+    //     "pinyin": "mì",
+    //     "level": "HSK4",
+    //     "english": "thick; secret; close; dense"
+    // },
+    // "哪": {
+    //     "zhuyin": "",
+    //     "pinyin": "nǎ",
+    //     "level": "HSK4",
+    //     "english": "which"
+    // },
+    // "研制": {
+    //     "zhuyin": "",
+    //     "pinyin": "yán zhì",
+    //     "level": "HSK4",
+    //     "english": "prepare; manufacture; develop"
+    // },
+    // "打": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǎ",
+    //     "level": "HSK4",
+    //     "english": "strike; hit; break; fight; build; beat"
+    // },
+    // "被迫": {
+    //     "zhuyin": "",
+    //     "pinyin": "bèi pò",
+    //     "level": "HSK4",
+    //     "english": "be compelled; be forced; be constrained"
+    // },
+    // "中介": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhōngjiè",
+    //     "level": "HSK4",
+    //     "english": "intermediary"
+    // },
+    // "战争": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhànzhēng",
+    //     "level": "HSK4",
+    //     "english": "War"
+    // },
+    // "吸引": {
+    //     "zhuyin": "",
+    //     "pinyin": "xīyǐn",
+    //     "level": "HSK4",
+    //     "english": "Attract"
+    // },
+    // "迟到": {
+    //     "zhuyin": "",
+    //     "pinyin": "chídào",
+    //     "level": "HSK4",
+    //     "english": "Late"
+    // },
+    // "女士": {
+    //     "zhuyin": "",
+    //     "pinyin": "nǚshì",
+    //     "level": "HSK4",
+    //     "english": "Ma’am"
+    // },
+    // "秋季": {
+    //     "zhuyin": "",
+    //     "pinyin": "qiū jì",
+    //     "level": "HSK4",
+    //     "english": "autumn; fall"
+    // },
+    // "提醒": {
+    //     "zhuyin": "",
+    //     "pinyin": "tíxǐng",
+    //     "level": "HSK4",
+    //     "english": "remind"
+    // },
+    // "权利": {
+    //     "zhuyin": "",
+    //     "pinyin": "quánlì",
+    //     "level": "HSK4",
+    //     "english": "Right"
+    // },
+    // "矿泉水": {
+    //     "zhuyin": "",
+    //     "pinyin": "kuàngquánshuǐ",
+    //     "level": "HSK4",
+    //     "english": "Mineral water"
+    // },
+    // "原则": {
+    //     "zhuyin": "",
+    //     "pinyin": "yuánzé",
+    //     "level": "HSK4",
+    //     "english": "Principle"
+    // },
+    // "咸": {
+    //     "zhuyin": "",
+    //     "pinyin": "xián",
+    //     "level": "HSK4",
+    //     "english": "salty"
+    // },
+    // "浅": {
+    //     "zhuyin": "",
+    //     "pinyin": "qiǎn",
+    //     "level": "HSK4",
+    //     "english": "shallow"
+    // },
+    // "流传": {
+    //     "zhuyin": "",
+    //     "pinyin": "liúchuán",
+    //     "level": "HSK4",
+    //     "english": "spread"
+    // },
+    // "新郎": {
+    //     "zhuyin": "",
+    //     "pinyin": "xīnláng",
+    //     "level": "HSK4",
+    //     "english": "Groom"
+    // },
+    // "健身": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiànshēn",
+    //     "level": "HSK4",
+    //     "english": "workout"
+    // },
+    // "测": {
+    //     "zhuyin": "",
+    //     "pinyin": "cè",
+    //     "level": "HSK4",
+    //     "english": "survey; fathom; measure; conjecture; infer"
+    // },
+    // "冰箱": {
+    //     "zhuyin": "",
+    //     "pinyin": "bīngxiāng",
+    //     "level": "HSK4",
+    //     "english": "Refrigerator"
+    // },
+    // "促进": {
+    //     "zhuyin": "",
+    //     "pinyin": "cùjìn",
+    //     "level": "HSK4",
+    //     "english": "Promote"
+    // },
+    // "加班": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiābān",
+    //     "level": "HSK4",
+    //     "english": "overtime work"
+    // },
+    // "学时": {
+    //     "zhuyin": "",
+    //     "pinyin": "xué shí",
+    //     "level": "HSK4",
+    //     "english": "class hour; period"
+    // },
+    // "论文": {
+    //     "zhuyin": "",
+    //     "pinyin": "lùnwén",
+    //     "level": "HSK4",
+    //     "english": "paper"
+    // },
+    // "才": {
+    //     "zhuyin": "",
+    //     "pinyin": "cái",
+    //     "level": "HSK4",
+    //     "english": "ability; talent; gift; endowment"
+    // },
+    // "抽": {
+    //     "zhuyin": "",
+    //     "pinyin": "chōu",
+    //     "level": "HSK4",
+    //     "english": "pump; take out; shrink; pick out"
+    // },
+    // "分手": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēnshǒu",
+    //     "level": "HSK4",
+    //     "english": "Break up"
+    // },
+    // "应": {
+    //     "zhuyin": "",
+    //     "pinyin": "yīng",
+    //     "level": "HSK4",
+    //     "english": "should; ought to; answer; respond; promise"
+    // },
+    // "结构": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiégòu",
+    //     "level": "HSK4",
+    //     "english": "structure"
+    // },
+    // "减少": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎnshǎo",
+    //     "level": "HSK4",
+    //     "english": "reduce"
+    // },
+    // "空间": {
+    //     "zhuyin": "",
+    //     "pinyin": "kōngjiān",
+    //     "level": "HSK4",
+    //     "english": "space"
+    // },
+    // "伞": {
+    //     "zhuyin": "",
+    //     "pinyin": "sǎn",
+    //     "level": "HSK4",
+    //     "english": "umbrella"
+    // },
+    // "预订": {
+    //     "zhuyin": "",
+    //     "pinyin": "yùdìng",
+    //     "level": "HSK4",
+    //     "english": "book; subscribe for"
+    // },
+    // "约会": {
+    //     "zhuyin": "",
+    //     "pinyin": "yuēhuì",
+    //     "level": "HSK4",
+    //     "english": "Date"
+    // },
+    // "同情": {
+    //     "zhuyin": "",
+    //     "pinyin": "tóngqíng",
+    //     "level": "HSK4",
+    //     "english": "Sympathy"
+    // },
+    // "企业": {
+    //     "zhuyin": "",
+    //     "pinyin": "qǐyè",
+    //     "level": "HSK4",
+    //     "english": "enterprise"
+    // },
+    // "立即": {
+    //     "zhuyin": "",
+    //     "pinyin": "lìjí",
+    //     "level": "HSK4",
+    //     "english": "immediately"
+    // },
+    // "严重": {
+    //     "zhuyin": "",
+    //     "pinyin": "yánzhòng",
+    //     "level": "HSK4",
+    //     "english": "serious"
+    // },
+    // "宝贵": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎoguì",
+    //     "level": "HSK4",
+    //     "english": "valuable"
+    // },
+    // "口语": {
+    //     "zhuyin": "",
+    //     "pinyin": "kǒu yǔ",
+    //     "level": "HSK4",
+    //     "english": "spoken language"
+    // },
+    // "平方": {
+    //     "zhuyin": "",
+    //     "pinyin": "píngfāng",
+    //     "level": "HSK4",
+    //     "english": "square"
+    // },
+    // "多样": {
+    //     "zhuyin": "",
+    //     "pinyin": "duō yàng",
+    //     "level": "HSK4",
+    //     "english": "diversity"
+    // },
+    // "付出": {
+    //     "zhuyin": "",
+    //     "pinyin": "fù chū",
+    //     "level": "HSK4",
+    //     "english": "pay out"
+    // },
+    // "航班": {
+    //     "zhuyin": "",
+    //     "pinyin": "hángbān",
+    //     "level": "HSK4",
+    //     "english": "flight"
+    // },
+    // "毫米": {
+    //     "zhuyin": "",
+    //     "pinyin": "háomǐ",
+    //     "level": "HSK4",
+    //     "english": "millimeter"
+    // },
+    // "闪": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǎn",
+    //     "level": "HSK4",
+    //     "english": "dodge; get out of the way; sprain; flash; sparkle; shine; lightning"
+    // },
+    // "末": {
+    //     "zhuyin": "",
+    //     "pinyin": "mò",
+    //     "level": "HSK4",
+    //     "english": "end; last; final stage"
+    // },
+    // "改善": {
+    //     "zhuyin": "",
+    //     "pinyin": "gǎishàn",
+    //     "level": "HSK4",
+    //     "english": "Improve"
+    // },
+    // "老家": {
+    //     "zhuyin": "",
+    //     "pinyin": "lǎo jiā",
+    //     "level": "HSK4",
+    //     "english": "hometown; home state"
+    // },
+    // "抄写": {
+    //     "zhuyin": "",
+    //     "pinyin": "chāo xiě",
+    //     "level": "HSK4",
+    //     "english": "copy; transcribe"
+    // },
+    // "形势": {
+    //     "zhuyin": "",
+    //     "pinyin": "xíngshì",
+    //     "level": "HSK4",
+    //     "english": "situation"
+    // },
+    // "期待": {
+    //     "zhuyin": "",
+    //     "pinyin": "qīdài",
+    //     "level": "HSK4",
+    //     "english": "expect; look forward to"
+    // },
+    // "移": {
+    //     "zhuyin": "",
+    //     "pinyin": "yí",
+    //     "level": "HSK4",
+    //     "english": "move; remove; shift; change; alter"
+    // },
+    // "闪电": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǎndiàn",
+    //     "level": "HSK4",
+    //     "english": "lightning"
+    // },
+    // "酒吧": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǔbā",
+    //     "level": "HSK4",
+    //     "english": "Bar"
+    // },
+    // "身高": {
+    //     "zhuyin": "",
+    //     "pinyin": "shēn gāo",
+    //     "level": "HSK4",
+    //     "english": "height"
+    // },
+    // "老公": {
+    //     "zhuyin": "",
+    //     "pinyin": "lǎo gōng",
+    //     "level": "HSK4",
+    //     "english": "husband"
+    // },
+    // "鲜花": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiān huā",
+    //     "level": "HSK4",
+    //     "english": "fresh flower"
+    // },
+    // "受不了": {
+    //     "zhuyin": "",
+    //     "pinyin": "shòubuliǎo",
+    //     "level": "HSK4",
+    //     "english": "Cannot bear sth"
+    // },
+    // "行业": {
+    //     "zhuyin": "",
+    //     "pinyin": "hángyè",
+    //     "level": "HSK4",
+    //     "english": "industry"
+    // },
+    // "外汇": {
+    //     "zhuyin": "",
+    //     "pinyin": "wài huì",
+    //     "level": "HSK4",
+    //     "english": "foreign exchange; foreign currency"
+    // },
+    // "追求": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuīqiú",
+    //     "level": "HSK4",
+    //     "english": "Pursuit"
+    // },
+    // "小吃": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiǎochī",
+    //     "level": "HSK4",
+    //     "english": "snack"
+    // },
+    // "上门": {
+    //     "zhuyin": "",
+    //     "pinyin": "shàng mén",
+    //     "level": "HSK4",
+    //     "english": "drop in; visit"
+    // },
+    // "透明": {
+    //     "zhuyin": "",
+    //     "pinyin": "tòumíng",
+    //     "level": "HSK4",
+    //     "english": "transparent"
+    // },
+    // "寒冷": {
+    //     "zhuyin": "",
+    //     "pinyin": "hán lěng",
+    //     "level": "HSK4",
+    //     "english": "cold; frigid; chill; frigidity"
+    // },
+    // "之前": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhī qián",
+    //     "level": "HSK4",
+    //     "english": "before; prior to"
+    // },
+    // "发烧": {
+    //     "zhuyin": "",
+    //     "pinyin": "fāshāo",
+    //     "level": "HSK4",
+    //     "english": "Have a fever"
+    // },
+    // "夏季": {
+    //     "zhuyin": "",
+    //     "pinyin": "xià jì",
+    //     "level": "HSK4",
+    //     "english": "summer"
+    // },
+    // "胖子": {
+    //     "zhuyin": "",
+    //     "pinyin": "pàng zi",
+    //     "level": "HSK4",
+    //     "english": "fat person; fatty"
+    // },
+    // "反映": {
+    //     "zhuyin": "",
+    //     "pinyin": "fǎnyìng",
+    //     "level": "HSK4",
+    //     "english": "reflect"
+    // },
+    // "天真": {
+    //     "zhuyin": "",
+    //     "pinyin": "tiānzhēn",
+    //     "level": "HSK4",
+    //     "english": "naive"
+    // },
+    // "再三": {
+    //     "zhuyin": "",
+    //     "pinyin": "zàisān",
+    //     "level": "HSK4",
+    //     "english": "repeatedly"
+    // },
+    // "利益": {
+    //     "zhuyin": "",
+    //     "pinyin": "lìyì",
+    //     "level": "HSK4",
+    //     "english": "interest"
+    // },
+    // "一再": {
+    //     "zhuyin": "",
+    //     "pinyin": "yízài",
+    //     "level": "HSK4",
+    //     "english": "repeatedly"
+    // },
+    // "在于": {
+    //     "zhuyin": "",
+    //     "pinyin": "zàiyú",
+    //     "level": "HSK4",
+    //     "english": "rest with"
+    // },
+    // "盖": {
+    //     "zhuyin": "",
+    //     "pinyin": "gài",
+    //     "level": "HSK4",
+    //     "english": "cover"
+    // },
+    // "加油站": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiāyóuzhàn",
+    //     "level": "HSK4",
+    //     "english": "Gas station"
+    // },
+    // "塑料袋": {
+    //     "zhuyin": "",
+    //     "pinyin": "sùliàodài",
+    //     "level": "HSK4",
+    //     "english": "Plastic bag"
+    // },
+    // "没错": {
+    //     "zhuyin": "",
+    //     "pinyin": "méi cuò",
+    //     "level": "HSK4",
+    //     "english": "that’s right"
+    // },
+    // "大规模": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà guī mó",
+    //     "level": "HSK4",
+    //     "english": "large-scale; extensive"
+    // },
+    // "材料": {
+    //     "zhuyin": "",
+    //     "pinyin": "cáiliào",
+    //     "level": "HSK4",
+    //     "english": "Materials"
+    // },
+    // "摆脱": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎituō",
+    //     "level": "HSK4",
+    //     "english": "cast off"
+    // },
+    // "构造": {
+    //     "zhuyin": "",
+    //     "pinyin": "gòu zào",
+    //     "level": "HSK4",
+    //     "english": "structure; construction"
+    // },
+    // "松": {
+    //     "zhuyin": "",
+    //     "pinyin": "sōng",
+    //     "level": "HSK4",
+    //     "english": "pine; loose; slack; loosen; relax; slacken"
+    // },
+    // "依然": {
+    //     "zhuyin": "",
+    //     "pinyin": "yīrán",
+    //     "level": "HSK4",
+    //     "english": "still"
+    // },
+    // "列入": {
+    //     "zhuyin": "",
+    //     "pinyin": "liè rù",
+    //     "level": "HSK4",
+    //     "english": "included in"
+    // },
+    // "促销": {
+    //     "zhuyin": "",
+    //     "pinyin": "cù xiāo",
+    //     "level": "HSK4",
+    //     "english": "promotion"
+    // },
+    // "保守": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎoshǒu",
+    //     "level": "HSK4",
+    //     "english": "Conservative"
+    // },
+    // "乐趣": {
+    //     "zhuyin": "",
+    //     "pinyin": "lèqù",
+    //     "level": "HSK4",
+    //     "english": "pleasure"
+    // },
+    // "亲密": {
+    //     "zhuyin": "",
+    //     "pinyin": "qīnmì",
+    //     "level": "HSK4",
+    //     "english": "close"
+    // },
+    // "深厚": {
+    //     "zhuyin": "",
+    //     "pinyin": "shēn hòu",
+    //     "level": "HSK4",
+    //     "english": "deep; profound; solid; deep-seated"
+    // },
+    // "相反": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiāngfǎn",
+    //     "level": "HSK4",
+    //     "english": "Contrary"
+    // },
+    // "出口": {
+    //     "zhuyin": "",
+    //     "pinyin": "chūkǒu",
+    //     "level": "HSK4",
+    //     "english": "Exit"
+    // },
+    // "善于": {
+    //     "zhuyin": "",
+    //     "pinyin": "shànyú",
+    //     "level": "HSK4",
+    //     "english": "be good at"
+    // },
+    // "检测": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎn cè",
+    //     "level": "HSK4",
+    //     "english": "detect; test"
+    // },
+    // "思考": {
+    //     "zhuyin": "",
+    //     "pinyin": "sīkǎo",
+    //     "level": "HSK4",
+    //     "english": "Reflection"
+    // },
+    // "想象": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiǎngxiàng",
+    //     "level": "HSK4",
+    //     "english": "imagine"
+    // },
+    // "根": {
+    //     "zhuyin": "",
+    //     "pinyin": "gēn",
+    //     "level": "HSK4",
+    //     "english": "root"
+    // },
+    // "卷": {
+    //     "zhuyin": "",
+    //     "pinyin": "juàn",
+    //     "level": "HSK4",
+    //     "english": "volume; file"
+    // },
+    // "折": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhé",
+    //     "level": "HSK4",
+    //     "english": "fracture"
+    // },
+    // "征求": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhēngqiú",
+    //     "level": "HSK4",
+    //     "english": "seek, ask for"
+    // },
+    // "反而": {
+    //     "zhuyin": "",
+    //     "pinyin": "fǎn’ér",
+    //     "level": "HSK4",
+    //     "english": "Instead"
+    // },
+    // "研究生": {
+    //     "zhuyin": "",
+    //     "pinyin": "yán jiū shēng",
+    //     "level": "HSK4",
+    //     "english": "postgraduate; graduate student"
+    // },
+    // "季节": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìjié",
+    //     "level": "HSK4",
+    //     "english": "Season"
+    // },
+    // "睡着": {
+    //     "zhuyin": "",
+    //     "pinyin": "shuì zháo",
+    //     "level": "HSK4",
+    //     "english": "sleep; fall asleep"
+    // },
+    // "肥": {
+    //     "zhuyin": "",
+    //     "pinyin": "féi",
+    //     "level": "HSK4",
+    //     "english": "fat; fertile"
+    // },
+    // "勇敢": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǒnggǎn",
+    //     "level": "HSK4",
+    //     "english": "Brave"
+    // },
+    // "小型": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiǎo xíng",
+    //     "level": "HSK4",
+    //     "english": "small-size; small-scale"
+    // },
+    // "姐妹": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiě mèi",
+    //     "level": "HSK4",
+    //     "english": "sisters"
+    // },
+    // "品质": {
+    //     "zhuyin": "",
+    //     "pinyin": "pǐnzhì",
+    //     "level": "HSK4",
+    //     "english": "quality"
+    // },
+    // "项目": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiàngmù",
+    //     "level": "HSK4",
+    //     "english": "project"
+    // },
+    // "热闹": {
+    //     "zhuyin": "",
+    //     "pinyin": "rènao",
+    //     "level": "HSK4",
+    //     "english": "lively"
+    // },
+    // "外套": {
+    //     "zhuyin": "",
+    //     "pinyin": "wài tào",
+    //     "level": "HSK4",
+    //     "english": "coat"
+    // },
+    // "研究": {
+    //     "zhuyin": "",
+    //     "pinyin": "yánjiū",
+    //     "level": "HSK4",
+    //     "english": "research"
+    // },
+    // "薄": {
+    //     "zhuyin": "",
+    //     "pinyin": "báo",
+    //     "level": "HSK4",
+    //     "english": "thin"
+    // },
+    // "…分之…": {
+    //     "zhuyin": "",
+    //     "pinyin": "… fēn zhī …",
+    //     "level": "HSK4",
+    //     "english": "fractional number"
+    // },
+    // "积累": {
+    //     "zhuyin": "",
+    //     "pinyin": "jīlěi",
+    //     "level": "HSK4",
+    //     "english": "accumulation"
+    // },
+    // "眼镜": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǎnjìng",
+    //     "level": "HSK4",
+    //     "english": "glasses"
+    // },
+    // "高价": {
+    //     "zhuyin": "",
+    //     "pinyin": "gāo jià",
+    //     "level": "HSK4",
+    //     "english": "high price"
+    // },
+    // "电灯": {
+    //     "zhuyin": "",
+    //     "pinyin": "diàn dēng",
+    //     "level": "HSK4",
+    //     "english": "electric light"
+    // },
+    // "了不起": {
+    //     "zhuyin": "",
+    //     "pinyin": "liǎobuqǐ",
+    //     "level": "HSK4",
+    //     "english": "Amazing"
+    // },
+    // "非": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēi",
+    //     "level": "HSK4",
+    //     "english": "wrong"
+    // },
+    // "之间": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhī jiān",
+    //     "level": "HSK4",
+    //     "english": "between; among"
+    // },
+    // "设置": {
+    //     "zhuyin": "",
+    //     "pinyin": "shèzhì",
+    //     "level": "HSK4",
+    //     "english": "Set up"
+    // },
+    // "合同": {
+    //     "zhuyin": "",
+    //     "pinyin": "hétong",
+    //     "level": "HSK4",
+    //     "english": "contract"
+    // },
+    // "养成": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǎngchéng",
+    //     "level": "HSK4",
+    //     "english": "Cultivate"
+    // },
+    // "自": {
+    //     "zhuyin": "",
+    //     "pinyin": "zì",
+    //     "level": "HSK4",
+    //     "english": "from; since; self; oneself"
+    // },
+    // "测量": {
+    //     "zhuyin": "",
+    //     "pinyin": "cèliáng",
+    //     "level": "HSK4",
+    //     "english": "measure"
+    // },
+    // "精力": {
+    //     "zhuyin": "",
+    //     "pinyin": "jīnglì",
+    //     "level": "HSK4",
+    //     "english": "energy"
+    // },
+    // "名片": {
+    //     "zhuyin": "",
+    //     "pinyin": "míngpiàn",
+    //     "level": "HSK4",
+    //     "english": "business card"
+    // },
+    // "严": {
+    //     "zhuyin": "",
+    //     "pinyin": "yán",
+    //     "level": "HSK4",
+    //     "english": "strict; tight; severe; stern"
+    // },
+    // "引": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǐn",
+    //     "level": "HSK4",
+    //     "english": "lead; guide; draw; stretch; lure; attract; cause"
+    // },
+    // "处": {
+    //     "zhuyin": "",
+    //     "pinyin": "chǔ",
+    //     "level": "HSK4",
+    //     "english": "dwell; live; be in a position of"
+    // },
+    // "看望": {
+    //     "zhuyin": "",
+    //     "pinyin": "kànwàng",
+    //     "level": "HSK4",
+    //     "english": "visit"
+    // },
+    // "亲爱": {
+    //     "zhuyin": "",
+    //     "pinyin": "qīn’ài",
+    //     "level": "HSK4",
+    //     "english": "Dear"
+    // },
+    // "销售": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiāoshòu",
+    //     "level": "HSK4",
+    //     "english": "Sale"
+    // },
+    // "阶段": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiēduàn",
+    //     "level": "HSK4",
+    //     "english": "stage"
+    // },
+    // "光盘": {
+    //     "zhuyin": "",
+    //     "pinyin": "guāngpán",
+    //     "level": "HSK4",
+    //     "english": "CD"
+    // },
+    // "各个": {
+    //     "zhuyin": "",
+    //     "pinyin": "gè gè",
+    //     "level": "HSK4",
+    //     "english": "each"
+    // },
+    // "摇": {
+    //     "zhuyin": "",
+    //     "pinyin": "yáo",
+    //     "level": "HSK4",
+    //     "english": "shake"
+    // },
+    // "赏": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǎng",
+    //     "level": "HSK4",
+    //     "english": "award; appreciate; reward"
+    // },
+    // "毛巾": {
+    //     "zhuyin": "",
+    //     "pinyin": "máojīn",
+    //     "level": "HSK4",
+    //     "english": "Towel"
+    // },
+    // "赞赏": {
+    //     "zhuyin": "",
+    //     "pinyin": "zàn shǎng",
+    //     "level": "HSK4",
+    //     "english": "praise; panegyrize; eulogize; admiration"
+    // },
+    // "刷子": {
+    //     "zhuyin": "",
+    //     "pinyin": "shuā zi",
+    //     "level": "HSK4",
+    //     "english": "brush; scrub"
+    // },
+    // "老婆": {
+    //     "zhuyin": "",
+    //     "pinyin": "lǎopó",
+    //     "level": "HSK4",
+    //     "english": "wife"
+    // },
+    // "散": {
+    //     "zhuyin": "",
+    //     "pinyin": "sàn",
+    //     "level": "HSK4",
+    //     "english": "break up; disperse; distribute; disseminate; give out"
+    // },
+    // "优良": {
+    //     "zhuyin": "",
+    //     "pinyin": "yōu liáng",
+    //     "level": "HSK4",
+    //     "english": "fine; good; excellent"
+    // },
+    // "闹": {
+    //     "zhuyin": "",
+    //     "pinyin": "nào",
+    //     "level": "HSK4",
+    //     "english": "noisy; make a noise; suffer; be troubled"
+    // },
+    // "过分": {
+    //     "zhuyin": "",
+    //     "pinyin": "guòfèn",
+    //     "level": "HSK4",
+    //     "english": "excessive"
+    // },
+    // "毫升": {
+    //     "zhuyin": "",
+    //     "pinyin": "háo shēng",
+    //     "level": "HSK4",
+    //     "english": "milliliter"
+    // },
+    // "哪怕": {
+    //     "zhuyin": "",
+    //     "pinyin": "nǎpà",
+    //     "level": "HSK4",
+    //     "english": "even if"
+    // },
+    // "摸": {
+    //     "zhuyin": "",
+    //     "pinyin": "mō",
+    //     "level": "HSK4",
+    //     "english": "feel"
+    // },
+    // "作为": {
+    //     "zhuyin": "",
+    //     "pinyin": "zuòwéi",
+    //     "level": "HSK4",
+    //     "english": "As"
+    // },
+    // "圆满": {
+    //     "zhuyin": "",
+    //     "pinyin": "yuánmǎn",
+    //     "level": "HSK4",
+    //     "english": "Satisfactorily"
+    // },
+    // "问候": {
+    //     "zhuyin": "",
+    //     "pinyin": "wènhòu",
+    //     "level": "HSK4",
+    //     "english": "To greet"
+    // },
+    // "规律": {
+    //     "zhuyin": "",
+    //     "pinyin": "guīlǜ",
+    //     "level": "HSK4",
+    //     "english": "Law"
+    // },
+    // "亚运会": {
+    //     "zhuyin": "",
+    //     "pinyin": "yà yùn huì",
+    //     "level": "HSK4",
+    //     "english": "Asian Games"
+    // },
+    // "种": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhǒng",
+    //     "level": "HSK4",
+    //     "english": "species"
+    // },
+    // "套餐": {
+    //     "zhuyin": "",
+    //     "pinyin": "tào cān",
+    //     "level": "HSK4",
+    //     "english": "set meal"
+    // },
+    // "暖气": {
+    //     "zhuyin": "",
+    //     "pinyin": "nuǎn qì",
+    //     "level": "HSK4",
+    //     "english": "central heating; heating; heater"
+    // },
+    // "标志": {
+    //     "zhuyin": "",
+    //     "pinyin": "biāozhì",
+    //     "level": "HSK4",
+    //     "english": "sign"
+    // },
+    // "随手": {
+    //     "zhuyin": "",
+    //     "pinyin": "suíshǒu",
+    //     "level": "HSK4",
+    //     "english": "Readily"
+    // },
+    // "热心": {
+    //     "zhuyin": "",
+    //     "pinyin": "rèxīn",
+    //     "level": "HSK4",
+    //     "english": "enthusiastic"
+    // },
+    // "儿童": {
+    //     "zhuyin": "",
+    //     "pinyin": "értóng",
+    //     "level": "HSK4",
+    //     "english": "children"
+    // },
+    // "得": {
+    //     "zhuyin": "",
+    //     "pinyin": "děi",
+    //     "level": "HSK4",
+    //     "english": "need; must; have to; be sure to"
+    // },
+    // "抄": {
+    //     "zhuyin": "",
+    //     "pinyin": "chāo",
+    //     "level": "HSK4",
+    //     "english": "copy"
+    // },
+    // "多种": {
+    //     "zhuyin": "",
+    //     "pinyin": "duō zhǒng",
+    //     "level": "HSK4",
+    //     "english": "multiple; various; diversified; manifold"
+    // },
+    // "在乎": {
+    //     "zhuyin": "",
+    //     "pinyin": "zàihu",
+    //     "level": "HSK4",
+    //     "english": "care about"
+    // },
+    // "移动": {
+    //     "zhuyin": "",
+    //     "pinyin": "yídòng",
+    //     "level": "HSK4",
+    //     "english": "move"
+    // },
+    // "尽力": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìnlì",
+    //     "level": "HSK4",
+    //     "english": "Try the best"
+    // },
+    // "食堂": {
+    //     "zhuyin": "",
+    //     "pinyin": "shí táng",
+    //     "level": "HSK4",
+    //     "english": "dining room; mess hall; canteen"
+    // },
+    // "括号": {
+    //     "zhuyin": "",
+    //     "pinyin": "kuò hào",
+    //     "level": "HSK4",
+    //     "english": "brackets; parentheses"
+    // },
+    // "空": {
+    //     "zhuyin": "",
+    //     "pinyin": "kōng",
+    //     "level": "HSK4",
+    //     "english": "empty"
+    // },
+    // "能干": {
+    //     "zhuyin": "",
+    //     "pinyin": "nénggàn",
+    //     "level": "HSK4",
+    //     "english": "capable"
+    // },
+    // "叔叔": {
+    //     "zhuyin": "",
+    //     "pinyin": "shūshu",
+    //     "level": "HSK4",
+    //     "english": "uncle"
+    // },
+    // "结论": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiélùn",
+    //     "level": "HSK4",
+    //     "english": "conclusion"
+    // },
+    // "居住": {
+    //     "zhuyin": "",
+    //     "pinyin": "jūzhù",
+    //     "level": "HSK4",
+    //     "english": "live"
+    // },
+    // "巴士": {
+    //     "zhuyin": "",
+    //     "pinyin": "bā shì",
+    //     "level": "HSK4",
+    //     "english": "bus"
+    // },
+    // "承受": {
+    //     "zhuyin": "",
+    //     "pinyin": "chéngshòu",
+    //     "level": "HSK4",
+    //     "english": "bear"
+    // },
+    // "药物": {
+    //     "zhuyin": "",
+    //     "pinyin": "yào wù",
+    //     "level": "HSK4",
+    //     "english": "drug; medicine"
+    // },
+    // "具备": {
+    //     "zhuyin": "",
+    //     "pinyin": "jùbèi",
+    //     "level": "HSK4",
+    //     "english": "Have, possess"
+    // },
+    // "百货": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎi huò",
+    //     "level": "HSK4",
+    //     "english": "department store; general merchandise"
+    // },
+    // "无论": {
+    //     "zhuyin": "",
+    //     "pinyin": "wúlùn",
+    //     "level": "HSK4",
+    //     "english": "no matter"
+    // },
+    // "稳": {
+    //     "zhuyin": "",
+    //     "pinyin": "wěn",
+    //     "level": "HSK4",
+    //     "english": "steady; stable; sure; certain"
+    // },
+    // "翻译": {
+    //     "zhuyin": "",
+    //     "pinyin": "fānyì",
+    //     "level": "HSK4",
+    //     "english": "translate"
+    // },
+    // "表情": {
+    //     "zhuyin": "",
+    //     "pinyin": "biǎoqíng",
+    //     "level": "HSK4",
+    //     "english": "Expression"
+    // },
+    // "风俗": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēngsú",
+    //     "level": "HSK4",
+    //     "english": "Customs"
+    // },
+    // "脱": {
+    //     "zhuyin": "",
+    //     "pinyin": "tuō",
+    //     "level": "HSK4",
+    //     "english": "take off"
+    // },
+    // "规则": {
+    //     "zhuyin": "",
+    //     "pinyin": "guīzé",
+    //     "level": "HSK4",
+    //     "english": "rule"
+    // },
+    // "投": {
+    //     "zhuyin": "",
+    //     "pinyin": "tóu",
+    //     "level": "HSK4",
+    //     "english": "throw; fling; hurl; cast; drop; put in; send; go to"
+    // },
+    // "梦": {
+    //     "zhuyin": "",
+    //     "pinyin": "mèng",
+    //     "level": "HSK4",
+    //     "english": "dream"
+    // },
+    // "宝宝": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎo bao",
+    //     "level": "HSK4",
+    //     "english": "baby; darling"
+    // },
+    // "指挥": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhǐhuī",
+    //     "level": "HSK4",
+    //     "english": "command"
+    // },
+    // "获取": {
+    //     "zhuyin": "",
+    //     "pinyin": "huò qǔ",
+    //     "level": "HSK4",
+    //     "english": "gain; obtain"
+    // },
+    // "中奖": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhòng jiǎng",
+    //     "level": "HSK4",
+    //     "english": "win a lottery"
+    // },
+    // "描述": {
+    //     "zhuyin": "",
+    //     "pinyin": "miáo shù",
+    //     "level": "HSK4",
+    //     "english": "describe; depict; description"
+    // },
+    // "大楼": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà lóu",
+    //     "level": "HSK4",
+    //     "english": "building; large building"
+    // },
+    // "不然": {
+    //     "zhuyin": "",
+    //     "pinyin": "bùrán",
+    //     "level": "HSK4",
+    //     "english": "otherwise"
+    // },
+    // "维修": {
+    //     "zhuyin": "",
+    //     "pinyin": "wéixiū",
+    //     "level": "HSK4",
+    //     "english": "Repair"
+    // },
+    // "暗": {
+    //     "zhuyin": "",
+    //     "pinyin": "àn",
+    //     "level": "HSK4",
+    //     "english": "dark"
+    // },
+    // "改正": {
+    //     "zhuyin": "",
+    //     "pinyin": "gǎizhèng",
+    //     "level": "HSK4",
+    //     "english": "correction"
+    // },
+    // "阻止": {
+    //     "zhuyin": "",
+    //     "pinyin": "zǔzhǐ",
+    //     "level": "HSK4",
+    //     "english": "prevent"
+    // },
+    // "忽视": {
+    //     "zhuyin": "",
+    //     "pinyin": "hūshì",
+    //     "level": "HSK4",
+    //     "english": "Ignore"
+    // },
+    // "邮局": {
+    //     "zhuyin": "",
+    //     "pinyin": "yóujú",
+    //     "level": "HSK4",
+    //     "english": "Post Office"
+    // },
+    // "货": {
+    //     "zhuyin": "",
+    //     "pinyin": "huò",
+    //     "level": "HSK4",
+    //     "english": "goods; commodity; money"
+    // },
+    // "关于": {
+    //     "zhuyin": "",
+    //     "pinyin": "guānyú",
+    //     "level": "HSK4",
+    //     "english": "about"
+    // },
+    // "总统": {
+    //     "zhuyin": "",
+    //     "pinyin": "zǒngtǒng",
+    //     "level": "HSK4",
+    //     "english": "President"
+    // },
+    // "上楼": {
+    //     "zhuyin": "",
+    //     "pinyin": "shàng lóu",
+    //     "level": "HSK4",
+    //     "english": "go upstairs"
+    // },
+    // "机构": {
+    //     "zhuyin": "",
+    //     "pinyin": "jīgòu",
+    //     "level": "HSK4",
+    //     "english": "mechanism"
+    // },
+    // "气球": {
+    //     "zhuyin": "",
+    //     "pinyin": "qì qiú",
+    //     "level": "HSK4",
+    //     "english": "balloon"
+    // },
+    // "划": {
+    //     "zhuyin": "",
+    //     "pinyin": "huá",
+    //     "level": "HSK4",
+    //     "english": "paddle, row"
+    // },
+    // "比分": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǐ fēn",
+    //     "level": "HSK4",
+    //     "english": "score"
+    // },
+    // "手工": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǒugōng",
+    //     "level": "HSK4",
+    //     "english": "manual"
+    // },
+    // "青春": {
+    //     "zhuyin": "",
+    //     "pinyin": "qīngchūn",
+    //     "level": "HSK4",
+    //     "english": "Youth"
+    // },
+    // "填空": {
+    //     "zhuyin": "",
+    //     "pinyin": "tiánkòng",
+    //     "level": "HSK4",
+    //     "english": "Fill in the blanks"
+    // },
+    // "神秘": {
+    //     "zhuyin": "",
+    //     "pinyin": "shénmì",
+    //     "level": "HSK4",
+    //     "english": "mysterious"
+    // },
+    // "眼里": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǎn lǐ",
+    //     "level": "HSK4",
+    //     "english": "within one’s vision; in one’s eyes"
+    // },
+    // "引进": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǐn jìn",
+    //     "level": "HSK4",
+    //     "english": "introduce from elsewhere; bring in; recommend"
+    // },
+    // "潮流": {
+    //     "zhuyin": "",
+    //     "pinyin": "cháoliú",
+    //     "level": "HSK4",
+    //     "english": "Trend"
+    // },
+    // "默默": {
+    //     "zhuyin": "",
+    //     "pinyin": "mòmò",
+    //     "level": "HSK4",
+    //     "english": "silently"
+    // },
+    // "玉": {
+    //     "zhuyin": "",
+    //     "pinyin": "yù",
+    //     "level": "HSK4",
+    //     "english": "jade"
+    // },
+    // "培训": {
+    //     "zhuyin": "",
+    //     "pinyin": "péixùn",
+    //     "level": "HSK4",
+    //     "english": "Train"
+    // },
+    // "无法": {
+    //     "zhuyin": "",
+    //     "pinyin": "wú fǎ",
+    //     "level": "HSK4",
+    //     "english": "unable; incapable"
+    // },
+    // "技巧": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìqiǎo",
+    //     "level": "HSK4",
+    //     "english": "Skill"
+    // },
+    // "穿上": {
+    //     "zhuyin": "",
+    //     "pinyin": "chuān shàng",
+    //     "level": "HSK4",
+    //     "english": "put on"
+    // },
+    // "词汇": {
+    //     "zhuyin": "",
+    //     "pinyin": "cíhuì",
+    //     "level": "HSK4",
+    //     "english": "vocabulary"
+    // },
+    // "降价": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiàng jià",
+    //     "level": "HSK4",
+    //     "english": "cut price; reduce price"
+    // },
+    // "辩论": {
+    //     "zhuyin": "",
+    //     "pinyin": "biànlùn",
+    //     "level": "HSK4",
+    //     "english": "Debate"
+    // },
+    // "下降": {
+    //     "zhuyin": "",
+    //     "pinyin": "xià jiàng",
+    //     "level": "HSK4",
+    //     "english": "decline; drop; decrease; fall; go down"
+    // },
+    // "以内": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǐ nèi",
+    //     "level": "HSK4",
+    //     "english": "within"
+    // },
+    // "开花": {
+    //     "zhuyin": "",
+    //     "pinyin": "kāi huā",
+    //     "level": "HSK4",
+    //     "english": "flower; bloom; blossom"
+    // },
+    // "系": {
+    //     "zhuyin": "",
+    //     "pinyin": "xì",
+    //     "level": "HSK4",
+    //     "english": "department"
+    // },
+    // "地址": {
+    //     "zhuyin": "",
+    //     "pinyin": "dìzhǐ",
+    //     "level": "HSK4",
+    //     "english": "address"
+    // },
+    // "穷": {
+    //     "zhuyin": "",
+    //     "pinyin": "qióng",
+    //     "level": "HSK4",
+    //     "english": "poor"
+    // },
+    // "遇见": {
+    //     "zhuyin": "",
+    //     "pinyin": "yù jiàn",
+    //     "level": "HSK4",
+    //     "english": "meet; come across"
+    // },
+    // "冬季": {
+    //     "zhuyin": "",
+    //     "pinyin": "dōng jì",
+    //     "level": "HSK4",
+    //     "english": "winter"
+    // },
+    // "毕业生": {
+    //     "zhuyin": "",
+    //     "pinyin": "bì yè shēng",
+    //     "level": "HSK4",
+    //     "english": "graduate"
+    // },
+    // "长途": {
+    //     "zhuyin": "",
+    //     "pinyin": "chángtú",
+    //     "level": "HSK4",
+    //     "english": "Long-distance"
+    // },
+    // "转身": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuǎn shēn",
+    //     "level": "HSK4",
+    //     "english": "turn round; face about"
+    // },
+    // "大会": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà huì",
+    //     "level": "HSK4",
+    //     "english": "convention; general meeting; General Assembly"
+    // },
+    // "植物": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhíwù",
+    //     "level": "HSK4",
+    //     "english": "Botany"
+    // },
+    // "急忙": {
+    //     "zhuyin": "",
+    //     "pinyin": "jímáng",
+    //     "level": "HSK4",
+    //     "english": "Hastily"
+    // },
+    // "充电": {
+    //     "zhuyin": "",
+    //     "pinyin": "chōng diàn",
+    //     "level": "HSK4",
+    //     "english": "recharge; charge"
+    // },
+    // "败": {
+    //     "zhuyin": "",
+    //     "pinyin": "bài",
+    //     "level": "HSK4",
+    //     "english": "defeat; beat; fail; lose"
+    // },
+    // "男女": {
+    //     "zhuyin": "",
+    //     "pinyin": "nán nǚ",
+    //     "level": "HSK4",
+    //     "english": "men and women; male and female"
+    // },
+    // "下个月": {
+    //     "zhuyin": "",
+    //     "pinyin": "xià gè yuè",
+    //     "level": "HSK4",
+    //     "english": "next month"
+    // },
+    // "矮小": {
+    //     "zhuyin": "",
+    //     "pinyin": "ǎi xiǎo",
+    //     "level": "HSK4",
+    //     "english": "short and small; low and small; undersized"
+    // },
+    // "潮湿": {
+    //     "zhuyin": "",
+    //     "pinyin": "cháoshī",
+    //     "level": "HSK4",
+    //     "english": "damp"
+    // },
+    // "有限": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǒu xiàn",
+    //     "level": "HSK4",
+    //     "english": "limited; finite"
+    // },
+    // "综合": {
+    //     "zhuyin": "",
+    //     "pinyin": "zōnghé",
+    //     "level": "HSK4",
+    //     "english": "comprehensive"
+    // },
+    // "街道": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiēdào",
+    //     "level": "HSK4",
+    //     "english": "Street"
+    // },
+    // "演讲": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǎnjiǎng",
+    //     "level": "HSK4",
+    //     "english": "speech"
+    // },
+    // "色彩": {
+    //     "zhuyin": "",
+    //     "pinyin": "sècǎi",
+    //     "level": "HSK4",
+    //     "english": "color"
+    // },
+    // "答案": {
+    //     "zhuyin": "",
+    //     "pinyin": "dá’àn",
+    //     "level": "HSK4",
+    //     "english": "Answer"
+    // },
+    // "培训班": {
+    //     "zhuyin": "",
+    //     "pinyin": "péi xùn bān",
+    //     "level": "HSK4",
+    //     "english": "training class"
+    // },
+    // "网址": {
+    //     "zhuyin": "",
+    //     "pinyin": "wǎng zhǐ",
+    //     "level": "HSK4",
+    //     "english": "Internet site; website; URL"
+    // },
+    // "吸烟": {
+    //     "zhuyin": "",
+    //     "pinyin": "xī yān",
+    //     "level": "HSK4",
+    //     "english": "smoke"
+    // },
+    // "试卷": {
+    //     "zhuyin": "",
+    //     "pinyin": "shìjuàn",
+    //     "level": "HSK4",
+    //     "english": "test paper"
+    // },
+    // "细": {
+    //     "zhuyin": "",
+    //     "pinyin": "xì",
+    //     "level": "HSK4",
+    //     "english": "thin; slender; delicate; careful; trifling"
+    // },
+    // "地面": {
+    //     "zhuyin": "",
+    //     "pinyin": "dì miàn",
+    //     "level": "HSK4",
+    //     "english": "ground; floor; surface"
+    // },
+    // "排列": {
+    //     "zhuyin": "",
+    //     "pinyin": "páiliè",
+    //     "level": "HSK4",
+    //     "english": "array"
+    // },
+    // "号码": {
+    //     "zhuyin": "",
+    //     "pinyin": "hàomǎ",
+    //     "level": "HSK4",
+    //     "english": "number"
+    // },
+    // "兄弟": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiōngdì",
+    //     "level": "HSK4",
+    //     "english": "Brother"
+    // },
+    // "淡": {
+    //     "zhuyin": "",
+    //     "pinyin": "dàn",
+    //     "level": "HSK4",
+    //     "english": "light"
+    // },
+    // "迅速": {
+    //     "zhuyin": "",
+    //     "pinyin": "xùnsù",
+    //     "level": "HSK4",
+    //     "english": "rapid"
+    // },
+    // "工程": {
+    //     "zhuyin": "",
+    //     "pinyin": "gōng chéng",
+    //     "level": "HSK4",
+    //     "english": "engineering; project"
+    // },
+    // "降落": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiàngluò",
+    //     "level": "HSK4",
+    //     "english": "land"
+    // },
+    // "极其": {
+    //     "zhuyin": "",
+    //     "pinyin": "jíqí",
+    //     "level": "HSK4",
+    //     "english": "extremely"
+    // },
+    // "体检": {
+    //     "zhuyin": "",
+    //     "pinyin": "tǐ jiǎn",
+    //     "level": "HSK4",
+    //     "english": "physical examination"
+    // },
+    // "系统": {
+    //     "zhuyin": "",
+    //     "pinyin": "xìtǒng",
+    //     "level": "HSK4",
+    //     "english": "system"
+    // },
+    // "贴": {
+    //     "zhuyin": "",
+    //     "pinyin": "tiē",
+    //     "level": "HSK4",
+    //     "english": "stick; paste; glue; nestle up to; keep close to"
+    // },
+    // "项": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiàng",
+    //     "level": "HSK4",
+    //     "english": "term"
+    // },
+    // "味儿": {
+    //     "zhuyin": "",
+    //     "pinyin": "wèir",
+    //     "level": "HSK4",
+    //     "english": "flavor; taste"
+    // },
+    // "冰": {
+    //     "zhuyin": "",
+    //     "pinyin": "bīng",
+    //     "level": "HSK4",
+    //     "english": "ice"
+    // },
+    // "堵车": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǔchē",
+    //     "level": "HSK4",
+    //     "english": "Traffic jam"
+    // },
+    // "刷牙": {
+    //     "zhuyin": "",
+    //     "pinyin": "shuāyá",
+    //     "level": "HSK4",
+    //     "english": "Brush one’s teeth"
+    // },
+    // "上个月": {
+    //     "zhuyin": "",
+    //     "pinyin": "shàng gè yuè",
+    //     "level": "HSK4",
+    //     "english": "last month"
+    // },
+    // "海鲜": {
+    //     "zhuyin": "",
+    //     "pinyin": "hǎixiān",
+    //     "level": "HSK4",
+    //     "english": "seafood"
+    // },
+    // "花": {
+    //     "zhuyin": "",
+    //     "pinyin": "huā",
+    //     "level": "HSK4",
+    //     "english": "multicoloured; coloured; flowery"
+    // },
+    // "机遇": {
+    //     "zhuyin": "",
+    //     "pinyin": "jīyù",
+    //     "level": "HSK4",
+    //     "english": "Opportunity"
+    // },
+    // "心理": {
+    //     "zhuyin": "",
+    //     "pinyin": "xīnlǐ",
+    //     "level": "HSK4",
+    //     "english": "Psychology"
+    // },
+    // "刺激": {
+    //     "zhuyin": "",
+    //     "pinyin": "cìjī",
+    //     "level": "HSK4",
+    //     "english": "stimulate"
+    // },
+    // "来得及": {
+    //     "zhuyin": "",
+    //     "pinyin": "láidejí",
+    //     "level": "HSK4",
+    //     "english": "In time"
+    // },
+    // "针": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhēn",
+    //     "level": "HSK4",
+    //     "english": "needle; injection"
+    // },
+    // "投资": {
+    //     "zhuyin": "",
+    //     "pinyin": "tóuzī",
+    //     "level": "HSK4",
+    //     "english": "Investment"
+    // },
+    // "考察": {
+    //     "zhuyin": "",
+    //     "pinyin": "kǎochá",
+    //     "level": "HSK4",
+    //     "english": "Investigate"
+    // },
+    // "酸奶": {
+    //     "zhuyin": "",
+    //     "pinyin": "suān nǎi",
+    //     "level": "HSK4",
+    //     "english": "yogurt"
+    // },
+    // "眼泪": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǎn lèi",
+    //     "level": "HSK4",
+    //     "english": "tear; eyedrop"
+    // },
+    // "零食": {
+    //     "zhuyin": "",
+    //     "pinyin": "língshí",
+    //     "level": "HSK4",
+    //     "english": "snacks"
+    // },
+    // "面临": {
+    //     "zhuyin": "",
+    //     "pinyin": "miànlín",
+    //     "level": "HSK4",
+    //     "english": "face"
+    // },
+    // "延期": {
+    //     "zhuyin": "",
+    //     "pinyin": "yánqī",
+    //     "level": "HSK4",
+    //     "english": "Delay"
+    // },
+    // "代替": {
+    //     "zhuyin": "",
+    //     "pinyin": "dàitì",
+    //     "level": "HSK4",
+    //     "english": "replace"
+    // },
+    // "讲座": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎngzuò",
+    //     "level": "HSK4",
+    //     "english": "Lecture"
+    // },
+    // "装修": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuāngxiū",
+    //     "level": "HSK4",
+    //     "english": "decorate house"
+    // },
+    // "包括": {
+    //     "zhuyin": "",
+    //     "pinyin": "bāokuò",
+    //     "level": "HSK4",
+    //     "english": "Include"
+    // },
+    // "距离": {
+    //     "zhuyin": "",
+    //     "pinyin": "jùlí",
+    //     "level": "HSK4",
+    //     "english": "distance"
+    // },
+    // "打败": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǎ bài",
+    //     "level": "HSK4",
+    //     "english": "defeat; beat; be defeated"
+    // },
+    // "含有": {
+    //     "zhuyin": "",
+    //     "pinyin": "hán yǒu",
+    //     "level": "HSK4",
+    //     "english": "contain; have"
+    // },
+    // "著作": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhùzuò",
+    //     "level": "HSK4",
+    //     "english": "Work"
+    // },
+    // "燃料": {
+    //     "zhuyin": "",
+    //     "pinyin": "rán liào",
+    //     "level": "HSK4",
+    //     "english": "fuel"
+    // },
+    // "鲜明": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiānmíng",
+    //     "level": "HSK4",
+    //     "english": "distinct"
+    // },
+    // "挑选": {
+    //     "zhuyin": "",
+    //     "pinyin": "tiāo xuǎn",
+    //     "level": "HSK4",
+    //     "english": "pick; choose; select; pick out"
+    // },
+    // "优秀": {
+    //     "zhuyin": "",
+    //     "pinyin": "yōuxiù",
+    //     "level": "HSK4",
+    //     "english": "excellent"
+    // },
+    // "有劲儿": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǒu jìnr",
+    //     "level": "HSK4",
+    //     "english": "strong; energetic"
+    // },
+    // "爱国": {
+    //     "zhuyin": "",
+    //     "pinyin": "ài guó",
+    //     "level": "HSK4",
+    //     "english": "love one’s country; be patriotic"
+    // },
+    // "期限": {
+    //     "zhuyin": "",
+    //     "pinyin": "qīxiàn",
+    //     "level": "HSK4",
+    //     "english": "term"
+    // },
+    // "感兴趣": {
+    //     "zhuyin": "",
+    //     "pinyin": "gǎnxìngqù",
+    //     "level": "HSK4",
+    //     "english": "be intretested in"
+    // },
+    // "刷": {
+    //     "zhuyin": "",
+    //     "pinyin": "shuā",
+    //     "level": "HSK4",
+    //     "english": "brush; scrub; paste up"
+    // },
+    // "无数": {
+    //     "zhuyin": "",
+    //     "pinyin": "wúshù",
+    //     "level": "HSK4",
+    //     "english": "Countless"
+    // },
+    // "轻易": {
+    //     "zhuyin": "",
+    //     "pinyin": "qīngyì",
+    //     "level": "HSK4",
+    //     "english": "easily"
+    // },
+    // "步行": {
+    //     "zhuyin": "",
+    //     "pinyin": "bù xíng",
+    //     "level": "HSK4",
+    //     "english": "go on foot; walk"
+    // },
+    // "黄瓜": {
+    //     "zhuyin": "",
+    //     "pinyin": "huáng guā",
+    //     "level": "HSK4",
+    //     "english": "cucumber; cuke"
+    // },
+    // "妻子": {
+    //     "zhuyin": "",
+    //     "pinyin": "qīzi",
+    //     "level": "HSK4",
+    //     "english": "Wife"
+    // },
+    // "官方": {
+    //     "zhuyin": "",
+    //     "pinyin": "guānfāng",
+    //     "level": "HSK4",
+    //     "english": "by the government official"
+    // },
+    // "高潮": {
+    //     "zhuyin": "",
+    //     "pinyin": "gāocháo",
+    //     "level": "HSK4",
+    //     "english": "climax"
+    // },
+    // "沉": {
+    //     "zhuyin": "",
+    //     "pinyin": "chén",
+    //     "level": "HSK4",
+    //     "english": "sink; keep down; lower; deep; profound; heavy"
+    // },
+    // "申请": {
+    //     "zhuyin": "",
+    //     "pinyin": "shēnqǐng",
+    //     "level": "HSK4",
+    //     "english": "Apply"
+    // },
+    // "酸": {
+    //     "zhuyin": "",
+    //     "pinyin": "suān",
+    //     "level": "HSK4",
+    //     "english": "acid"
+    // },
+    // "固定": {
+    //     "zhuyin": "",
+    //     "pinyin": "gùdìng",
+    //     "level": "HSK4",
+    //     "english": "fixed"
+    // },
+    // "祝福": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhùfú",
+    //     "level": "HSK4",
+    //     "english": "blessing"
+    // },
+    // "季度": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìdù",
+    //     "level": "HSK4",
+    //     "english": "quarter (of a year)"
+    // },
+    // "窗子": {
+    //     "zhuyin": "",
+    //     "pinyin": "chuāng zi",
+    //     "level": "HSK4",
+    //     "english": "window"
+    // },
+    // "新型": {
+    //     "zhuyin": "",
+    //     "pinyin": "xīn xíng",
+    //     "level": "HSK4",
+    //     "english": "new type; new kind"
+    // },
+    // "经典": {
+    //     "zhuyin": "",
+    //     "pinyin": "jīngdiǎn",
+    //     "level": "HSK4",
+    //     "english": "classics; scriptures"
+    // },
+    // "外交官": {
+    //     "zhuyin": "",
+    //     "pinyin": "wài jiāo guān",
+    //     "level": "HSK4",
+    //     "english": "diplomat; diplomatist"
+    // },
+    // "器官": {
+    //     "zhuyin": "",
+    //     "pinyin": "qìguān",
+    //     "level": "HSK4",
+    //     "english": "organ"
+    // },
+    // "陆续": {
+    //     "zhuyin": "",
+    //     "pinyin": "lùxù",
+    //     "level": "HSK4",
+    //     "english": "One after another"
+    // },
+    // "西瓜": {
+    //     "zhuyin": "",
+    //     "pinyin": "xīguā",
+    //     "level": "HSK4",
+    //     "english": "watermelon"
+    // },
+    // "争论": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhēnglùn",
+    //     "level": "HSK4",
+    //     "english": "debate"
+    // },
+    // "此": {
+    //     "zhuyin": "",
+    //     "pinyin": "cǐ",
+    //     "level": "HSK4",
+    //     "english": "this; these; now; here"
+    // },
+    // "治疗": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhìliáo",
+    //     "level": "HSK4",
+    //     "english": "Treatment"
+    // },
+    // "面试": {
+    //     "zhuyin": "",
+    //     "pinyin": "miàn shì",
+    //     "level": "HSK4",
+    //     "english": "interview; audition"
+    // },
+    // "垃圾": {
+    //     "zhuyin": "",
+    //     "pinyin": "lā jī",
+    //     "level": "HSK4",
+    //     "english": "rubbish; garbage; refuse; waste"
+    // },
+    // "爱护": {
+    //     "zhuyin": "",
+    //     "pinyin": "àihù",
+    //     "level": "HSK4",
+    //     "english": "Care"
+    // },
+    // "宝贝": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎobèi",
+    //     "level": "HSK4",
+    //     "english": "baby"
+    // },
+    // "牌": {
+    //     "zhuyin": "",
+    //     "pinyin": "pái",
+    //     "level": "HSK4",
+    //     "english": "brand; cards; plate; tablet"
+    // },
+    // "总理": {
+    //     "zhuyin": "",
+    //     "pinyin": "zǒnglǐ",
+    //     "level": "HSK4",
+    //     "english": "prime minister"
+    // },
+    // "秘密": {
+    //     "zhuyin": "",
+    //     "pinyin": "mìmì",
+    //     "level": "HSK4",
+    //     "english": "Secret"
+    // },
+    // "替": {
+    //     "zhuyin": "",
+    //     "pinyin": "tì",
+    //     "level": "HSK4",
+    //     "english": "replace; substitute; take the place of; for; on behalf of"
+    // },
+    // "美女": {
+    //     "zhuyin": "",
+    //     "pinyin": "měi nǚ",
+    //     "level": "HSK4",
+    //     "english": "belle ; beauty; beautiful woman"
+    // },
+    // "充电器": {
+    //     "zhuyin": "",
+    //     "pinyin": "chōngdiànqì",
+    //     "level": "HSK4",
+    //     "english": "Charger"
+    // },
+    // "抽烟": {
+    //     "zhuyin": "",
+    //     "pinyin": "chōuyān",
+    //     "level": "HSK4",
+    //     "english": "smoking"
+    // },
+    // "有趣": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǒuqù",
+    //     "level": "HSK4",
+    //     "english": "interesting"
+    // },
+    // "逐渐": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhújiàn",
+    //     "level": "HSK4",
+    //     "english": "gradually"
+    // },
+    // "购买": {
+    //     "zhuyin": "",
+    //     "pinyin": "gòu mǎi",
+    //     "level": "HSK4",
+    //     "english": "buy; purchase"
+    // },
+    // "装置": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuāng zhì",
+    //     "level": "HSK4",
+    //     "english": "device; equipment"
+    // },
+    // "些": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiē",
+    //     "level": "HSK4",
+    //     "english": "some"
+    // },
+    // "烦": {
+    //     "zhuyin": "",
+    //     "pinyin": "fán",
+    //     "level": "HSK4",
+    //     "english": "bother; to bother"
+    // },
+    // "官": {
+    //     "zhuyin": "",
+    //     "pinyin": "guān",
+    //     "level": "HSK4",
+    //     "english": "officer"
+    // },
+    // "符合": {
+    //     "zhuyin": "",
+    //     "pinyin": "fúhé",
+    //     "level": "HSK4",
+    //     "english": "accord with"
+    // },
+    // "啊": {
+    //     "zhuyin": "",
+    //     "pinyin": "a",
+    //     "level": "HSK4",
+    //     "english": "ah"
+    // },
+    // "典型": {
+    //     "zhuyin": "",
+    //     "pinyin": "diǎnxíng",
+    //     "level": "HSK4",
+    //     "english": "typical"
+    // },
+    // "喜爱": {
+    //     "zhuyin": "",
+    //     "pinyin": "xǐ ài",
+    //     "level": "HSK4",
+    //     "english": "like; love; be fond of"
+    // },
+    // "著名": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhùmíng",
+    //     "level": "HSK4",
+    //     "english": "famous"
+    // },
+    // "大陆": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà lù",
+    //     "level": "HSK4",
+    //     "english": "continent; mainland"
+    // },
+    // "地方": {
+    //     "zhuyin": "",
+    //     "pinyin": "dìfang",
+    //     "level": "HSK4",
+    //     "english": "local"
+    // },
+    // "最初": {
+    //     "zhuyin": "",
+    //     "pinyin": "zuìchū",
+    //     "level": "HSK4",
+    //     "english": "First"
+    // },
+    // "说不定": {
+    //     "zhuyin": "",
+    //     "pinyin": "shuōbudìng",
+    //     "level": "HSK4",
+    //     "english": "maybe"
+    // },
+    // "擦": {
+    //     "zhuyin": "",
+    //     "pinyin": "cā",
+    //     "level": "HSK4",
+    //     "english": "wipe"
+    // },
+    // "围巾": {
+    //     "zhuyin": "",
+    //     "pinyin": "wéijīn",
+    //     "level": "HSK4",
+    //     "english": "scarf"
+    // },
+    // "晒": {
+    //     "zhuyin": "",
+    //     "pinyin": "shài",
+    //     "level": "HSK4",
+    //     "english": "The sun"
+    // },
+    // "自信": {
+    //     "zhuyin": "",
+    //     "pinyin": "zìxìn",
+    //     "level": "HSK4",
+    //     "english": "self-confidence"
+    // },
+    // "填": {
+    //     "zhuyin": "",
+    //     "pinyin": "tián",
+    //     "level": "HSK4",
+    //     "english": "fill; stuff; fill in; write"
+    // },
+    // "战士": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhàn shì",
+    //     "level": "HSK4",
+    //     "english": "warrior; soldier; fighter"
+    // },
+    // "身份": {
+    //     "zhuyin": "",
+    //     "pinyin": "shēnfèn",
+    //     "level": "HSK4",
+    //     "english": "identity"
+    // },
+    // "似的": {
+    //     "zhuyin": "",
+    //     "pinyin": "shìde",
+    //     "level": "HSK4",
+    //     "english": "Like"
+    // },
+    // "奖学金": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎng xué jīn",
+    //     "level": "HSK4",
+    //     "english": "scholarship; fellowship"
+    // },
+    // "夫妻": {
+    //     "zhuyin": "",
+    //     "pinyin": "fū qī",
+    //     "level": "HSK4",
+    //     "english": "man and wife"
+    // },
+    // "构成": {
+    //     "zhuyin": "",
+    //     "pinyin": "gòuchéng",
+    //     "level": "HSK4",
+    //     "english": "constitute"
+    // },
+    // "市区": {
+    //     "zhuyin": "",
+    //     "pinyin": "shì qū",
+    //     "level": "HSK4",
+    //     "english": "downtown area; urban district"
+    // },
+    // "措施": {
+    //     "zhuyin": "",
+    //     "pinyin": "cuòshī",
+    //     "level": "HSK4",
+    //     "english": "Measures"
+    // },
+    // "消化": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiāohuà",
+    //     "level": "HSK4",
+    //     "english": "Digestion"
+    // },
+    // "失望": {
+    //     "zhuyin": "",
+    //     "pinyin": "shīwàng",
+    //     "level": "HSK4",
+    //     "english": "Disappointment"
+    // },
+    // "落": {
+    //     "zhuyin": "",
+    //     "pinyin": "luò",
+    //     "level": "HSK4",
+    //     "english": "fall; drop; go down; set; decline; drop behind"
+    // },
+    // "县": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiàn",
+    //     "level": "HSK4",
+    //     "english": "county"
+    // },
+    // "航空": {
+    //     "zhuyin": "",
+    //     "pinyin": "hángkōng",
+    //     "level": "HSK4",
+    //     "english": "aviation"
+    // },
+    // "方针": {
+    //     "zhuyin": "",
+    //     "pinyin": "fāngzhēn",
+    //     "level": "HSK4",
+    //     "english": "policy"
+    // },
+    // "开水": {
+    //     "zhuyin": "",
+    //     "pinyin": "kāishuǐ",
+    //     "level": "HSK4",
+    //     "english": "Boiling water"
+    // },
+    // "产品": {
+    //     "zhuyin": "",
+    //     "pinyin": "chǎnpǐn",
+    //     "level": "HSK4",
+    //     "english": "product"
+    // },
+    // "转移": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuǎnyí",
+    //     "level": "HSK4",
+    //     "english": "transfer"
+    // },
+    // "日历": {
+    //     "zhuyin": "",
+    //     "pinyin": "rìlì",
+    //     "level": "HSK4",
+    //     "english": "calendar"
+    // },
+    // "录取": {
+    //     "zhuyin": "",
+    //     "pinyin": "lùqǔ",
+    //     "level": "HSK4",
+    //     "english": "matriculate, to enroll as a member of a body and especially of a college or university"
+    // },
+    // "限制": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiànzhì",
+    //     "level": "HSK4",
+    //     "english": "limit"
+    // },
+    // "特征": {
+    //     "zhuyin": "",
+    //     "pinyin": "tèzhēng",
+    //     "level": "HSK4",
+    //     "english": "Features"
+    // },
+    // "降低": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiàngdī",
+    //     "level": "HSK4",
+    //     "english": "reduce"
+    // },
+    // "火": {
+    //     "zhuyin": "",
+    //     "pinyin": "huǒ",
+    //     "level": "HSK4",
+    //     "english": "fiery; flaming; urgent"
+    // },
+    // "编": {
+    //     "zhuyin": "",
+    //     "pinyin": "biān",
+    //     "level": "HSK4",
+    //     "english": "invent; make up; plait; edit; compile; compose; write"
+    // },
+    // "关闭": {
+    //     "zhuyin": "",
+    //     "pinyin": "guānbì",
+    //     "level": "HSK4",
+    //     "english": "close; shut"
+    // },
+    // "帅": {
+    //     "zhuyin": "",
+    //     "pinyin": "shuài",
+    //     "level": "HSK4",
+    //     "english": "Handsome"
+    // },
+    // "诚信": {
+    //     "zhuyin": "",
+    //     "pinyin": "chéng xìn",
+    //     "level": "HSK4",
+    //     "english": "honesty; integrity"
+    // },
+    // "抱": {
+    //     "zhuyin": "",
+    //     "pinyin": "bào",
+    //     "level": "HSK4",
+    //     "english": "Hold, hug"
+    // },
+    // "幼儿园": {
+    //     "zhuyin": "",
+    //     "pinyin": "yòuéryuán",
+    //     "level": "HSK4",
+    //     "english": "Kindergarten"
+    // },
+    // "燃烧": {
+    //     "zhuyin": "",
+    //     "pinyin": "ránshāo",
+    //     "level": "HSK4",
+    //     "english": "burning"
+    // },
+    // "醒": {
+    //     "zhuyin": "",
+    //     "pinyin": "xǐng",
+    //     "level": "HSK4",
+    //     "english": "wake up"
+    // },
+    // "纯": {
+    //     "zhuyin": "",
+    //     "pinyin": "chún",
+    //     "level": "HSK4",
+    //     "english": "pure; unmixed; simple; skilful; practised"
+    // },
+    // "节省": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiéshěng",
+    //     "level": "HSK4",
+    //     "english": "save"
+    // },
+    // "运气": {
+    //     "zhuyin": "",
+    //     "pinyin": "yùnqi",
+    //     "level": "HSK4",
+    //     "english": "luck"
+    // },
+    // "教训": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiàoxùn",
+    //     "level": "HSK4",
+    //     "english": "lesson"
+    // },
+    // "汇": {
+    //     "zhuyin": "",
+    //     "pinyin": "huì",
+    //     "level": "HSK4",
+    //     "english": "remit; converge; collection; collected things"
+    // },
+    // "色": {
+    //     "zhuyin": "",
+    //     "pinyin": "sè",
+    //     "level": "HSK4",
+    //     "english": "colour; look; expression; scene; quality"
+    // },
+    // "月底": {
+    //     "zhuyin": "",
+    //     "pinyin": "yuè dǐ",
+    //     "level": "HSK4",
+    //     "english": "the end of a month"
+    // },
+    // "事先": {
+    //     "zhuyin": "",
+    //     "pinyin": "shìxiān",
+    //     "level": "HSK4",
+    //     "english": "Prior"
+    // },
+    // "期中": {
+    //     "zhuyin": "",
+    //     "pinyin": "qī zhōng",
+    //     "level": "HSK4",
+    //     "english": "midterm"
+    // },
+    // "回复": {
+    //     "zhuyin": "",
+    //     "pinyin": "huí fù",
+    //     "level": "HSK4",
+    //     "english": "reply"
+    // },
+    // "扫": {
+    //     "zhuyin": "",
+    //     "pinyin": "sǎo",
+    //     "level": "HSK4",
+    //     "english": "sweep; broom"
+    // },
+    // "分为": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēn wéi",
+    //     "level": "HSK4",
+    //     "english": "divide into"
+    // },
+    // "破产": {
+    //     "zhuyin": "",
+    //     "pinyin": "pòchǎn",
+    //     "level": "HSK4",
+    //     "english": "bankruptcy"
+    // },
+    // "封闭": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēngbì",
+    //     "level": "HSK4",
+    //     "english": "close"
+    // },
+    // "字母": {
+    //     "zhuyin": "",
+    //     "pinyin": "zìmǔ",
+    //     "level": "HSK4",
+    //     "english": "Letter"
+    // },
+    // "赞助": {
+    //     "zhuyin": "",
+    //     "pinyin": "zànzhù",
+    //     "level": "HSK4",
+    //     "english": "Sponsor"
+    // },
+    // "逛": {
+    //     "zhuyin": "",
+    //     "pinyin": "guàng",
+    //     "level": "HSK4",
+    //     "english": "Stroll"
+    // },
+    // "箱子": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiāng zi",
+    //     "level": "HSK4",
+    //     "english": "chest; bin; box; case; trunk"
+    // },
+    // "辣": {
+    //     "zhuyin": "",
+    //     "pinyin": "là",
+    //     "level": "HSK4",
+    //     "english": "hot, spicy"
+    // },
+    // "负担": {
+    //     "zhuyin": "",
+    //     "pinyin": "fùdān",
+    //     "level": "HSK4",
+    //     "english": "burden"
+    // },
+    // "吸收": {
+    //     "zhuyin": "",
+    //     "pinyin": "xīshōu",
+    //     "level": "HSK4",
+    //     "english": "absorb"
+    // },
+    // "伙伴": {
+    //     "zhuyin": "",
+    //     "pinyin": "huǒbàn",
+    //     "level": "HSK4",
+    //     "english": "Partner"
+    // },
+    // "虫子": {
+    //     "zhuyin": "",
+    //     "pinyin": "chóng zi",
+    //     "level": "HSK4",
+    //     "english": "insect; worm; bug"
+    // },
+    // "种植": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhòngzhí",
+    //     "level": "HSK4",
+    //     "english": "plant"
+    // },
+    // "看来": {
+    //     "zhuyin": "",
+    //     "pinyin": "kàn lái",
+    //     "level": "HSK4",
+    //     "english": "it seems; it appears"
+    // },
+    // "担保": {
+    //     "zhuyin": "",
+    //     "pinyin": "dānbǎo",
+    //     "level": "HSK4",
+    //     "english": "assure; hypothecate"
+    // },
+    // "宽广": {
+    //     "zhuyin": "",
+    //     "pinyin": "kuān guǎng",
+    //     "level": "HSK4",
+    //     "english": "broad; vast; extensive"
+    // },
+    // "系列": {
+    //     "zhuyin": "",
+    //     "pinyin": "xìliè",
+    //     "level": "HSK4",
+    //     "english": "series"
+    // },
+    // "盘": {
+    //     "zhuyin": "",
+    //     "pinyin": "pán",
+    //     "level": "HSK4",
+    //     "english": "tray; plate; dish; current price; game; set; (measure word)"
+    // },
+    // "高尚": {
+    //     "zhuyin": "",
+    //     "pinyin": "gāoshàng",
+    //     "level": "HSK4",
+    //     "english": "noble"
+    // },
+    // "推迟": {
+    //     "zhuyin": "",
+    //     "pinyin": "tuīchí",
+    //     "level": "HSK4",
+    //     "english": "delay"
+    // },
+    // "隔开": {
+    //     "zhuyin": "",
+    //     "pinyin": "gé kāi",
+    //     "level": "HSK4",
+    //     "english": "separate; space out; separation; partition"
+    // },
+    // "兴趣": {
+    //     "zhuyin": "",
+    //     "pinyin": "xìng qù",
+    //     "level": "HSK4",
+    //     "english": "interest"
+    // },
+    // "义务": {
+    //     "zhuyin": "",
+    //     "pinyin": "yìwù",
+    //     "level": "HSK4",
+    //     "english": "obligation"
+    // },
+    // "局": {
+    //     "zhuyin": "",
+    //     "pinyin": "jú",
+    //     "level": "HSK4",
+    //     "english": "bureau; part; portion; innings; gathering"
+    // },
+    // "万一": {
+    //     "zhuyin": "",
+    //     "pinyin": "wànyī",
+    //     "level": "HSK4",
+    //     "english": "In case"
+    // },
+    // "遗传": {
+    //     "zhuyin": "",
+    //     "pinyin": "yíchuán",
+    //     "level": "HSK4",
+    //     "english": "inheritance"
+    // },
+    // "诗": {
+    //     "zhuyin": "",
+    //     "pinyin": "shī",
+    //     "level": "HSK4",
+    //     "english": "poetry"
+    // },
+    // "不要紧": {
+    //     "zhuyin": "",
+    //     "pinyin": "búyàojǐn",
+    //     "level": "HSK4",
+    //     "english": "Never mind"
+    // },
+    // "期末": {
+    //     "zhuyin": "",
+    //     "pinyin": "qī mò",
+    //     "level": "HSK4",
+    //     "english": "end of term"
+    // },
+    // "担任": {
+    //     "zhuyin": "",
+    //     "pinyin": "dānrèn",
+    //     "level": "HSK4",
+    //     "english": "To serve as"
+    // },
+    // "运动员": {
+    //     "zhuyin": "",
+    //     "pinyin": "yùn dòng yuán",
+    //     "level": "HSK4",
+    //     "english": "athlete; sportsman"
+    // },
+    // "奖": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎng",
+    //     "level": "HSK4",
+    //     "english": "award; prize; reward"
+    // },
+    // "用途": {
+    //     "zhuyin": "",
+    //     "pinyin": "yòngtú",
+    //     "level": "HSK4",
+    //     "english": "purpose"
+    // },
+    // "造型": {
+    //     "zhuyin": "",
+    //     "pinyin": "zàoxíng",
+    //     "level": "HSK4",
+    //     "english": "style; modeling"
+    // },
+    // "地下": {
+    //     "zhuyin": "",
+    //     "pinyin": "dì xià",
+    //     "level": "HSK4",
+    //     "english": "underground; subterranean; secret"
+    // },
+    // "不在乎": {
+    //     "zhuyin": "",
+    //     "pinyin": "bú zài hū",
+    //     "level": "HSK4",
+    //     "english": "not mind; not care"
+    // },
+    // "大型": {
+    //     "zhuyin": "",
+    //     "pinyin": "dàxíng",
+    //     "level": "HSK4",
+    //     "english": "large"
+    // },
+    // "放松": {
+    //     "zhuyin": "",
+    //     "pinyin": "fàngsōng",
+    //     "level": "HSK4",
+    //     "english": "Relax"
+    // },
+    // "调皮": {
+    //     "zhuyin": "",
+    //     "pinyin": "tiáopí",
+    //     "level": "HSK4",
+    //     "english": "naughty"
+    // },
+    // "快递": {
+    //     "zhuyin": "",
+    //     "pinyin": "kuài dì",
+    //     "level": "HSK4",
+    //     "english": "express delivery"
+    // },
+    // "概括": {
+    //     "zhuyin": "",
+    //     "pinyin": "gàikuò",
+    //     "level": "HSK4",
+    //     "english": "Generalization"
+    // },
+    // "政府": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhèngfǔ",
+    //     "level": "HSK4",
+    //     "english": "government"
+    // },
+    // "做梦": {
+    //     "zhuyin": "",
+    //     "pinyin": "zuò mèng",
+    //     "level": "HSK4",
+    //     "english": "dream; daydream"
+    // },
+    // "呼吸": {
+    //     "zhuyin": "",
+    //     "pinyin": "hūxī",
+    //     "level": "HSK4",
+    //     "english": "breathing"
+    // },
+    // "解释": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiěshì",
+    //     "level": "HSK4",
+    //     "english": "explain"
+    // },
+    // "误会": {
+    //     "zhuyin": "",
+    //     "pinyin": "wùhuì",
+    //     "level": "HSK4",
+    //     "english": "Misunderstanding"
+    // },
+    // "法院": {
+    //     "zhuyin": "",
+    //     "pinyin": "fǎyuàn",
+    //     "level": "HSK4",
+    //     "english": "Court"
+    // },
+    // "竟然": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìngrán",
+    //     "level": "HSK4",
+    //     "english": "Unexpectedly"
+    // },
+    // "于是": {
+    //     "zhuyin": "",
+    //     "pinyin": "yúshì",
+    //     "level": "HSK4",
+    //     "english": "Therefore"
+    // },
+    // "商务": {
+    //     "zhuyin": "",
+    //     "pinyin": "shāngwù",
+    //     "level": "HSK4",
+    //     "english": "business"
+    // },
+    // "夫妇": {
+    //     "zhuyin": "",
+    //     "pinyin": "fūfù",
+    //     "level": "HSK4",
+    //     "english": "couple"
+    // },
+    // "黑暗": {
+    //     "zhuyin": "",
+    //     "pinyin": "hēi àn",
+    //     "level": "HSK4",
+    //     "english": "dark; darkness; murk"
+    // },
+    // "寻找": {
+    //     "zhuyin": "",
+    //     "pinyin": "xúnzhǎo",
+    //     "level": "HSK4",
+    //     "english": "Seek, look for"
+    // },
+    // "降温": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiàng wēn",
+    //     "level": "HSK4",
+    //     "english": "lower the temperature; drop in temperature"
+    // },
+    // "阅读": {
+    //     "zhuyin": "",
+    //     "pinyin": "yuèdú",
+    //     "level": "HSK4",
+    //     "english": "Read"
+    // },
+    // "反": {
+    //     "zhuyin": "",
+    //     "pinyin": "fǎn",
+    //     "level": "HSK4",
+    //     "english": "turn over; rebel; on the contrary; instead"
+    // },
+    // "好": {
+    //     "zhuyin": "",
+    //     "pinyin": "hǎo",
+    //     "level": "HSK4",
+    //     "english": "good"
+    // },
+    // "支": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhī",
+    //     "level": "HSK4",
+    //     "english": "put up; protrude; support; send away"
+    // },
+    // "俩": {
+    //     "zhuyin": "",
+    //     "pinyin": "liǎ",
+    //     "level": "HSK4",
+    //     "english": "Two"
+    // },
+    // "王": {
+    //     "zhuyin": "",
+    //     "pinyin": "wáng",
+    //     "level": "HSK4",
+    //     "english": "king; monarch; head; chief"
+    // },
+    // "尺寸": {
+    //     "zhuyin": "",
+    //     "pinyin": "chǐ cùn",
+    //     "level": "HSK4",
+    //     "english": "size; measurement; dimension"
+    // },
+    // "数码": {
+    //     "zhuyin": "",
+    //     "pinyin": "shùmǎ",
+    //     "level": "HSK4",
+    //     "english": "Digital"
+    // },
+    // "图案": {
+    //     "zhuyin": "",
+    //     "pinyin": "tú’àn",
+    //     "level": "HSK4",
+    //     "english": "pattern"
+    // },
+    // "甚至": {
+    //     "zhuyin": "",
+    //     "pinyin": "shènzhì",
+    //     "level": "HSK4",
+    //     "english": "Even to the extent that"
+    // },
+    // "坚固": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiāngù",
+    //     "level": "HSK4",
+    //     "english": "strong"
+    // },
+    // "共": {
+    //     "zhuyin": "",
+    //     "pinyin": "gòng",
+    //     "level": "HSK4",
+    //     "english": "common; general; share; together; altogether"
+    // },
+    // "尾巴": {
+    //     "zhuyin": "",
+    //     "pinyin": "wěiba",
+    //     "level": "HSK4",
+    //     "english": "tail"
+    // },
+    // "透": {
+    //     "zhuyin": "",
+    //     "pinyin": "tòu",
+    //     "level": "HSK4",
+    //     "english": "penetrate; pass through; tell secretly; show; through"
+    // },
+    // "嘴巴": {
+    //     "zhuyin": "",
+    //     "pinyin": "zuǐ ba",
+    //     "level": "HSK4",
+    //     "english": "mouth"
+    // },
+    // "独特": {
+    //     "zhuyin": "",
+    //     "pinyin": "dútè",
+    //     "level": "HSK4",
+    //     "english": "unique"
+    // },
+    // "交际": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiāojì",
+    //     "level": "HSK4",
+    //     "english": "communication"
+    // },
+    // "力气": {
+    //     "zhuyin": "",
+    //     "pinyin": "lìqi",
+    //     "level": "HSK4",
+    //     "english": "Strength"
+    // },
+    // "免费": {
+    //     "zhuyin": "",
+    //     "pinyin": "miǎnfèi",
+    //     "level": "HSK4",
+    //     "english": "Free of charge"
+    // },
+    // "延长": {
+    //     "zhuyin": "",
+    //     "pinyin": "yáncháng",
+    //     "level": "HSK4",
+    //     "english": "extend"
+    // },
+    // "难免": {
+    //     "zhuyin": "",
+    //     "pinyin": "nánmiǎn",
+    //     "level": "HSK4",
+    //     "english": "Unavoidable"
+    // },
+    // "登记": {
+    //     "zhuyin": "",
+    //     "pinyin": "dēngjì",
+    //     "level": "HSK4",
+    //     "english": "register"
+    // },
+    // "语音": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǔ yīn",
+    //     "level": "HSK4",
+    //     "english": "voice"
+    // },
+    // "动摇": {
+    //     "zhuyin": "",
+    //     "pinyin": "dòng yáo",
+    //     "level": "HSK4",
+    //     "english": "shake; vacillate; waver; be indecisive"
+    // },
+    // "五颜六色": {
+    //     "zhuyin": "",
+    //     "pinyin": "wǔ yán liù sè",
+    //     "level": "HSK4",
+    //     "english": "colourful; multicolored"
+    // },
+    // "红包": {
+    //     "zhuyin": "",
+    //     "pinyin": "hóng bāo",
+    //     "level": "HSK4",
+    //     "english": "red envelope; red packet"
+    // },
+    // "特殊": {
+    //     "zhuyin": "",
+    //     "pinyin": "tèshū",
+    //     "level": "HSK4",
+    //     "english": "special"
+    // },
+    // "豆腐": {
+    //     "zhuyin": "",
+    //     "pinyin": "dòufu",
+    //     "level": "HSK4",
+    //     "english": "tofu"
+    // },
+    // "关": {
+    //     "zhuyin": "",
+    //     "pinyin": "guān",
+    //     "level": "HSK4",
+    //     "english": "pass; check point; customhouse; mechanism; barrier"
+    // },
+    // "名牌儿": {
+    //     "zhuyin": "",
+    //     "pinyin": "míng páir",
+    //     "level": "HSK4",
+    //     "english": "famous brand"
+    // },
+    // "吸管": {
+    //     "zhuyin": "",
+    //     "pinyin": "xī guǎn",
+    //     "level": "HSK4",
+    //     "english": "straw"
+    // },
+    // "数据": {
+    //     "zhuyin": "",
+    //     "pinyin": "shùjù",
+    //     "level": "HSK4",
+    //     "english": "data"
+    // },
+    // "森林": {
+    //     "zhuyin": "",
+    //     "pinyin": "sēnlín",
+    //     "level": "HSK4",
+    //     "english": "Forest"
+    // },
+    // "倍": {
+    //     "zhuyin": "",
+    //     "pinyin": "bèi",
+    //     "level": "HSK4",
+    //     "english": "times"
+    // },
+    // "单独": {
+    //     "zhuyin": "",
+    //     "pinyin": "dāndú",
+    //     "level": "HSK4",
+    //     "english": "Alone"
+    // },
+    // "首": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǒu",
+    //     "level": "HSK4",
+    //     "english": "(measure word)"
+    // },
+    // "背景": {
+    //     "zhuyin": "",
+    //     "pinyin": "bèijǐng",
+    //     "level": "HSK4",
+    //     "english": "background"
+    // },
+    // "体重": {
+    //     "zhuyin": "",
+    //     "pinyin": "tǐ zhòng",
+    //     "level": "HSK4",
+    //     "english": "body weight"
+    // },
+    // "翻": {
+    //     "zhuyin": "",
+    //     "pinyin": "fān",
+    //     "level": "HSK4",
+    //     "english": "Turn"
+    // },
+    // "挺": {
+    //     "zhuyin": "",
+    //     "pinyin": "tǐng",
+    //     "level": "HSK4",
+    //     "english": "stand; hold out; endure; stick out"
+    // },
+    // "牙刷": {
+    //     "zhuyin": "",
+    //     "pinyin": "yá shuā",
+    //     "level": "HSK4",
+    //     "english": "toothbrush"
+    // },
+    // "细节": {
+    //     "zhuyin": "",
+    //     "pinyin": "xìjié",
+    //     "level": "HSK4",
+    //     "english": "details"
+    // },
+    // "恶心": {
+    //     "zhuyin": "",
+    //     "pinyin": "ěxin",
+    //     "level": "HSK4",
+    //     "english": "disgusting"
+    // },
+    // "然而": {
+    //     "zhuyin": "",
+    //     "pinyin": "rán’ér",
+    //     "level": "HSK4",
+    //     "english": "however"
+    // },
+    // "小伙子": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiǎohuǒzi",
+    //     "level": "HSK4",
+    //     "english": "Young fellow"
+    // },
+    // "如今": {
+    //     "zhuyin": "",
+    //     "pinyin": "rújīn",
+    //     "level": "HSK4",
+    //     "english": "nowadays"
+    // },
+    // "打扫": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǎsǎo",
+    //     "level": "HSK4",
+    //     "english": "Clean"
+    // },
+    // "显著": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiǎnzhù",
+    //     "level": "HSK4",
+    //     "english": "remarkable"
+    // },
+    // "平均": {
+    //     "zhuyin": "",
+    //     "pinyin": "píngjūn",
+    //     "level": "HSK4",
+    //     "english": "Average"
+    // },
+    // "轮椅": {
+    //     "zhuyin": "",
+    //     "pinyin": "lún yǐ",
+    //     "level": "HSK4",
+    //     "english": "wheelchair"
+    // },
+    // "手里": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǒu lǐ",
+    //     "level": "HSK4",
+    //     "english": "in one’s hands"
+    // },
+    // "摆动": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎi dòng",
+    //     "level": "HSK4",
+    //     "english": "swing; sway; oscillate;vibrate"
+    // },
+    // "吃惊": {
+    //     "zhuyin": "",
+    //     "pinyin": "chījīng",
+    //     "level": "HSK4",
+    //     "english": "Be amazed"
+    // },
+    // "挑战": {
+    //     "zhuyin": "",
+    //     "pinyin": "tiǎozhàn",
+    //     "level": "HSK4",
+    //     "english": "Dekaron"
+    // },
+    // "没法儿": {
+    //     "zhuyin": "",
+    //     "pinyin": "méi fǎr",
+    //     "level": "HSK4",
+    //     "english": "can not; no way"
+    // },
+    // "内科": {
+    //     "zhuyin": "",
+    //     "pinyin": "nèikē",
+    //     "level": "HSK4",
+    //     "english": "Internal medicine"
+    // },
+    // "临时": {
+    //     "zhuyin": "",
+    //     "pinyin": "línshí",
+    //     "level": "HSK4",
+    //     "english": "temporary"
+    // },
+    // "二手": {
+    //     "zhuyin": "",
+    //     "pinyin": "èr shǒu",
+    //     "level": "HSK4",
+    //     "english": "second hand"
+    // },
+    // "培育": {
+    //     "zhuyin": "",
+    //     "pinyin": "péiyù",
+    //     "level": "HSK4",
+    //     "english": "Cultivation"
+    // },
+    // "善良": {
+    //     "zhuyin": "",
+    //     "pinyin": "shànliáng",
+    //     "level": "HSK4",
+    //     "english": "kind; virtuous"
+    // },
+    // "种类": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhǒnglèi",
+    //     "level": "HSK4",
+    //     "english": "type"
+    // },
+    // "锻炼": {
+    //     "zhuyin": "",
+    //     "pinyin": "duànliàn",
+    //     "level": "HSK4",
+    //     "english": "Physical exercise"
+    // },
+    // "集合": {
+    //     "zhuyin": "",
+    //     "pinyin": "jíhé",
+    //     "level": "HSK4",
+    //     "english": "aggregate"
+    // },
+    // "参与": {
+    //     "zhuyin": "",
+    //     "pinyin": "cānyù",
+    //     "level": "HSK4",
+    //     "english": "participate in"
+    // },
+    // "个别": {
+    //     "zhuyin": "",
+    //     "pinyin": "gèbié",
+    //     "level": "HSK4",
+    //     "english": "individual"
+    // },
+    // "树林": {
+    //     "zhuyin": "",
+    //     "pinyin": "shù lín",
+    //     "level": "HSK4",
+    //     "english": "wood; grove; forest"
+    // },
+    // "阵": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhèn",
+    //     "level": "HSK4",
+    //     "english": "front"
+    // },
+    // "相片": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiàng piàn",
+    //     "level": "HSK4",
+    //     "english": "photo; photograph"
+    // },
+    // "原料": {
+    //     "zhuyin": "",
+    //     "pinyin": "yuánliào",
+    //     "level": "HSK4",
+    //     "english": "raw material"
+    // },
+    // "出色": {
+    //     "zhuyin": "",
+    //     "pinyin": "chūsè",
+    //     "level": "HSK4",
+    //     "english": "excellent; outstanding"
+    // },
+    // "宝石": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎo shí",
+    //     "level": "HSK4",
+    //     "english": "gemstone; gem; cameo; precious stone"
+    // },
+    // "宽": {
+    //     "zhuyin": "",
+    //     "pinyin": "kuān",
+    //     "level": "HSK4",
+    //     "english": "wide"
+    // },
+    // "既然": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìrán",
+    //     "level": "HSK4",
+    //     "english": "Since"
+    // },
+    // "潮": {
+    //     "zhuyin": "",
+    //     "pinyin": "cháo",
+    //     "level": "HSK4",
+    //     "english": "moist; damp; humid; tide"
+    // },
+    // "律师": {
+    //     "zhuyin": "",
+    //     "pinyin": "lǜshī",
+    //     "level": "HSK4",
+    //     "english": "Lawyer"
+    // },
+    // "之后": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhī hòu",
+    //     "level": "HSK4",
+    //     "english": "later; after; afterwards"
+    // },
+    // "内部": {
+    //     "zhuyin": "",
+    //     "pinyin": "nèibù",
+    //     "level": "HSK4",
+    //     "english": "interior"
+    // },
+    // "分布": {
+    //     "zhuyin": "",
+    //     "pinyin": "fēnbù",
+    //     "level": "HSK4",
+    //     "english": "distribution"
+    // },
+    // "未必": {
+    //     "zhuyin": "",
+    //     "pinyin": "wèibì",
+    //     "level": "HSK4",
+    //     "english": "not necessarily"
+    // },
+    // "是否": {
+    //     "zhuyin": "",
+    //     "pinyin": "shìfǒu",
+    //     "level": "HSK4",
+    //     "english": "Whether"
+    // },
+    // "列": {
+    //     "zhuyin": "",
+    //     "pinyin": "liè",
+    //     "level": "HSK4",
+    //     "english": "arrange; line up; list"
+    // },
+    // "伤害": {
+    //     "zhuyin": "",
+    //     "pinyin": "shānghài",
+    //     "level": "HSK4",
+    //     "english": "hurt"
+    // },
+    // "电源": {
+    //     "zhuyin": "",
+    //     "pinyin": "diànyuán",
+    //     "level": "HSK4",
+    //     "english": "power supply"
+    // },
+    // "无聊": {
+    //     "zhuyin": "",
+    //     "pinyin": "wúliáo",
+    //     "level": "HSK4",
+    //     "english": "Boring"
+    // },
+    // "男士": {
+    //     "zhuyin": "",
+    //     "pinyin": "nán shì",
+    //     "level": "HSK4",
+    //     "english": "man"
+    // },
+    // "肚子": {
+    //     "zhuyin": "",
+    //     "pinyin": "dùzi",
+    //     "level": "HSK4",
+    //     "english": "belly"
+    // },
+    // "大多": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà duō",
+    //     "level": "HSK4",
+    //     "english": "mostly; for the most part"
+    // },
+    // "穷人": {
+    //     "zhuyin": "",
+    //     "pinyin": "qióng rén",
+    //     "level": "HSK4",
+    //     "english": "poor people; the poor"
+    // },
+    // "细致": {
+    //     "zhuyin": "",
+    //     "pinyin": "xìzhì",
+    //     "level": "HSK4",
+    //     "english": "careful"
+    // },
+    // "确认": {
+    //     "zhuyin": "",
+    //     "pinyin": "quèrèn",
+    //     "level": "HSK4",
+    //     "english": "confirm"
+    // },
+    // "依靠": {
+    //     "zhuyin": "",
+    //     "pinyin": "yīkào",
+    //     "level": "HSK4",
+    //     "english": "rely on; depend on"
+    // },
+    // "登": {
+    //     "zhuyin": "",
+    //     "pinyin": "dēng",
+    //     "level": "HSK4",
+    //     "english": "ascend; mount; scale; step on; pedal; publish"
+    // },
+    // "镜子": {
+    //     "zhuyin": "",
+    //     "pinyin": "jìngzi",
+    //     "level": "HSK4",
+    //     "english": "Mirror"
+    // },
+    // "呀": {
+    //     "zhuyin": "",
+    //     "pinyin": "ya",
+    //     "level": "HSK4",
+    //     "english": "ah"
+    // },
+    // "准时": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhǔnshí",
+    //     "level": "HSK4",
+    //     "english": "on time"
+    // },
+    // "烧": {
+    //     "zhuyin": "",
+    //     "pinyin": "shāo",
+    //     "level": "HSK4",
+    //     "english": "burn; cook; bake; roast; run a fever"
+    // },
+    // "要": {
+    //     "zhuyin": "",
+    //     "pinyin": "yào",
+    //     "level": "HSK4",
+    //     "english": "if"
+    // },
+    // "奖金": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎngjīn",
+    //     "level": "HSK4",
+    //     "english": "bonus"
+    // },
+    // "传统": {
+    //     "zhuyin": "",
+    //     "pinyin": "chuántǒng",
+    //     "level": "HSK4",
+    //     "english": "tradition"
+    // },
+    // "作出": {
+    //     "zhuyin": "",
+    //     "pinyin": "zuò chū",
+    //     "level": "HSK4",
+    //     "english": "make (a decision, etc.)"
+    // },
+    // "简历": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎnlì",
+    //     "level": "HSK4",
+    //     "english": "resume"
+    // },
+    // "脑袋": {
+    //     "zhuyin": "",
+    //     "pinyin": "nǎodai",
+    //     "level": "HSK4",
+    //     "english": "head"
+    // },
+    // "得意": {
+    //     "zhuyin": "",
+    //     "pinyin": "déyì",
+    //     "level": "HSK4",
+    //     "english": "Proud"
+    // },
+    // "智力": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhìlì",
+    //     "level": "HSK4",
+    //     "english": "intelligence"
+    // },
+    // "导游": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǎoyóu",
+    //     "level": "HSK4",
+    //     "english": "Guide"
+    // },
+    // "来不及": {
+    //     "zhuyin": "",
+    //     "pinyin": "láibují",
+    //     "level": "HSK4",
+    //     "english": "There’s not enough time"
+    // },
+    // "叶子": {
+    //     "zhuyin": "",
+    //     "pinyin": "yèzi",
+    //     "level": "HSK4",
+    //     "english": "Leaf"
+    // },
+    // "失业": {
+    //     "zhuyin": "",
+    //     "pinyin": "shīyè",
+    //     "level": "HSK4",
+    //     "english": "Unemployment"
+    // },
+    // "盐": {
+    //     "zhuyin": "",
+    //     "pinyin": "yán",
+    //     "level": "HSK4",
+    //     "english": "salt"
+    // },
+    // "运动会": {
+    //     "zhuyin": "",
+    //     "pinyin": "yùn dòng huì",
+    //     "level": "HSK4",
+    //     "english": "sports meeting"
+    // },
+    // "毕业": {
+    //     "zhuyin": "",
+    //     "pinyin": "bìyè",
+    //     "level": "HSK4",
+    //     "english": "graduation"
+    // },
+    // "降": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiàng",
+    //     "level": "HSK4",
+    //     "english": "fall; drop; descend; come down; lower"
+    // },
+    // "途中": {
+    //     "zhuyin": "",
+    //     "pinyin": "tú zhōng",
+    //     "level": "HSK4",
+    //     "english": "on the way to; en route"
+    // },
+    // "戴": {
+    //     "zhuyin": "",
+    //     "pinyin": "dài",
+    //     "level": "HSK4",
+    //     "english": "wear"
+    // },
+    // "制订": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhì dìng",
+    //     "level": "HSK4",
+    //     "english": "formulate; work out; map out"
+    // },
+    // "日记": {
+    //     "zhuyin": "",
+    //     "pinyin": "rìjì",
+    //     "level": "HSK4",
+    //     "english": "diary"
+    // },
+    // "大姐": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà jiě",
+    //     "level": "HSK4",
+    //     "english": "elder sister"
+    // },
+    // "粗心": {
+    //     "zhuyin": "",
+    //     "pinyin": "cūxīn",
+    //     "level": "HSK4",
+    //     "english": "careless"
+    // },
+    // "严格": {
+    //     "zhuyin": "",
+    //     "pinyin": "yángé",
+    //     "level": "HSK4",
+    //     "english": "strict"
+    // },
+    // "未来": {
+    //     "zhuyin": "",
+    //     "pinyin": "wèilái",
+    //     "level": "HSK4",
+    //     "english": "Future"
+    // },
+    // "打雷": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǎ léi",
+    //     "level": "HSK4",
+    //     "english": "thunder"
+    // },
+    // "究竟": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiūjìng",
+    //     "level": "HSK4",
+    //     "english": "exactly"
+    // },
+    // "拍照": {
+    //     "zhuyin": "",
+    //     "pinyin": "pāi zhào",
+    //     "level": "HSK4",
+    //     "english": "take a picture; photograph"
+    // },
+    // "类型": {
+    //     "zhuyin": "",
+    //     "pinyin": "lèixíng",
+    //     "level": "HSK4",
+    //     "english": "type"
+    // },
+    // "树叶": {
+    //     "zhuyin": "",
+    //     "pinyin": "shù yè",
+    //     "level": "HSK4",
+    //     "english": "leaf; tree leaf"
+    // },
+    // "光临": {
+    //     "zhuyin": "",
+    //     "pinyin": "guānglín",
+    //     "level": "HSK4",
+    //     "english": "presence"
+    // },
+    // "性质": {
+    //     "zhuyin": "",
+    //     "pinyin": "xìngzhì",
+    //     "level": "HSK4",
+    //     "english": "Nature"
+    // },
+    // "网络": {
+    //     "zhuyin": "",
+    //     "pinyin": "wǎngluò",
+    //     "level": "HSK4",
+    //     "english": "network"
+    // },
+    // "极": {
+    //     "zhuyin": "",
+    //     "pinyin": "jí",
+    //     "level": "HSK4",
+    //     "english": "extremely"
+    // },
+    // "担心": {
+    //     "zhuyin": "",
+    //     "pinyin": "dānxīn",
+    //     "level": "HSK4",
+    //     "english": "Worry"
+    // },
+    // "影子": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǐngzi",
+    //     "level": "HSK4",
+    //     "english": "shadow"
+    // },
+    // "优美": {
+    //     "zhuyin": "",
+    //     "pinyin": "yōuměi",
+    //     "level": "HSK4",
+    //     "english": "Graceful"
+    // },
+    // "不管": {
+    //     "zhuyin": "",
+    //     "pinyin": "bùguǎn",
+    //     "level": "HSK4",
+    //     "english": "no matter"
+    // },
+    // "培养": {
+    //     "zhuyin": "",
+    //     "pinyin": "péiyǎng",
+    //     "level": "HSK4",
+    //     "english": "culture"
+    // },
+    // "赞成": {
+    //     "zhuyin": "",
+    //     "pinyin": "zànchéng",
+    //     "level": "HSK4",
+    //     "english": "agree"
+    // },
+    // "汽油": {
+    //     "zhuyin": "",
+    //     "pinyin": "qìyóu",
+    //     "level": "HSK4",
+    //     "english": "gasoline"
+    // },
+    // "地位": {
+    //     "zhuyin": "",
+    //     "pinyin": "dìwèi",
+    //     "level": "HSK4",
+    //     "english": "status"
+    // },
+    // "看不起": {
+    //     "zhuyin": "",
+    //     "pinyin": "kànbuqǐ",
+    //     "level": "HSK4",
+    //     "english": "Despise"
+    // },
+    // "晚点": {
+    //     "zhuyin": "",
+    //     "pinyin": "wǎn diǎn",
+    //     "level": "HSK4",
+    //     "english": "late; behind schedule"
+    // },
+    // "通知书": {
+    //     "zhuyin": "",
+    //     "pinyin": "tōng zhī shū",
+    //     "level": "HSK4",
+    //     "english": "notice"
+    // },
+    // "个体": {
+    //     "zhuyin": "",
+    //     "pinyin": "gètǐ",
+    //     "level": "HSK4",
+    //     "english": "individual"
+    // },
+    // "泪水": {
+    //     "zhuyin": "",
+    //     "pinyin": "lèi shuǐ",
+    //     "level": "HSK4",
+    //     "english": "tear; teardrop"
+    // },
+    // "体操": {
+    //     "zhuyin": "",
+    //     "pinyin": "tǐ cāo",
+    //     "level": "HSK4",
+    //     "english": "gymnastics"
+    // },
+    // "聚": {
+    //     "zhuyin": "",
+    //     "pinyin": "jù",
+    //     "level": "HSK4",
+    //     "english": "assemble; gather; get together"
+    // },
+    // "平稳": {
+    //     "zhuyin": "",
+    //     "pinyin": "píng wěn",
+    //     "level": "HSK4",
+    //     "english": "smooth; steady"
+    // },
+    // "售货员": {
+    //     "zhuyin": "",
+    //     "pinyin": "shòuhuòyuán",
+    //     "level": "HSK4",
+    //     "english": "Salesperson"
+    // },
+    // "待遇": {
+    //     "zhuyin": "",
+    //     "pinyin": "dàiyù",
+    //     "level": "HSK4",
+    //     "english": "treatment"
+    // },
+    // "挑": {
+    //     "zhuyin": "",
+    //     "pinyin": "tiāo",
+    //     "level": "HSK4",
+    //     "english": "choose; pick; select"
+    // },
+    // "痛快": {
+    //     "zhuyin": "",
+    //     "pinyin": "tòngkuài",
+    //     "level": "HSK4",
+    //     "english": "Happy, to one`s heart`s content"
+    // },
+    // "征服": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhēngfú",
+    //     "level": "HSK4",
+    //     "english": "Conquer"
+    // },
+    // "主题": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhǔtí",
+    //     "level": "HSK4",
+    //     "english": "theme"
+    // },
+    // "粗": {
+    //     "zhuyin": "",
+    //     "pinyin": "cū",
+    //     "level": "HSK4",
+    //     "english": "wide; thick; coarse; rough; gruff; careless; rude"
+    // },
+    // "营业": {
+    //     "zhuyin": "",
+    //     "pinyin": "yíngyè",
+    //     "level": "HSK4",
+    //     "english": "Do business"
+    // },
+    // "点名": {
+    //     "zhuyin": "",
+    //     "pinyin": "diǎn míng",
+    //     "level": "HSK4",
+    //     "english": "rollcall; mention sb. by name"
+    // },
+    // "动画片": {
+    //     "zhuyin": "",
+    //     "pinyin": "dònghuàpiàn",
+    //     "level": "HSK4",
+    //     "english": "Cartoon"
+    // },
+    // "帅哥": {
+    //     "zhuyin": "",
+    //     "pinyin": "shuài gē",
+    //     "level": "HSK4",
+    //     "english": "handsome boy"
+    // },
+    // "一致": {
+    //     "zhuyin": "",
+    //     "pinyin": "yízhì",
+    //     "level": "HSK4",
+    //     "english": "Agreement"
+    // },
+    // "童年": {
+    //     "zhuyin": "",
+    //     "pinyin": "tóng nián",
+    //     "level": "HSK4",
+    //     "english": "childhood; babyhood"
+    // },
+    // "次": {
+    //     "zhuyin": "",
+    //     "pinyin": "cì",
+    //     "level": "HSK4",
+    //     "english": "second-rate; secondary"
+    // },
+    // "新娘": {
+    //     "zhuyin": "",
+    //     "pinyin": "xīnniáng",
+    //     "level": "HSK4",
+    //     "english": "Bride"
+    // },
+    // "宝": {
+    //     "zhuyin": "",
+    //     "pinyin": "bǎo",
+    //     "level": "HSK4",
+    //     "english": "treasure; precious; treasured"
+    // },
+    // "稳定": {
+    //     "zhuyin": "",
+    //     "pinyin": "wěndìng",
+    //     "level": "HSK4",
+    //     "english": "Stable"
+    // },
+    // "实施": {
+    //     "zhuyin": "",
+    //     "pinyin": "shíshī",
+    //     "level": "HSK4",
+    //     "english": "Implementation"
+    // },
+    // "供应": {
+    //     "zhuyin": "",
+    //     "pinyin": "gōng yìng",
+    //     "level": "HSK4",
+    //     "english": "supply; provide"
+    // },
+    // "袜子": {
+    //     "zhuyin": "",
+    //     "pinyin": "wàzi",
+    //     "level": "HSK4",
+    //     "english": "Socks"
+    // },
+    // "大妈": {
+    //     "zhuyin": "",
+    //     "pinyin": "dà mā",
+    //     "level": "HSK4",
+    //     "english": "aunt; father’s elder brother’s wife"
+    // },
+    // "陆地": {
+    //     "zhuyin": "",
+    //     "pinyin": "lùdì",
+    //     "level": "HSK4",
+    //     "english": "land"
+    // },
+    // "独立": {
+    //     "zhuyin": "",
+    //     "pinyin": "dúlì",
+    //     "level": "HSK4",
+    //     "english": "Independent"
+    // },
+    // "轮船": {
+    //     "zhuyin": "",
+    //     "pinyin": "lúnchuán",
+    //     "level": "HSK4",
+    //     "english": "Ship"
+    // },
+    // "紧密": {
+    //     "zhuyin": "",
+    //     "pinyin": "jǐn mì",
+    //     "level": "HSK4",
+    //     "english": "close; inseparable"
+    // },
+    // "召开": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhàokāi",
+    //     "level": "HSK4",
+    //     "english": "convene"
+    // },
+    // "无所谓": {
+    //     "zhuyin": "",
+    //     "pinyin": "wúsuǒwèi",
+    //     "level": "HSK4",
+    //     "english": "cannot be designated as"
+    // },
+    // "定": {
+    //     "zhuyin": "",
+    //     "pinyin": "dìng",
+    //     "level": "HSK4",
+    //     "english": "decide; fix; book; order; calm; stable"
+    // },
+    // "历史": {
+    //     "zhuyin": "",
+    //     "pinyin": "lìshǐ",
+    //     "level": "HSK4",
+    //     "english": "History"
+    // },
+    // "平静": {
+    //     "zhuyin": "",
+    //     "pinyin": "píngjìng",
+    //     "level": "HSK4",
+    //     "english": "calm"
+    // },
+    // "微笑": {
+    //     "zhuyin": "",
+    //     "pinyin": "wēixiào",
+    //     "level": "HSK4",
+    //     "english": "Smile"
+    // },
+    // "出席": {
+    //     "zhuyin": "",
+    //     "pinyin": "chūxí",
+    //     "level": "HSK4",
+    //     "english": "Attend"
+    // },
+    // "老实": {
+    //     "zhuyin": "",
+    //     "pinyin": "lǎoshi",
+    //     "level": "HSK4",
+    //     "english": "honest"
+    // },
+    // "汇率": {
+    //     "zhuyin": "",
+    //     "pinyin": "huìlǜ",
+    //     "level": "HSK4",
+    //     "english": "exchange rate"
+    // },
+    // "或许": {
+    //     "zhuyin": "",
+    //     "pinyin": "huòxǔ",
+    //     "level": "HSK4",
+    //     "english": "maybe; probably"
+    // },
+    // "兴奋": {
+    //     "zhuyin": "",
+    //     "pinyin": "xīngfèn",
+    //     "level": "HSK4",
+    //     "english": "Excitement"
+    // },
+    // "离不开": {
+    //     "zhuyin": "",
+    //     "pinyin": "lí bù kāi",
+    //     "level": "HSK4",
+    //     "english": "can’t do without"
+    // },
+    // "利息": {
+    //     "zhuyin": "",
+    //     "pinyin": "lìxī",
+    //     "level": "HSK4",
+    //     "english": "accrual; interest"
+    // },
+    // "笨": {
+    //     "zhuyin": "",
+    //     "pinyin": "bèn",
+    //     "level": "HSK4",
+    //     "english": "stupid"
+    // },
+    // "宁静": {
+    //     "zhuyin": "",
+    //     "pinyin": "níng jìng",
+    //     "level": "HSK4",
+    //     "english": "peaceful; tranquil; quiet"
+    // },
+    // "质量": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhìliàng",
+    //     "level": "HSK4",
+    //     "english": "quality"
+    // },
+    // "公元": {
+    //     "zhuyin": "",
+    //     "pinyin": "gōngyuán",
+    //     "level": "HSK4",
+    //     "english": "A.D."
+    // },
+    // "实用": {
+    //     "zhuyin": "",
+    //     "pinyin": "shíyòng",
+    //     "level": "HSK4",
+    //     "english": "Practical"
+    // },
+    // "袋": {
+    //     "zhuyin": "",
+    //     "pinyin": "dài",
+    //     "level": "HSK4",
+    //     "english": "bag; sack; pocket; pouch"
+    // },
+    // "圈": {
+    //     "zhuyin": "",
+    //     "pinyin": "quān",
+    //     "level": "HSK4",
+    //     "english": "circle"
+    // },
+    // "而是": {
+    //     "zhuyin": "",
+    //     "pinyin": "ér shì",
+    //     "level": "HSK4",
+    //     "english": "but"
+    // },
+    // "转弯": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuǎn wān",
+    //     "level": "HSK4",
+    //     "english": "make a turn; turn a corner"
+    // },
+    // "学年": {
+    //     "zhuyin": "",
+    //     "pinyin": "xué nián",
+    //     "level": "HSK4",
+    //     "english": "school year; academic year"
+    // },
+    // "处于": {
+    //     "zhuyin": "",
+    //     "pinyin": "chǔ yú",
+    //     "level": "HSK4",
+    //     "english": "be in; be (in a certain condition)"
+    // },
+    // "总共": {
+    //     "zhuyin": "",
+    //     "pinyin": "zǒnggòng",
+    //     "level": "HSK4",
+    //     "english": "In total"
+    // },
+    // "无限": {
+    //     "zhuyin": "",
+    //     "pinyin": "wú xiàn",
+    //     "level": "HSK4",
+    //     "english": "infinite; limitless; unlimited"
+    // },
+    // "推销": {
+    //     "zhuyin": "",
+    //     "pinyin": "tuīxiāo",
+    //     "level": "HSK4",
+    //     "english": "promote sales"
+    // },
+    // "招呼": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhāo hu",
+    //     "level": "HSK4",
+    //     "english": "call; hail; greet; glad-hand"
+    // },
+    // "丈夫": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhàngfu",
+    //     "level": "HSK4",
+    //     "english": "husband"
+    // },
+    // "单": {
+    //     "zhuyin": "",
+    //     "pinyin": "dān",
+    //     "level": "HSK4",
+    //     "english": "single; odd; unlined; thin; weak; only; alone"
+    // },
+    // "语法": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǔfǎ",
+    //     "level": "HSK4",
+    //     "english": "grammar"
+    // },
+    // "投诉": {
+    //     "zhuyin": "",
+    //     "pinyin": "tóusù",
+    //     "level": "HSK4",
+    //     "english": "complaint"
+    // },
+    // "使劲": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǐ jìn",
+    //     "level": "HSK4",
+    //     "english": "exert all one’s strength; put in energy"
+    // },
+    // "巨大": {
+    //     "zhuyin": "",
+    //     "pinyin": "jùdà",
+    //     "level": "HSK4",
+    //     "english": "huge"
+    // },
+    // "附近": {
+    //     "zhuyin": "",
+    //     "pinyin": "fùjìn",
+    //     "level": "HSK4",
+    //     "english": "nearby"
+    // },
+    // "底": {
+    //     "zhuyin": "",
+    //     "pinyin": "dǐ",
+    //     "level": "HSK4",
+    //     "english": "bottom"
+    // },
+    // "引起": {
+    //     "zhuyin": "",
+    //     "pinyin": "yǐnqǐ",
+    //     "level": "HSK4",
+    //     "english": "cause"
+    // },
+    // "季": {
+    //     "zhuyin": "",
+    //     "pinyin": "jì",
+    //     "level": "HSK4",
+    //     "english": "season; period"
+    // },
+    // "着急": {
+    //     "zhuyin": "",
+    //     "pinyin": "zháojí",
+    //     "level": "HSK4",
+    //     "english": "Worry"
+    // },
+    // "盘子": {
+    //     "zhuyin": "",
+    //     "pinyin": "pánzi",
+    //     "level": "HSK4",
+    //     "english": "plate"
+    // },
+    // "移民": {
+    //     "zhuyin": "",
+    //     "pinyin": "yímín",
+    //     "level": "HSK4",
+    //     "english": "immigrant"
+    // },
+    // "加入": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiā rù",
+    //     "level": "HSK4",
+    //     "english": "add; mix; join; become a member"
+    // },
+    // "率先": {
+    //     "zhuyin": "",
+    //     "pinyin": "shuài xiān",
+    //     "level": "HSK4",
+    //     "english": "lead; take the lead"
+    // },
+    // "汽水": {
+    //     "zhuyin": "",
+    //     "pinyin": "qì shuǐ",
+    //     "level": "HSK4",
+    //     "english": "soda; soda water; aerated water; sparkling water"
+    // },
+    // "缩短": {
+    //     "zhuyin": "",
+    //     "pinyin": "suōduǎn",
+    //     "level": "HSK4",
+    //     "english": "Shorten"
+    // },
+    // "多次": {
+    //     "zhuyin": "",
+    //     "pinyin": "duō cì",
+    //     "level": "HSK4",
+    //     "english": "repeatedly; many a time"
+    // },
+    // "设施": {
+    //     "zhuyin": "",
+    //     "pinyin": "shèshī",
+    //     "level": "HSK4",
+    //     "english": "facilities"
+    // },
+    // "诗人": {
+    //     "zhuyin": "",
+    //     "pinyin": "shī rén",
+    //     "level": "HSK4",
+    //     "english": "poet"
+    // },
+    // "尺": {
+    //     "zhuyin": "",
+    //     "pinyin": "chǐ",
+    //     "level": "HSK4",
+    //     "english": "rule; ruler"
+    // },
+    // "粮食": {
+    //     "zhuyin": "",
+    //     "pinyin": "liángshi",
+    //     "level": "HSK4",
+    //     "english": "foodstuff"
+    // },
+    // "对比": {
+    //     "zhuyin": "",
+    //     "pinyin": "duìbǐ",
+    //     "level": "HSK4",
+    //     "english": "Contrast"
+    // },
+    // "方": {
+    //     "zhuyin": "",
+    //     "pinyin": "fāng",
+    //     "level": "HSK4",
+    //     "english": "square"
+    // },
+    // "想念": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiǎngniàn",
+    //     "level": "HSK4",
+    //     "english": "miss"
+    // },
+    // "电动车": {
+    //     "zhuyin": "",
+    //     "pinyin": "diàn dòng chē",
+    //     "level": "HSK4",
+    //     "english": "electric car"
+    // },
+    // "怀疑": {
+    //     "zhuyin": "",
+    //     "pinyin": "huáiyí",
+    //     "level": "HSK4",
+    //     "english": "doubt"
+    // },
+    // "台上": {
+    //     "zhuyin": "",
+    //     "pinyin": "tái shàng",
+    //     "level": "HSK4",
+    //     "english": "on the stage"
+    // },
+    // "寄": {
+    //     "zhuyin": "",
+    //     "pinyin": "jì",
+    //     "level": "HSK4",
+    //     "english": "send"
+    // },
+    // "并": {
+    //     "zhuyin": "",
+    //     "pinyin": "bìng",
+    //     "level": "HSK4",
+    //     "english": "combine; merge; incorporate"
+    // },
+    // "前途": {
+    //     "zhuyin": "",
+    //     "pinyin": "qiántú",
+    //     "level": "HSK4",
+    //     "english": "future"
+    // },
+    // "别": {
+    //     "zhuyin": "",
+    //     "pinyin": "bié",
+    //     "level": "HSK4",
+    //     "english": "do not; leave; separate; pin"
+    // },
+    // "楼梯": {
+    //     "zhuyin": "",
+    //     "pinyin": "lóu tī",
+    //     "level": "HSK4",
+    //     "english": "stairs; staircase; stairway"
+    // },
+    // "牙": {
+    //     "zhuyin": "",
+    //     "pinyin": "yá",
+    //     "level": "HSK4",
+    //     "english": "tooth; ivory; tooth-like thing"
+    // },
+    // "好友": {
+    //     "zhuyin": "",
+    //     "pinyin": "hǎo yǒu",
+    //     "level": "HSK4",
+    //     "english": "friend"
+    // },
+    // "学分": {
+    //     "zhuyin": "",
+    //     "pinyin": "xué fēn",
+    //     "level": "HSK4",
+    //     "english": "credit; academic credit"
+    // },
+    // "厚": {
+    //     "zhuyin": "",
+    //     "pinyin": "hòu",
+    //     "level": "HSK4",
+    //     "english": "thick"
+    // },
+    // "赢得": {
+    //     "zhuyin": "",
+    //     "pinyin": "yíng dé",
+    //     "level": "HSK4",
+    //     "english": "gain; win"
+    // },
+    // "帽子": {
+    //     "zhuyin": "",
+    //     "pinyin": "màozi",
+    //     "level": "HSK4",
+    //     "english": "Hat"
+    // },
+    // "闹钟": {
+    //     "zhuyin": "",
+    //     "pinyin": "nào zhōng",
+    //     "level": "HSK4",
+    //     "english": "alarm clock"
+    // },
+    // "对于": {
+    //     "zhuyin": "",
+    //     "pinyin": "duìyú",
+    //     "level": "HSK4",
+    //     "english": "about"
+    // },
+    // "根据": {
+    //     "zhuyin": "",
+    //     "pinyin": "gēnjù",
+    //     "level": "HSK4",
+    //     "english": "according to"
+    // },
+    // "描写": {
+    //     "zhuyin": "",
+    //     "pinyin": "miáoxiě",
+    //     "level": "HSK4",
+    //     "english": "describe"
+    // },
+    // "暑假": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǔ jià",
+    //     "level": "HSK4",
+    //     "english": "summer vacation"
+    // },
+    // "转告": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuǎngào",
+    //     "level": "HSK4",
+    //     "english": "Tell"
+    // },
+    // "方案": {
+    //     "zhuyin": "",
+    //     "pinyin": "fāng’àn",
+    //     "level": "HSK4",
+    //     "english": "programme"
+    // },
+    // "隔": {
+    //     "zhuyin": "",
+    //     "pinyin": "gé",
+    //     "level": "HSK4",
+    //     "english": "partition; separate; divide"
+    // },
+    // "来源": {
+    //     "zhuyin": "",
+    //     "pinyin": "láiyuán",
+    //     "level": "HSK4",
+    //     "english": "source"
+    // },
+    // "说服": {
+    //     "zhuyin": "",
+    //     "pinyin": "shuōfú",
+    //     "level": "HSK4",
+    //     "english": "Persuade"
+    // },
+    // "鲜": {
+    //     "zhuyin": "",
+    //     "pinyin": "xiān",
+    //     "level": "HSK4",
+    //     "english": "fresh; bright; delicious; little; rare"
+    // },
+    // "资料": {
+    //     "zhuyin": "",
+    //     "pinyin": "zīliào",
+    //     "level": "HSK4",
+    //     "english": "data"
+    // },
+    // "后头": {
+    //     "zhuyin": "",
+    //     "pinyin": "hòu tou",
+    //     "level": "HSK4",
+    //     "english": "back"
+    // },
+    // "的确": {
+    //     "zhuyin": "",
+    //     "pinyin": "díquè",
+    //     "level": "HSK4",
+    //     "english": "indeed; be certain to"
+    // },
+    // "家务": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiāwù",
+    //     "level": "HSK4",
+    //     "english": "Housework"
+    // },
+    // "巧克力": {
+    //     "zhuyin": "",
+    //     "pinyin": "qiǎokèlì",
+    //     "level": "HSK4",
+    //     "english": "Chocolates"
+    // },
+    // "守": {
+    //     "zhuyin": "",
+    //     "pinyin": "shǒu",
+    //     "level": "HSK4",
+    //     "english": "guard; defend; observe"
+    // },
+    // "身材": {
+    //     "zhuyin": "",
+    //     "pinyin": "shēncái",
+    //     "level": "HSK4",
+    //     "english": "figure"
+    // },
+    // "弯": {
+    //     "zhuyin": "",
+    //     "pinyin": "wān",
+    //     "level": "HSK4",
+    //     "english": "curved; bend; turn; crooked"
+    // },
+    // "泪": {
+    //     "zhuyin": "",
+    //     "pinyin": "lèi",
+    //     "level": "HSK4",
+    //     "english": "tear; teardrop"
+    // },
+    // "角色": {
+    //     "zhuyin": "",
+    //     "pinyin": "juésè",
+    //     "level": "HSK4",
+    //     "english": "role"
+    // },
+    // "轮": {
+    //     "zhuyin": "",
+    //     "pinyin": "lún",
+    //     "level": "HSK4",
+    //     "english": "wheel; ring; take turns"
+    // },
+    // "神话": {
+    //     "zhuyin": "",
+    //     "pinyin": "shénhuà",
+    //     "level": "HSK4",
+    //     "english": "Myth"
+    // },
+    // "孙女": {
+    //     "zhuyin": "",
+    //     "pinyin": "sūn nǚ",
+    //     "level": "HSK4",
+    //     "english": "granddaughter"
+    // },
+    // "春季": {
+    //     "zhuyin": "",
+    //     "pinyin": "chūn jì",
+    //     "level": "HSK4",
+    //     "english": "spring; springtime"
+    // },
+    // "既": {
+    //     "zhuyin": "",
+    //     "pinyin": "jì",
+    //     "level": "HSK4",
+    //     "english": "already; since; as"
+    // },
+    // "承认": {
+    //     "zhuyin": "",
+    //     "pinyin": "chéngrèn",
+    //     "level": "HSK4",
+    //     "english": "Admit"
+    // },
+    // "获得": {
+    //     "zhuyin": "",
+    //     "pinyin": "huòdé",
+    //     "level": "HSK4",
+    //     "english": "Get"
+    // },
+    // "讲究": {
+    //     "zhuyin": "",
+    //     "pinyin": "jiǎngjiu",
+    //     "level": "HSK4",
+    //     "english": "Pay attention to, stress"
+    // },
+    // "抓紧": {
+    //     "zhuyin": "",
+    //     "pinyin": "zhuājǐn",
+    //     "level": "HSK4",
+    //     "english": "Pay close attention to; grasp"
+    // },
+    // "激烈": {
+    //     "zhuyin": "",
+    //     "pinyin": "jīliè",
+    //     "level": "HSK4",
+    //     "english": "fierce"
+    // },
+    // "伙": {
+    //     "zhuyin": "",
+    //     "pinyin": "huǒ",
+    //     "level": "HSK4",
+    //     "english": "partner; partnership"
+    // },
+    // "前头": {
+    //     "zhuyin": "",
+    //     "pinyin": "qián tou",
+    //     "level": "HSK4",
+    //     "english": "front; thereinbefore"
+    // },
+    // "称赞": {
+    //     "zhuyin": "",
+    //     "pinyin": "chēngzàn",
+    //     "level": "HSK4",
+    //     "english": "Praise"
+    // },
+    // "停下": {
+    //     "zhuyin": "",
+    //     "pinyin": "tíng xià",
+    //     "level": "HSK4",
+    //     "english": "stop"
+    // },
+    // "微信": {
+    //     "zhuyin": "",
+    //     "pinyin": "wēi xìn",
+    //     "level": "HSK4",
+    //     "english": "WeChat (a Chinese social app)"
+    // },
+    // "密码": {
+    //     "zhuyin": "",
+    //     "pinyin": "mìmǎ",
+    //     "level": "HSK4",
+    //     "english": "Password"
+    // },
+    // "形容": {
+    //     "zhuyin": "",
+    //     "pinyin": "xíngróng",
+    //     "level": "HSK4",
+    //     "english": "describe"
+    // }
+}
+
